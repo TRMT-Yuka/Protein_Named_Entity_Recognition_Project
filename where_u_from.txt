@@ -1,0 +1,3 @@
+Generative_Model
+https://github.com/duttaprat/PPI_Generative
+論文内にあったgitの著者リポジトリより
