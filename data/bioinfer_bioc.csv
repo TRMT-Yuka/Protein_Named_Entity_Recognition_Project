@@ -1,0 +1,12 @@
+BioInfer_d125,"Calculated solution molecular masses are 213 kDa for alpha-catenin, 73 kDa for beta-catenin, and 186 kDa for both.",T1,T2,alpha-catenin,beta-catenin,FALSE
+BioInfer_d682,"The recombinant material is similar to authentic profilin from Acanthamoeba-based on fluorescence monitored urea denaturation, circular dichroism, actin-nucleotide exchange rate and the Kd for rabbit skeletal actin.",T1,T3,skeletal actin,profilin,TRUE
+BioInfer_d682,"The recombinant material is similar to authentic profilin from Acanthamoeba-based on fluorescence monitored urea denaturation, circular dichroism, actin-nucleotide exchange rate and the Kd for rabbit skeletal actin.",T1,T2,skeletal actin,actin,FALSE
+BioInfer_d682,"The recombinant material is similar to authentic profilin from Acanthamoeba-based on fluorescence monitored urea denaturation, circular dichroism, actin-nucleotide exchange rate and the Kd for rabbit skeletal actin.",T3,T2,profilin,actin,FALSE
+BioInfer_d544,Smooth muscle alpha actin and myosin heavy chain expression in the vascular smooth muscle cells surrounding human endometrial arterioles.,T1,T2,Smooth muscle alpha actin,Smooth muscle,FALSE
+BioInfer_d595,The common denominator is impaired beta-catenin association with either E-cadherin (PaTuII) or alpha-catenin (BxPc3 and T3M4).,T1,T3,beta-catenin,alpha-catenin,TRUE
+BioInfer_d595,The common denominator is impaired beta-catenin association with either E-cadherin (PaTuII) or alpha-catenin (BxPc3 and T3M4).,T1,T2,beta-catenin,E-cadherin,TRUE
+BioInfer_d595,The common denominator is impaired beta-catenin association with either E-cadherin (PaTuII) or alpha-catenin (BxPc3 and T3M4).,T3,T2,alpha-catenin,E-cadherin,FALSE
+BioInfer_d232,"Genetic dissection of Drosophila myofibril formation: effects of actin and myosin heavy chain null alleles.
+We find that heterozygotes for actin (Act88F) or myosin heavy chain (Mhc36B) null alleles have complex myofibrillar defects, whereas Mhc36B-/+; Act88F-/+ double heterozygotes have nearly normal myofibrils.",T6,T7,Act88F,actin,FALSE
+BioInfer_d232,"Genetic dissection of Drosophila myofibril formation: effects of actin and myosin heavy chain null alleles.
+We find that heterozygotes for actin (Act88F) or myosin heavy chain (Mhc36B) null alleles have complex myofibrillar defects, whereas Mhc36B-/+; Act88F-/+ double heterozygotes have nearly normal myofibrils.",T6,T4,Act88F,Mhc36B,FALSE
