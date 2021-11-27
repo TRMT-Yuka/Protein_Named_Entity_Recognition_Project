@@ -1,0 +1,28 @@
+【Ratio of T to F】
+TRUE:FALES = 335 : 3908
+7.895357058684893% : 92.1046429413151%
+
+
+【Proteins for each label】
+T2:{'uncoupling protein-3', 'cholesterol', 'alpha-amylase', 'PIPLC', 'flavonoid', 'oxytocin', 'insulin', 'uncoupling proteins 2', 'PLCgamma', 'inositol phosphates', 'PLC', 'gibberellin', 'UCP3', 'UCP2', 'PKC', 'prion protein', 'A beta', 'NPY', 'inositol phosphate', 'GA', 'inositol 1,4,5-trisphosphate', 'protein kinase CK2', 'inositol (1,4,5)-trisphosphate', 'uncoupling proteins', 'APP', 'gibberellic acid', 'flavones', 'phospholipase(s) C', 'uncoupling protein 3', 'Neuropeptide Y', 'phospholipases', 'Osamy-c', 'protein kinase C', 'tyrosine kinase', 'tyrosine kinase Fyn', 'vasopressin', 'OT', 'AVP', 'Abeta40', 'amylase', 'inositol-1,4,5-trisphosphate', 'PI-PLC', 'uncoupling protein-2', 'recombinant bovine PrP', 'protein kinase Calpha', 'phospholipase Cgamma1', 'UCP', '(pro)insulin', 'leptin', 'uncoupling protein', 'neuropeptide Y', 'UCP-1', 'phospholipase C', 'IP3', 'PrPc', 'phospholipase Cgamma'}
+T12:{'UCPs', 'oxytocin', 'insulin', 'NPY', 'GPI-PLC', 'PLC', 'UCP-3', 'leptin', 'OT', 'phospholipase C', 'UCP3', 'PKC'}
+T11:{'UCP-2', 'oxytocin', 'insulin', 'PKCalpha', 'IPs', 'AVP', 'UCP', 'UCP-3', 'leptin', 'protein kinase', 'UCP-1', 'phospholipase C', 'UCP2', 'PKC'}
+T7:{'alpha-amylase', 'cholesterol', 'bPrP', 'oxytocin', 'insulin', 'PLCgamma', 'PLC', 'UCP-2', 'NPY', 'GA', 'uncoupling proteins', 'Leptin', 'UCP-3', 'protein kinase A', 'GPI-PLC', 'OT', 'IP1', 'AVP', 'Abeta', 'PKC-alpha', 'PI-PLC', 'A beta P', 'phospholipase Cgamma1', 'Oxy', 'UCP', 'leptin', 'A(beta)', 'UCP-1', 'IP3', 'Insulin', 'Amyloid'}
+T8:{'alpha-amylase', 'oxytocin', 'insulin', 'PLC', 'UCP3', 'PIP2-PLC', 'UCP2', 'PKC', 'UCP1', 'UCPs', 'UCP-2', 'NPY', 'GA', 'Leptin', 'uncoupling proteins', 'UCP-3', 'Osamy-c', 'OT', 'AVP', 'PI-PLC', 'ucp', 'leptin', 'CK2', 'UCP-1', 'phospholipase C', 'IP3'}
+T22:{'insulin'}
+T15:{'UCPs', 'insulin', 'inositol phosphates', 'leptin', 'UCP3', 'IP3'}
+T14:{'UCP-2', 'oxytocin', 'insulin', 'Oxy', 'NPY', 'GPI-PLC', 'OT', 'UCP-3', 'leptin', 'UCP1'}
+T3:{'alpha-amylase', 'Abeta 25-35', 'oxytocin', 'insulin', 'uncoupling protein-1', 'PLC', 'gibberellin', 'amyloid', 'UCP3', 'UCP2', 'PKC', 'prion protein', 'A beta', 'UCP-2', 'NPY', 'inositol phosphate', 'GA', 'GA3', 'Leptin', 'isoflavones', '3', 'inositol trisphosphate', 'protein kinase C', 'OT', 'Abeta42', 'N1', 'AVP', 'glycosyl-phosphatidylinositol-specific phospholipase C', 'AbetaP', 'alpha-Amy2', 'phospholipase C (PLC)gamma', 'A beta P', 'phospholipase Cgamma1', 'leptin', 'CK2', 'uncoupling protein', 'neuropeptide Y', 'phospholipase C', 'bovine prion protein', 'IP3', 'Insulin', 'phospholipase Cgamma'}
+T19:{'Oxy', 'UCP', 'OT'}
+T18:{'Oxy', 'IPs', 'leptin'}
+T21:{'Oxy'}
+T6:{'alpha-amylase', 'cholesterol', 'oxytocin', 'insulin', 'PKCalpha', 'PLCgamma', 'PLC', 'amyloid', 'UCP3', 'PIP2-PLC', 'PKC', 'UCP-2', 'NPY', 'inositol phosphate', 'GA', 'UCP-3', 'Osamy-c', 'protein kinase C', 'GPI-PLC', 'OT', 'Abeta42', 'IP1', 'AVP', 'PI-PLC', 'protein kinase Calpha', 'UCP', 'leptin', 'CK2', 'inositol 1, 4, 5-triphosphate', 'UCP-1', 'phospholipase C', 'IP3'}
+T10:{'alpha-amylase', 'Oxytocin', 'NPY', 'insulin', 'oxytocin', 'PKC-epsilon', 'OT', 'leptin', 'UCP-3', 'amyloid', 'CK2', 'AVP', 'UCP3', 'PIP2-PLC', 'phospholipase C', 'UCP1'}
+T9:{'alpha-amylase', 'oxytocin', 'insulin', 'PLCgamma', 'PKCalpha', 'A(beta) (1-40)', 'PLC', 'inositol phosphates', 'amyloid', 'UCP3', 'UCP2', 'UCP1', 'A beta', 'NPY', 'GA', 'UCP-3', 'protein kinase C', 'GPI-PLC', 'OT', 'AVP', 'PKC-alpha', 'Oxy', 'UCP', 'leptin', 'PrP'}
+T1:{'alpha-amylase', 'cholesterol', 'Oxytocin', 'flavonoid', 'oxytocin', 'insulin', 'protein kinases', 'PLC', 'Vasopressin', 'gibberellin', 'Phospholipase C', 'amyloid', 'PrPsc', 'UCP3', 'UCP2', 'PKC', 'UCP1', 'neuropeptide-Y', 'prion protein', 'UCP-2', 'A beta', 'inositol phosphate', 'NPY', 'beta-amyloid', 'GA', 'GA3', 'Uncoupling protein-3', 'Leptin', 'gibberellic acid', 'flavonols', 'PrPc', 'prion', 'arginine vasopressin', 'flavonoids', 'arginine-vasopressin', 'inositol trisphosphate', 'Bovine prion protein', 'Protein kinase C', 'protein kinase C', 'alpha-Amy2/A', 'vasopressin', 'OT', 'APP-S', 'N1', 'AVP', 'Inositol 1,4,5-trisphosphate', 'phospholipase C-gamma', 'PI-PLC', 'flavanone', 'uncoupling protein 2', 'UCP', 'leptin', 'neuropeptide Y', 'Arginine vasopressin', 'APP', 'phospholipase C', 'cholesteryl ester', 'IP3', 'Insulin', 'Amyloid'}
+T13:{'A beta P', 'oxytocin', 'insulin', 'inositol phosphate', 'IPs', 'PLC', 'leptin', 'AVP', 'UCP2'}
+T17:{'UCP-3', 'IP3', 'insulin'}
+T5:{'alpha-amylase', 'Abeta 25-35', 'bPrP', 'oxytocin', 'insulin', 'PLCdelta1', 'PLC', 'gibberellin', 'UCP2', 'PKC', 'A beta', 'UCP-2', 'PKC inhibitors', 'NPY', 'GA', 'Leptin', 'rbPrP', 'flavonoids', 'kinase', 'protein kinase C', 'OT', 'uncoupling protein (UCP)-2', 'IP', 'AVP', 'Abeta40', 'PrP(c)', 'A beta P', 'Oxy', 'ucp', 'leptin', 'uncoupling protein', 'A(beta)', 'UCP-1', 'phospholipase C'}
+T16:{'Oxy', 'UCP-2', 'OT'}
+T4:{'uncoupling protein-3', 'alpha-amylase', 'cholesterol', 'oxytocin', 'insulin', 'PLCgamma', 'PLC', 'inositol phosphates', 'gibberellin', 'amyloid', 'UCP3', 'UCP2', 'PKC', 'UCP1', 'prion protein', 'UCP-2', 'NPY', 'GA', 'protein kinase CK2', 'inositol 1,4,5-trisphosphate', 'Leptin', 'uncoupling proteins', 'rbPrP', 'phospholipases C', 'protein kinase A', 'protein kinase C', 'phospholipase Cbeta1', 'OT', 'IP', 'AVP', 'PI-PLC', 'uncoupling protein-2', 'protein kinase Calpha', 'phospholipase Cgamma1', 'sAPP695', 'UCP', 'leptin', 'uncoupling protein', 'neuropeptide Y', 'gibberellin A3', 'protein kinase', 'UCP-1', 'phospholipase C', 'IP3'}
+T20:{'leptin', 'insulin'}
