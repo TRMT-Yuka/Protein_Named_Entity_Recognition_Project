@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 413.27167, "hits": [{"_id": "56530038", "_score": 413.27167, "entrezgene": "56530038", "name": "type III secretion system regulator BprP", "symbol": "bprP", "taxid": 28450}, {"_id": "56597898", "_score": 413.27167, "entrezgene": "56597898", "name": "type III secretion system regulator BprP", "symbol": "bprP", "taxid": 13373}]}

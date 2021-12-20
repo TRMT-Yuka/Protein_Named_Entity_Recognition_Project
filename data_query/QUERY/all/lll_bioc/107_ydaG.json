@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 413.27167, "hits": [{"_id": "939958", "_score": 413.27167, "entrezgene": "939958", "name": "putative general stress protein", "symbol": "ydaG", "taxid": 224308}, {"_id": "945907", "_score": 413.27167, "entrezgene": "945907", "name": "Rac prophage; uncharacterized protein YdaG", "symbol": "ydaG", "taxid": 511145}]}

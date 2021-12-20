@@ -1,0 +1,1 @@
+{"took": 10, "total": 2, "max_score": 49.1989, "hits": [{"_id": "31635424", "_score": 49.1989, "entrezgene": "31635424", "name": "thiamine pyrophosphate-containing protein YdaP", "symbol": "AL529_RS09865", "taxid": 29388}, {"_id": "946976", "_score": 12.377382, "entrezgene": "946976", "name": "Rac prophage; putative integrase", "symbol": "intR", "taxid": 511145}]}

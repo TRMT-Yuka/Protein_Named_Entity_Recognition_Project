@@ -1,0 +1,1 @@
+{"took": 88, "total": 2, "max_score": 413.27167, "hits": [{"_id": "AT3G63530", "_score": 413.27167, "name": "BB2", "symbol": "BB", "taxid": 3702}, {"_id": "825528", "_score": 413.27167, "entrezgene": "825528", "name": "RING/U-box superfamily protein", "symbol": "BB", "taxid": 3702}]}

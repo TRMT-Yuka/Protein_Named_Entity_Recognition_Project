@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 2.7816439, "hits": [{"_id": "54576", "_score": 2.7816439, "entrezgene": "54576", "name": "UDP glucuronosyltransferase family 1 member A8", "symbol": "UGT1A8", "taxid": 9606}, {"_id": "54658", "_score": 2.062709, "entrezgene": "54658", "name": "UDP glucuronosyltransferase family 1 member A1", "symbol": "UGT1A1", "taxid": 9606}]}

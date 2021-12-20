@@ -1,0 +1,1 @@
+{"took": 3, "total": 1, "max_score": 9.272144, "hits": [{"_id": "948610", "_score": 9.272144, "entrezgene": "948610", "name": "tRNA Cm32/Um32 methyltransferase", "symbol": "trmJ", "taxid": 511145}]}

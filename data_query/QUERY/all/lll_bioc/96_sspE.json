@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 413.27167, "hits": [{"_id": "939716", "_score": 413.27167, "entrezgene": "939716", "name": "small acid-soluble spore protein (gamma-type SASP)", "symbol": "sspE", "taxid": 224308}, {"_id": "64302719", "_score": 413.27167, "entrezgene": "64302719", "name": "gamma type acid-soluble spore protein SspE", "symbol": "sspE", "taxid": 703612}]}

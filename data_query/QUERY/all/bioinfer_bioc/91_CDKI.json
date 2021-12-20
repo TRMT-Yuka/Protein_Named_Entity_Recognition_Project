@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 3.3566751, "hits": [{"_id": "12577", "_score": 3.3566751, "entrezgene": "12577", "name": "cyclin-dependent kinase inhibitor 1C (P57)", "symbol": "Cdkn1c", "taxid": 10090}, {"_id": "12575", "_score": 1.1404853, "entrezgene": "12575", "name": "cyclin-dependent kinase inhibitor 1A (P21)", "symbol": "Cdkn1a", "taxid": 10090}]}

@@ -1,0 +1,1 @@
+{"took": 33, "total": 2, "max_score": 12.518393, "hits": [{"_id": "6360", "_score": 12.518393, "entrezgene": "6360", "name": "C-C motif chemokine ligand 16", "symbol": "CCL16", "taxid": 9606}, {"_id": "10663", "_score": 8.469875, "entrezgene": "10663", "name": "C-X-C motif chemokine receptor 6", "symbol": "CXCR6", "taxid": 9606}]}

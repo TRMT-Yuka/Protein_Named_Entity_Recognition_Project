@@ -1,0 +1,1 @@
+{"took": 2, "total": 1, "max_score": 67.902336, "hits": [{"_id": "3", "_score": 67.902336, "entrezgene": "3", "name": "alpha-2-macroglobulin pseudogene 1", "symbol": "A2MP1", "taxid": 9606}]}

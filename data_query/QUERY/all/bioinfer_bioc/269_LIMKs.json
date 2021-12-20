@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 3.5563424, "hits": [{"_id": "10420", "_score": 3.5563424, "entrezgene": "10420", "name": "testis associated actin remodelling kinase 2", "symbol": "TESK2", "taxid": 9606}, {"_id": "7016", "_score": 3.0471516, "entrezgene": "7016", "name": "testis associated actin remodelling kinase 1", "symbol": "TESK1", "taxid": 9606}]}

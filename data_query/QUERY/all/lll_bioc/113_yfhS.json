@@ -1,0 +1,1 @@
+{"took": 3, "total": 2, "max_score": 426.04236, "hits": [{"_id": "936193", "_score": 426.04236, "entrezgene": "936193", "name": "conserved protein related to sporulation", "symbol": "yfhS", "taxid": 224308}, {"_id": "947007", "_score": 10.420408, "entrezgene": "947007", "name": "putative 3-phenylpropionate transporter", "symbol": "hcaT", "taxid": 511145}]}

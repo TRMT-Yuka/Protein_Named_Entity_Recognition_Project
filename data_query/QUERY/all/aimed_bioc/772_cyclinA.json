@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 11.512548, "hits": [{"_id": "101835930", "_score": 11.512548, "entrezgene": "101835930", "name": "cyclin A2", "symbol": "Ccna2", "taxid": 10036}, {"_id": "39340", "_score": 1.0574684, "entrezgene": "39340", "name": "Cyclin A", "symbol": "CycA", "taxid": 7227}]}

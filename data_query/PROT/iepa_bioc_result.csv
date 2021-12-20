@@ -1,0 +1,130 @@
+protein,appearances,hits,max_score_hits
+3,11,1,1
+A beta,30,23648,1
+A beta P,48,719,1
+A(beta),18,23272,10
+A(beta) (1-40),9,20,1
+APP,4,888,1
+APP-S,2,-1,0
+AVP,290,254,1
+Abeta,7,-1,0
+Abeta 25-35,14,0,0
+Abeta40,12,0,0
+Abeta42,12,0,0
+AbetaP,3,0,0
+Amyloid,42,10772,3
+Arginine vasopressin,5,2200,1
+Bovine prion protein,10,0,0
+CK2,34,229,8
+GA,108,2481,1
+GA3,4,8,3
+GPI-PLC,70,0,0
+IP,12,482,1
+IP1,28,3,1
+IP3,198,419,2
+IPs,68,82,2
+"Inositol 1,4,5-trisphosphate",1,6159,4
+Insulin,56,26396,1
+Leptin,134,2525,1
+N1,12,7095,1
+NPY,343,551,1
+Neuropeptide Y,14,4455,10
+OT,302,59,1
+Osamy-c,21,0,0
+Oxy,168,27,1
+Oxytocin,43,1143,1
+PI-PLC,64,3456,3
+PIP2-PLC,36,10,1
+PIPLC,1,4,1
+PKC,154,306,5
+PKC inhibitors,12,6,5
+PKC-alpha,24,115,4
+PKC-epsilon,12,44,1
+PKCalpha,30,4,1
+PLC,310,4725,10
+PLCdelta1,4,0,0
+PLCgamma,43,1,1
+Phospholipase C,1,12829,10
+PrP,10,542,4
+PrP(c),6,17,1
+PrPc,4,290,10
+PrPsc,3,1,1
+Protein kinase C,4,21911,10
+UCP,124,52,2
+UCP-1,75,22,1
+UCP-2,154,9,1
+UCP-3,169,11,1
+UCP1,61,371,1
+UCP2,125,328,1
+UCP3,132,295,1
+UCPs,39,4,1
+Uncoupling protein-3,3,632,1
+Vasopressin,10,2917,1
+alpha-Amy2,3,28,1
+alpha-Amy2/A,3,-1,0
+alpha-amylase,138,5401,10
+amylase,2,7625,2
+amyloid,81,10772,3
+arginine vasopressin,13,2200,1
+arginine-vasopressin,3,2200,1
+bPrP,20,2,2
+beta-amyloid,4,7491,10
+bovine prion protein,10,0,0
+cholesterol,25,9861,3
+cholesteryl ester,1,1373,1
+flavanone,1,1770,10
+flavones,6,2,1
+flavonoid,6,2812,4
+flavonoids,7,3,1
+flavonols,6,0,0
+gibberellic acid,8,126,2
+gibberellin,56,7471,10
+gibberellin A3,9,5,4
+glycosyl-phosphatidylinositol-specific phospholipase C,14,39,10
+"inositol (1,4,5)-trisphosphate",5,5647,4
+"inositol 1, 4, 5-triphosphate",21,3,1
+"inositol 1,4,5-trisphosphate",23,6159,4
+inositol phosphate,52,3283,10
+inositol phosphates,67,1,1
+inositol trisphosphate,31,9501,3
+"inositol-1,4,5-trisphosphate",3,6159,4
+insulin,1213,26396,1
+isoflavones,6,1,1
+kinase,4,1003122,5
+leptin,1287,2525,1
+neuropeptide Y,124,4455,10
+neuropeptide-Y,3,4444,1
+oxytocin,540,1143,1
+phospholipase C,314,12829,10
+phospholipase C (PLC)gamma,8,54,10
+phospholipase C-gamma,6,1063,2
+phospholipase Cbeta1,4,0,0
+phospholipase Cgamma,10,1,1
+phospholipase Cgamma1,24,0,0
+phospholipase(s) C,9,53,10
+phospholipases,12,10,7
+phospholipases C,13,39,10
+prion,1,1851,1
+prion protein,19,1827,1
+protein kinase,13,615707,9
+protein kinase A,12,24017,1
+protein kinase C,147,21911,10
+protein kinase CK2,20,181,4
+protein kinase Calpha,15,1,1
+protein kinases,4,3290,1
+rbPrP,8,0,0
+recombinant bovine PrP,4,4,4
+sAPP695,3,0,0
+tyrosine kinase,1,61632,4
+tyrosine kinase Fyn,1,1169,1
+ucp,14,52,2
+uncoupling protein,105,4113,3
+uncoupling protein (UCP)-2,11,30,1
+uncoupling protein 2,8,2317,10
+uncoupling protein 3,8,1659,10
+uncoupling protein-1,6,894,1
+uncoupling protein-2,15,1296,1
+uncoupling protein-3,26,632,1
+uncoupling proteins,76,966,1
+uncoupling proteins 2,11,1153,10
+vasopressin,17,2917,1

@@ -1,0 +1,1 @@
+{"took": 38, "total": 2, "max_score": 2.8451862, "hits": [{"_id": "38983", "_score": 2.8451862, "entrezgene": "38983", "name": "Ribosomal protein L14", "symbol": "RpL14", "taxid": 7227}, {"_id": "38397", "_score": 2.4884892, "entrezgene": "38397", "name": "Ribosomal protein L28", "symbol": "RpL28", "taxid": 7227}]}

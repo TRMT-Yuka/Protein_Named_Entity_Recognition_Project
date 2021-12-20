@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 2.7816439, "hits": [{"_id": "103910", "_score": 2.7816439, "entrezgene": "103910", "name": "myosin light chain 12B", "symbol": "MYL12B", "taxid": 9606}, {"_id": "800", "_score": 2.5586908, "entrezgene": "800", "name": "caldesmon 1", "symbol": "CALD1", "taxid": 9606}]}

@@ -1,0 +1,1 @@
+{"took": 14, "total": 2, "max_score": 4.4799724, "hits": [{"_id": "209456", "_score": 4.4799724, "entrezgene": "209456", "name": "transformation related protein 53 binding protein 2", "symbol": "Trp53bp2", "taxid": 10090}, {"_id": "7159", "_score": 2.5586908, "entrezgene": "7159", "name": "tumor protein p53 binding protein 2", "symbol": "TP53BP2", "taxid": 9606}]}

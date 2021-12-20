@@ -1,0 +1,1 @@
+{"took": 9, "total": 2, "max_score": 426.04236, "hits": [{"_id": "26122881", "_score": 426.04236, "entrezgene": "26122881", "name": "alpha1 protein", "symbol": "alpha1", "taxid": 1272960}, {"_id": "20648", "_score": 11.699016, "entrezgene": "20648", "name": "syntrophin, acidic 1", "symbol": "Snta1", "taxid": 10090}]}

@@ -1,0 +1,1138 @@
+protein,appearances,hits,max_score_hits
+.CDC37,18,1670,10
+120-kDa phosphoprotein,55,0,0
+14-3-3 beta,11,1413,1
+14-3-3 zeta,65,1710,2
+5 E1B,46,1040,10
+53BP2,90
+56Lyn,64
+80K-H,150
+87K postsynaptic protein,19
+A beta,209
+A kinase anchoring protein,15
+AADC,85
+ABL-SH3,25
+ABP-280,13
+ADA,351
+ADA-1,17
+AKAP75,182
+AKAP79,75
+AP-1,54
+AP1,66
+APO-1,38
+AT mutated,13
+ATF,60
+ATM,78
+Abeta,360
+Abeta peptide,12
+ActR-II,17
+ActRII,95
+Activin A,6
+Apo-1,19
+B beta chain of fibrinogen,22
+B cell activation protein,5
+B-50,20
+B42,75
+B61,70
+BAG,16
+BAG-1,96
+BB isoform of human recombinant platelet-derived growth factor,2
+BDNF,144
+BMP receptor IA,11
+BMP receptor IA extracellular domain,11
+BMP receptor type IB,11
+BMP type II receptor,38
+BMP-2,283
+BMP-4,20
+BMP-6,6
+BMP-7,42
+BMPR-IA,34
+BMPR-II,121
+BMPRIB,22
+BR-I,24
+BR-II,144
+BR-Ia,120
+BR-Ib,120
+BRIA,11
+BRIAec,11
+Bax,180
+Bcl-2,871
+Bcl-2-binding protein,32
+Bcl-X,36
+Bcl-X-L,144
+Bcl-X-S,144
+Bcl-x(L),7
+Bcl-xL,35
+Blimp-1,16
+Bone morphogenetic protein-2,17
+Bp50,5
+C3,80
+C4,80
+C5,10
+C8,60
+C9,40
+CAP-60,78
+CBP,175
+CC CKR1,84
+CC CKR3,126
+CC chemokine liver-expressed chemokine,27
+CC chemokine receptor 3,79
+CCG1,32
+CCKB,44
+CCKB G protein-coupled receptor,44
+CCKB receptor,44
+CCL16,76
+CCR-5,243
+CCR1,174
+CCR2,108
+CCR3,145
+CCR5,375
+CCR8,93
+CD14,5
+CD16,20
+CD26,341
+CD3,166
+CD30,351
+CD30 ligand,27
+CD30L,324
+CD34,14
+CD4,303
+CD40,33
+CD40 ligand,11
+CD44,18
+CD45,70
+CD5,711
+CD72,36
+CD8,13
+CD8alpha,27
+CD9,234
+CD95,57
+CD95 ligand,25
+CD95L,66
+CDC2,64
+CDC2-HS,16
+CDC28,50
+CDC37,126
+CDK2,197
+CDK4,198
+CDK6,150
+CIP1,102
+CNTF,27
+CNTFR alpha,18
+COX-2,72
+CREB,227
+CREB-binding protein,22
+CRP3,21
+CSA,30
+CSB,102
+CSB protein,10
+CTF,20
+CTF-1,18
+CTLA-4,27
+CXCR-4,27
+CXCR1,95
+CXCR2,76
+CXCR4,20
+CaM,100
+CaN,30
+CaR,36
+Calnexin,26
+Calreticulin,26
+Cdc2,15
+Cdc25,10
+Cdc25 phosphatase,30
+Cdi1,135
+Cdk2,224
+Cdk3,15
+Cdk4,57
+Cip1,21
+Cockayne syndrome group B (CSB) protein,24
+Col II,22
+Col III,22
+Crk,40
+Crk-L,27
+CrmA,24
+Cyclin E,32
+DAF-4,14
+DNA polymerase delta,20
+DP1,1
+DPC4,64
+DPI,44
+DRP,19
+DcR3,66
+Desmoplakin,11
+Duffy antigen,57
+Dystrophin,19
+E-cadherin,34
+E12,26
+E1A,73
+E1B,115
+E2A,39
+E2F,623
+E2F-1,249
+E2F1,1
+E2F4,123
+E47,58
+E7,16
+EBP,201
+EBP delta,21
+ECK,98
+ECK receptor protein-tyrosine kinase,28
+EGF,28
+EGFR,67
+EMP1,217
+EPO,609
+EPO binding protein,17
+EPO mimetic peptide,31
+EPO-binding protein,31
+EPO-mimetic peptide,31
+EPOR,237
+ER,41
+ET(A),42
+ET(A) receptor,14
+ET(B),42
+ET(B) receptor,28
+ET- I,14
+ET-1,28
+ET-3,28
+Elf-1,168
+Endothelin-1,33
+Eotaxin-3,116
+ErbB-1,36
+ErbB-2,9
+ErbB-3,36
+ErbB-4,9
+ErbB2,34
+ErbB3,68
+ErbB4,68
+Estrogen Receptor,41
+Ets,63
+F1,20
+FADD,212
+FD5,24
+FD8,24
+FGF-1,100
+FGF-2,104
+FGF-7,156
+FGF1,7
+FGF10,13
+FGF2,39
+FGF6,13
+FGF7,13
+FGF9,13
+FGFG3,50
+FGFR1,104
+FGFR2,111
+FGFR2 IIIb,26
+FGFR2b,13
+FGFR2c,13
+FGFR3,800
+FGFR3 IIIb,100
+FGFR3 IIIc,100
+FGFR4,26
+FKBP12,40
+FKBP12-rapamycin-associated protein,10
+FLICE,8
+FLT-1,196
+FRAP,40
+FXIII,68
+Fas,648
+Fas ligand,104
+FasL,227
+Flk-1,84
+Flk1,63
+Flt1,63
+Flt4,105
+Fos,116
+FosB,22
+Fra1,154
+Fra2,22
+G alpha beta gamma,26
+G alpha i2,104
+G beta 2,26
+G beta 2 subunit,26
+G beta gamma,156
+G cathepsin,13
+G-protein beta gamma,26
+GAP-334,56
+GAP-43,160
+GCH,85
+GFAp,24
+GITR,25
+GITR ligand,25
+GM-CSF,9
+GM-CSF-R,18
+GRB2,862
+GS,72
+GSK-3,26
+GT155,208
+GTP cyclohydrolase I,17
+GTPase-activating protein,14
+Gas6,3
+Gastrin,44
+Glut 1,52
+Granulysin,20
+Grb2,731
+Grb7,60
+H-Ras,14
+H-ras,22
+HBx,280
+HCC-4,22
+HFE,220
+HLA-E,330
+HLH462,57
+HMG I/Y,21
+HOX11,119
+HS1,11
+HSP27,221
+HSP90,54
+HVEM,165
+Ha-Ras,28
+Hepatitis B virus X protei,28
+Hepatitis B virus X protein,28
+Hip,49
+Hox11,17
+Ht 21,20
+Ht 31,68
+I-eotaxin,29
+I309,22
+ICE,95
+IFN-alpha,56
+IFN-gamma,946
+IFN-gamma R alpha,280
+IFN-gamma R beta,40
+IFN-gamma SC1,320
+IFN-gamma receptor,40
+IFN-gamma receptor alpha chain,40
+IFNR,24
+IFNalpha,39
+IFNalpha2,22
+IGF-1,86
+IGF-1 receptor,43
+IGF-1R,344
+IGF-1R beta,172
+IGF-I,37
+IGF-IR,333
+IGIF,76
+IL 1ra,5
+IL-1,245
+IL-1 receptor,42
+IL-1 receptor-associated kinase,16
+IL-1-receptor,21
+IL-1-receptor antagonist,21
+IL-10,460
+IL-10 receptor,111
+IL-10R,48
+IL-11,372
+IL-13,178
+IL-13 receptor,23
+IL-13R,88
+IL-13Ralpha,161
+IL-15,40
+IL-1RI,64
+IL-1alpha,125
+IL-1beta,277
+IL-1ra,23
+IL-2,280
+IL-2 receptor,32
+IL-2 receptor beta,23
+IL-2 receptor gamma,10
+IL-2R beta,92
+IL-3,24
+IL-4,186
+IL-4 receptor,10
+IL-4R,44
+IL-4Ralpha,23
+IL-5,44
+IL-5 receptor,22
+IL-6,1258
+IL-6 receptor,98
+IL-6.receptor,41
+IL-6D,246
+IL-6M,123
+IL-6R,186
+IL-6R alpha,72
+IL-7,403
+IL-7 receptor,55
+IL-7R,990
+IL-8,127
+IL-8 receptor subtypes A,19
+IL-9,23
+IL1R,111
+IL1RA,84
+INK4a,60
+INK4b,60
+INK4d,30
+IR,363
+IR beta,258
+IRAK,64
+IRF4,7
+IRS-1,1020
+IRS1,34
+ITAM,46
+ITF-2,19
+ITF-2a,19
+ITF-2b,133
+Id3,76
+Inhibin,57
+Inr-binding protein,14
+Insulin receptor substrate 1,19
+Interferon-alpha,28
+Interferon-gamma,63
+Interleukin-1,23
+Interleukin-10,13
+Interleukin-13,22
+Interleukin-2,23
+JAK2,353
+JAK2 kinase,31
+JNK1,84
+Jak,39
+Jak1,108
+Jak3,184
+Jif-1,210
+Jun,116
+Jun-interacting factor (Jif)-1,35
+K-ras,64
+K1,11
+K2,11
+K5,33
+K6,11
+KDR,245
+KGFR,156
+KIP1,30
+KIP2,60
+LEC,490
+LEU2,25
+LIF,36
+LIF receptor,18
+LIFR,9
+LIGHT,528
+LMC,22
+LPR,24
+LT-alpha,50
+LT-beta,30
+LTbetaR,132
+LexA,100
+Liver-expressed chemokine,49
+Ln-5,78
+Ln-5 gamma2,13
+Lyn,224
+MACH,8
+MAP kinase,96
+MAP kinase kinase,56
+MCP-1,30
+MCP-2,60
+MCP-3,192
+MCP-4,30
+MDM2,144
+MEK-1,31
+MIP,21
+MIP-1 alpha,21
+MIP-1 beta,21
+MIP-1alpha,60
+MIP-1beta,237
+MMP-1,390
+MMP2,39
+MORT,8
+MPIF-2,87
+Max,2
+Mcl-1,108
+Mxi1,2
+Myc,2
+MyoD,366
+Myogenin,13
+NADPH oxidase,22
+NCC-4,22
+NF-IL6 beta,147
+NF-kappa B,194
+NF-kappaB,234
+NF-kappaB-inducing kinase,25
+NFL,32
+NGF,155
+NGF-receptor,21
+NIK,25
+NMDA receptor,32
+NR1,32
+NR2B,16
+NRAMP1,2
+Nck,12
+Nerve growth factor,21
+Nucleobindin,26
+OP-1,28
+Oct1,105
+Oct2,147
+P13-K,3
+P150,20
+P60,49
+PAI-1,3
+PARP,8
+PCNA,140
+PDGF,15
+PDGF A,19
+PDGF alpha,38
+PDGF receptor-alpha,38
+PDGF-AA,19
+PDGF-AB,38
+PDGF-BB,21
+PDGF-C,57
+PDGF-CC,76
+PDGFb,28
+PI 3-kinase,330
+PI3 kinase,13
+PKA,64
+PKAII beta,52
+PKC,73
+PLA2,11
+PLC gamma 1,128
+PP-1 alpha,24
+PP-1 alpha 2,24
+PP1,34
+PP1C,17
+PP2A,51
+PP2AC,17
+PR,539
+PRAD1,20
+PRDI-BF1,16
+PRP9,32
+PS-2,12
+PS1,552
+PS2,20
+PSD-95,32
+PTF,495
+PTF alpha,33
+PTPmu,208
+PU.1,231
+Platelet-derived growth factor C,19
+Presenilin 1,78
+QM,280
+RAD51,44
+RAD52,154
+RAD6,22
+RAF1,25
+RAFT,10
+RANTES,165
+RAP74,126
+RAS,316
+RAS binding protein,25
+RB,95
+RBP,119
+RBP1,80
+RBP2,64
+RII,180
+RII alpha,112
+RII beta,416
+RII des-5,8
+RIN1,325
+RIP,224
+RIZ,128
+RNA polymerase II subunit 5,56
+RPB5,196
+Rab11,32
+Raf,26
+Raf-1,892
+Raf-1 cysteine-rich domain,27
+Raf-1 kinase,31
+Raf-1 protein kinase,26
+Raf-CRD,189
+Raf/330,104
+Raf1,40
+Ras,371
+RasGAP,14
+Rb,731
+Rb-associated protein,20
+RbAP46,100
+Rel,23
+Rhodanese,18
+S-phase-promoting factor,20
+SA-beta-gal,30
+SAKAP II,12
+SCF,172
+SCYA24,58
+SCYA26,29
+SDF-1,10
+SF3a,80
+SF3b,48
+SH3 P17,13
+SHC,37
+SHPTP2,135
+SKR1,19
+SKR2,76
+SNAPc,33
+SNAPc43,33
+SNX1,55
+SP1,21
+SPF,20
+SREBP-1,22
+SREBP-2,11
+SRF,147
+SSRP,21
+ST-3,12
+SV40 T antigen,41
+SV40 large T antigen,12
+Shc,391
+Smad4,16
+Snf,10
+Snf2,10
+Sos,394
+Sos1,86
+Sp1,180
+Spectrin cagliari,5
+Src,27
+Src A box Nck-associated protein II,12
+Stat1,116
+Stat3,232
+Stat5,58
+Sterile-5,15
+Swi,10
+Syk,384
+Syntrophin,19
+T-cell receptor zeta chain,36
+T-cell receptor zeta chain (TcR zeta)/CD3,36
+TAF,19
+TAFII110,20
+TAFII230,20
+TAFII250,113
+TAFII30 alpha,52
+TAFII30 beta,52
+TAFII40,158
+TAFII55,60
+TAFII60,120
+TAFIISPT3,52
+TAP,110
+TATA binding protein,43
+TATA binding subunit,12
+TATA box binding protein,21
+TATA box-binding protein,42
+TATA-binding protein,207
+TATA-binding protein-associated factor,38
+TBP,1042
+TCR,108
+TFIIA-J,13
+TFIIB,244
+TFIID,673
+TFIID beta,52
+TFIIF,63
+TFIIH,168
+TFIIIB,33
+TGF-beta,152
+TGFbeta,6
+TH,85
+TIMP,60
+TIMP-1,90
+TNF beta,20
+TNF receptor 1,40
+TNF receptor-1,17
+TNF-R2,190
+TNF-alpha,110
+TNF-beta,81
+TNF-related activation protein,11
+TNFR-1,24
+TNFR-associated factor 2,25
+TNFR1,132
+TNFalpha,127
+TPO,255
+TPO1,14
+TR subtype beta 1,13
+TR2,132
+TR6,660
+TRADD,179
+TRAF2,85
+TRAP,66
+TRKB,108
+TRKB receptor,36
+TTR,214
+Tat,20
+TcR zeta,108
+TfR,176
+Thrombopoietin,14
+Torpedo 87K protein,17
+Transthyretin,19
+TrkA,60
+TrkB,15
+TrkC,45
+U2 small nuclear ribonucleoprotein,16
+U2 snRNP,96
+U2AF35,96
+U2AF65,60
+UBC2,22
+UBC9,44
+UBE2I,110
+UBF,42
+UBL1,44
+USF,218
+VEGF,280
+VEGF-related protein,21
+VP-16,13
+VP16,57
+VRP,42
+Vascular endothelial growth factor,49
+Vascular endothelial growth factor-related protein,21
+Vav,243
+WASP,24
+Wiskott-Aldrich syndrome protein,36
+XPB,72
+XPD,72
+XPG,72
+YY1,330
+aFGF,60
+acidic (alpha 1-) syntrophin,17
+acidic FGF,15
+actin,32
+activin A,6
+activin beta,19
+activin receptor,19
+activin type II receptor kinase,19
+adenosine deaminase,54
+alpha 1-syntrophin,51
+alpha spectrin,5
+alpha-1-antitrypsin,40
+alpha-Actinin-2,32
+alpha-actinin,48
+alpha1 syntrophin,15
+alpha1AT,80
+amyloid beta-protein,38
+angiotensin,26
+apolipoprotein E,24
+apolipoprotein E2,12
+apolipoprotein E4,12
+apolipoproteins E,12
+armadillo-protein,12
+aromatic L-amino acid decarboxylase,17
+bFGF,60
+bHLH,41
+basic (beta 2-) syntrophin,17
+basic FGF,15
+bcl-2,9
+beta 1 integrin,18
+beta 1-syntrophin,146
+beta 2-syntrophin,51
+beta ARK,52
+beta activin,38
+beta inhibin,19
+beta spectrin,20
+beta-adrenergic receptor kinase,26
+beta-amyloid peptide,49
+beta-casein,30
+beta-catenin,32
+beta-galactosidase,55
+bicoid,50
+bone morphogenetic protein (BMP)-2,11
+brain-derived neurotrophic factor,36
+brain-derived neurotrophin,15
+c-ABL,25
+c-Abl,91
+c-Cbl,907
+c-Fos,176
+c-Jun,497
+c-Kit,172
+c-Mpl,86
+c-Myc,16
+c-Raf-1,28
+c-Src,50
+c-cbl,13
+c-fos,21
+c-jun,135
+c-myc,3
+cAMP-dependent protein kinase,20
+cAMP-dependent protein kinase II beta,52
+"cadherins, alpha",16
+calcineurin,15
+calcium effector protein,20
+calcium-sensing receptor,18
+calmodulin,52
+calnexin,208
+calnexin-associated protein,26
+calreticulin,140
+cd44,8
+cdc2,90
+cdc25,112
+cdc25A,80
+cdc25B,32
+cdc28,16
+cdc7,7
+cdk2,123
+chymase,13
+ciliary neurotrophic factor,9
+collagen type I,30
+collagenase,8
+collagenase I,30
+collagenase type I,30
+creatine kinase,38
+cyclin A,146
+cyclin B,16
+cyclin B1,32
+cyclin B2,7
+cyclin D,80
+cyclin D-dependent kinase,18
+cyclin D1,162
+cyclin D2,21
+cyclin D3,30
+cyclin E,122
+cyclin-dependent kinase 2,11
+cyclin-dependent kinase interactor 1,15
+cyclin-dependent kinase2,5
+cyclinA,133
+cyclins A,21
+cyclooxygenase-2,18
+cytochrome b558,33
+cytokeratin 18,13
+cytokine receptor gamma chain,23
+dTAFII40,24
+dTAFII60,24
+dTBP,24
+dTFIID,52
+decorin,8
+decoy receptor 3,66
+delta C-4,43
+delta C-43,129
+delta-catenin,36
+dipeptidyl peptidase IV,95
+dystrophin,270
+dystrophin related protein,36
+e compl,36
+eip1,16
+elastin,8
+endothelial growth factor,19
+endothelin-1,19
+eotaxin,59
+eotaxin-2,87
+eotaxin-3,203
+epidermal growth factor,30
+epidermal growth factor receptor,24
+erythropoietin,193
+erythropoietin (EPO) receptor,62
+erythropoietin receptor,72
+fetal liver kinase 1,28
+fibrinogen B beta chain,44
+fibroblast growth factor receptor 2,13
+fibroblast growth factor receptor 3,100
+fibroblast growth factor-7,26
+fibromodulin,8
+fibronectin,26
+filamin,13
+gIII,14
+gammac,92
+gastrin,520
+gelatinase A,30
+gelatinase B,30
+glial fibrillary acidic protein,8
+glucocorticoid-induced TNFR-related (mGITR) protein,25
+glut 1,26
+glutamine synthetase,54
+glycogen synthase kinase 3,13
+gp 130,18
+gp120,262
+gp12O,27
+gp130,725
+gp91-phox,11
+granulocyte-macrophage colony-stimulating factor,9
+granulysin,240
+groEL,90
+growth arrest-specific gene 6,3
+growth factor receptor-bound protein 2,11
+growth hormone,42
+h-TR beta 1,52
+hDP-1,38
+hDP-2,38
+hFGFR-1,30
+hGH,189
+hGHR,63
+hGITR,175
+hGITRL,175
+hGM-CSF,9
+hGM-CSF-R,9
+hIL-10,72
+hIL-10R,192
+hIL-6,32
+hIL-6R,32
+hLIF,126
+hLIF-R,54
+hPRL,63
+hPRLR,63
+hTAF20/15,12
+hTAF31,12
+hTAF80,12
+hTAFII,156
+hTAFII18,416
+hTAFII20,260
+hTAFII250,58
+hTAFII28,520
+hTAFII30,260
+hTAFII32,76
+hTFIID,208
+hTFIID alpha,52
+hTFIID beta,52
+hdm-2,46
+heat shock protein 90,49
+herpes virus entry mediator ( HVEM ) - L,33
+herpes virus entry mediator (HVEM)-L,33
+histone H1,30
+hsp70,592
+hsp90,680
+human growth hormone,18
+hyaluronic acid synthase 2,8
+hyaluronidase,8
+ifnar1,9
+ifnar2,54
+immunoreceptor tyrosine-based activation motif,23
+inhibitor 2,35
+insulin,387
+insulin receptor,397
+insulin receptor substrate 1,107
+insulin receptor substrate-1,74
+insulin-like growth factor-I,74
+insulin-like growth factor-I (IGF-I) receptor,37
+insulin-like growth factor-I receptor,37
+interferon (IFN)alpha2,9
+interferon alpha,26
+interferon alpha (IFNalpha) receptor,13
+interferon alpha receptor,13
+interferon regulatory factor 4,7
+interferon-alpha,42
+interferon-gamma,124
+interferon-gamma inducing factor,38
+interleukin (IL) 1,5
+interleukin (IL) 2 receptor,13
+interleukin (IL) 6,18
+interleukin (IL)-13,22
+interleukin (IL)-8,13
+interleukin 10,29
+interleukin 10 (IL-10) receptor,29
+interleukin 13,46
+interleukin 13 receptor,46
+interleukin 13 receptor alpha chain,46
+interleukin 1alpha,13
+interleukin 2,13
+interleukin 2 receptor,13
+interleukin-1,60
+interleukin-1 beta,24
+interleukin-1 beta-converting enzyme,24
+interleukin-1 receptor,16
+interleukin-10,29
+interleukin-10 receptor,29
+interleukin-15,10
+interleukin-1beta,61
+interleukin-1beta (IL-1beta) converting enzyme,19
+interleukin-1beta converting enzyme,19
+interleukin-2,19
+interleukin-2 (IL-2) receptor,10
+interleukin-2 receptor,10
+interleukin-3,9
+interleukin-6,162
+interleukin-6 receptor,16
+interleukin-8,38
+isorenin,13
+ith,36
+junB,62
+keratinocyte growth factor,26
+keratinocyte growth factor receptor,26
+kinase insert domain-containing receptor,28
+lacZ,25
+laminin 1,18
+laminin-5,26
+leucine utilization,25
+leukemia inhibitory factor,36
+light subunit neurofilament protein,8
+lymphotoxin,11
+lymphotoxin alpha,19
+lymphotoxin beta,66
+lymphotoxin beta receptor,66
+lymphotoxin-alpha,10
+lymphotoxin-beta,20
+mGITR,25
+mIL-10R,48
+macrophage inflammatory protein (MIP)-1alpha,27
+matrix metalloprotease-2,26
+mdm-2,92
+microtubule-associated protein 2,28
+mitogen-activated protein kinase,215
+mitogen-activated protein kinase kinase,14
+mitogen-activated protein-serine (MAP) kinases,13
+monocyte chemoattractant protein-3,21
+myeloid progenitor inhibitory factor 2,29
+myeloproliferative leukemia virus receptor,14
+myogenic basic helix-loop-helix,41
+myogenin,26
+natural resistance-associated protein,2
+nerve growth factor,35
+neuregulin-2,68
+neuregulin-2beta,34
+neuromodulin,20
+neuropilin-1,19
+neurotrophin TRKB receptor,18
+neurotrophin-3,30
+nexin,11
+nuclear factor kappa B,16
+nuclear factor-kappaB,8
+nucleobindin,52
+nucleolin,8
+osteogenic protein (OP)-1,14
+p0071,12
+p103,19
+p105Rb,20
+p107,98
+p110RB,48
+p120GAP,14
+p130,123
+p140trk,21
+p140trk (trkA) tyrosine kinase receptor,21
+p15,60
+p16,158
+p16INK4a,32
+p19,30
+p21,369
+p21CIP1,21
+p21rac,11
+p21ras,234
+p22,52
+p22-phox,11
+p23,247
+p27,450
+p27Kip1,22
+p27Kip1 kinase,11
+p300,47
+p32,52
+p33cdk2,20
+p34,24
+p34cdc2,20
+p44,58
+p47-phox,22
+p47nck,36
+p48,49
+p50,104
+p52Shc,296
+p53,1113
+p54,18
+p55,19
+p56lck,360
+p57,90
+p59fyn,36
+p60,565
+p62,48
+p66WASP,24
+p67-phox,22
+p72Syk,32
+p75,126
+p75 neurotrophin receptor,21
+p76,360
+p80,8
+p85,501
+p90,315
+p9Ckshs1,20
+pRB,151
+pRb,41
+pRb2,123
+perforin,120
+phFGFR,60
+phosphatase 2B,15
+phosphatidylinositol (PI) 3-kinase,23
+phosphatidylinositol 3-kinase,111
+phosphatidylinositol-3 (PI-3) kinase,34
+phosphoCREB,17
+phospholipase C-gamma,50
+phospholipase C-gamma 1,32
+pim 2,7
+plasminogen activator inhibitor-1,3
+platelet endothelial cell adhesion molecule (PECAM) 1,5
+platelet factor XIII,17
+platelet-derived growth factor,15
+platelet-derived growth factor (PDGF) C,19
+platelet-derived growth factor (PDGF) receptor,15
+platelet-derived growth factor BB,2
+pp120,165
+pp42,26
+pp54,26
+pp60c-src,37
+pp60src,68
+pp60v-src,82
+pp66,50
+presenilin (PS) 1,12
+presenilin 1,38
+procollagen I,8
+progesterone receptor,98
+prolactin,42
+proliferating-cell nuclear antigen,20
+protein kinase A,17
+protein kinase C,87
+protein phosphatase 1,24
+protein phosphatase inhibitor,7
+protein phosphatase inhibitor 2,7
+protein phosphatase type 1,12
+proximal sequence element (PSE)-binding transcription factor,33
+rIL-10R,24
+rMMP-1,30
+rTIMP,60
+rTIMP-1,30
+raf-1,27
+raf1,10
+ras,78
+receptor interacting protein,19
+recombinant human tissue inhibitor of metalloproteinases-1,30
+renin,13
+replication factor 1a,8
+retinoblastoma,148
+retinoblastoma protein,40
+retinoblastoma susceptibility gene,34
+retinoblastoma tumor suppressor protein,19
+retinoic X receptor,13
+retinol-binding protein,34
+rhodanese,108
+s-IL1R,69
+sCAM,95
+sE-selectin,38
+sICAM-1,19
+sIL-2R,78
+sIL-6R,205
+sVCAM-1,19
+sem-5,79
+senescence-associated beta-galactosidase,30
+serine-threonine phosphatase 2A,17
+serine-threonine phosphatase 2A catalytic subunit,17
+serum response factor,42
+simian virus 40 T antigen,20
+soluble cell adhesion molecules,19
+sorting nexin-1,11
+stromelysin-3,12
+syndecan,18
+tapasin,22
+thrombopoietin,14
+thyroid AKAP,8
+tissue inhibitor of metalloproteinases-1,30
+tonin,13
+transcription factor IIB,56
+transcription factor IID,24
+transferrin,66
+transferrin receptor,44
+transforming growth factor beta,14
+transforming growth factor-beta,52
+transforming growth factor-beta 1,19
+transforming growth factors (TGF) beta1,5
+transporter associated with antigen processing,22
+transthyretin,53
+trk,21
+trkA,105
+trypsin,40
+tumor necrosis factor (TNF) receptor-1,17
+tumor necrosis factor (TNF) type 2 receptor,19
+tumor necrosis factor alpha,20
+tumor necrosis factor receptor I,19
+tumor necrosis factor-alpha,20
+tumour necrosis factor-alpha,35
+tumour necrosis factors (TNF) alpha,5
+type 1 protein phosphatase,12
+type I IL-1 receptor,23
+type I interferon-receptor,9
+type II cAMP-dependent protein kinase,28
+type IV collagen,18
+type-I IL1R,21
+type-I interleukin-1 receptor,23
+tyrosine hydroxylase,17
+"tyrosine kinase, phosphatidylinositol 3-kinase",3
+upstream binding factor,14
+utrophin,36
+v-Fos,13
+v-Raf,42
+vascular endothelial growth factor,21
+vimentin,11
+viral protein 16,19
+vitamin D receptor,2

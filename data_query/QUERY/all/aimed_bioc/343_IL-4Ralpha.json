@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 16.544798, "hits": [{"_id": "563674", "_score": 16.544798, "entrezgene": "563674", "name": "interleukin 4 receptor, tandem duplicate 2", "symbol": "il4r.2", "taxid": 7955}, {"_id": "503594", "_score": 14.771896, "entrezgene": "503594", "name": "interleukin 4 receptor, tandem duplicate 1", "symbol": "il4r.1", "taxid": 7955}]}

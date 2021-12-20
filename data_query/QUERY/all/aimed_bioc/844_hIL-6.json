@@ -1,0 +1,1 @@
+{"took": 8, "total": 2, "max_score": 426.04236, "hits": [{"_id": "186584", "_score": 426.04236, "entrezgene": "186584", "name": "Putative histone H1.6", "symbol": "hil-6", "taxid": 6239}, {"_id": "WBGene00103491", "_score": 88.481094, "name": "Hil-6", "symbol": "Ppa-hil-1", "taxid": 54126}]}

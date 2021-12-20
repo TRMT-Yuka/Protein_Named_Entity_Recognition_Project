@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 426.04236, "hits": [{"_id": "936417", "_score": 426.04236, "entrezgene": "936417", "name": "spore coat protein (insoluble fraction)", "symbol": "cotX", "taxid": 224308}, {"_id": "16982331", "_score": 35.816185, "entrezgene": "16982331", "name": "CotX/spore Coat Protein X and V domain protein", "symbol": "pGIAK1_16", "taxid": 1028381}]}

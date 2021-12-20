@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 4.888994, "hits": [{"_id": "17000", "_score": 4.888994, "entrezgene": "17000", "name": "lymphotoxin B receptor", "symbol": "Ltbr", "taxid": 10090}, {"_id": "7187", "_score": 1.639076, "entrezgene": "7187", "name": "TNF receptor associated factor 3", "symbol": "TRAF3", "taxid": 9606}]}

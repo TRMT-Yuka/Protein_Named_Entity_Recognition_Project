@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 3.352876, "hits": [{"_id": "24628", "_score": 3.352876, "entrezgene": "24628", "name": "platelet derived growth factor subunit B", "symbol": "Pdgfb", "taxid": 10116}, {"_id": "24629", "_score": 2.663555, "entrezgene": "24629", "name": "platelet derived growth factor receptor beta", "symbol": "Pdgfrb", "taxid": 10116}]}

@@ -1,0 +1,1 @@
+{"took": 4, "total": 1, "max_score": 3.140065, "hits": [{"_id": "10344", "_score": 3.140065, "entrezgene": "10344", "name": "C-C motif chemokine ligand 26", "symbol": "CCL26", "taxid": 9606}]}

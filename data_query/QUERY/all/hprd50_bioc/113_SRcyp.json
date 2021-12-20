@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 4.888994, "hits": [{"_id": "228005", "_score": 4.888994, "entrezgene": "228005", "name": "peptidyl-prolyl isomerase G (cyclophilin G)", "symbol": "Ppig", "taxid": 10090}, {"_id": "9360", "_score": 4.5758595, "entrezgene": "9360", "name": "peptidylprolyl isomerase G", "symbol": "PPIG", "taxid": 9606}]}

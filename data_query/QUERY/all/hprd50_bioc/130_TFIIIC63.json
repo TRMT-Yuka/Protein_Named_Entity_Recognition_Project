@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 4.4799724, "hits": [{"_id": "70239", "_score": 4.4799724, "entrezgene": "70239", "name": "general transcription factor IIIC, polypeptide 5", "symbol": "Gtf3c5", "taxid": 10090}, {"_id": "9328", "_score": 3.3687003, "entrezgene": "9328", "name": "general transcription factor IIIC subunit 5", "symbol": "GTF3C5", "taxid": 9606}]}

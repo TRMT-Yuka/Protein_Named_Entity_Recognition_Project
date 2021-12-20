@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 426.04236, "hits": [{"_id": "4851296", "_score": 426.04236, "entrezgene": "4851296", "name": "subunit of the TIM22-complex involved in mitochondrial biogenesis", "symbol": "MRS5", "taxid": 322104}, {"_id": "852388", "_score": 7.916931, "entrezgene": "852388", "name": "Tim12p", "symbol": "TIM12", "taxid": 559292}]}

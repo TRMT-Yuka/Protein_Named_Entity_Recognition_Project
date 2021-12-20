@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 76.19481, "hits": [{"_id": "ASIC013925", "_score": 76.19481, "name": "Bnr1p", "taxid": 74873}, {"_id": "3639672", "_score": 76.19481, "entrezgene": "3639672", "name": "Bnr1p", "symbol": "BNR1", "taxid": 237561}]}

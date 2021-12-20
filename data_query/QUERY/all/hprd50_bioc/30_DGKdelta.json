@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 3.1586828, "hits": [{"_id": "227333", "_score": 3.1586828, "entrezgene": "227333", "name": "diacylglycerol kinase, delta", "symbol": "Dgkd", "taxid": 10090}, {"_id": "8527", "_score": 2.5586908, "entrezgene": "8527", "name": "diacylglycerol kinase delta", "symbol": "DGKD", "taxid": 9606}]}

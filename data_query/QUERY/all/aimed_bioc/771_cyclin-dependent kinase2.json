@@ -1,0 +1,1 @@
+{"took": 27, "total": 2, "max_score": 7.870212, "hits": [{"_id": "12575", "_score": 7.870212, "entrezgene": "12575", "name": "cyclin-dependent kinase inhibitor 1A (P21)", "symbol": "Cdkn1a", "taxid": 10090}, {"_id": "1026", "_score": 7.311963, "entrezgene": "1026", "name": "cyclin dependent kinase inhibitor 1A", "symbol": "CDKN1A", "taxid": 9606}]}

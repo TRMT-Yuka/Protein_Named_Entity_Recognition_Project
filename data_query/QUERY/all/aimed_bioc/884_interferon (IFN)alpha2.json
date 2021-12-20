@@ -1,0 +1,1 @@
+{"took": 8, "total": 2, "max_score": 34.658157, "hits": [{"_id": "122233077", "_score": 34.658157, "entrezgene": "122233077", "name": "interferon alpha-like", "symbol": "LOC122233077", "taxid": 9694}, {"_id": "100052818", "_score": 27.062838, "entrezgene": "100052818", "name": "interferon-alpha-2", "symbol": "IFN-ALPHA2", "taxid": 9796}]}

@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 426.04236, "hits": [{"_id": "937808", "_score": 426.04236, "entrezgene": "937808", "name": "N-acetylmuramoyl-L-alanine amidase", "symbol": "cwlH", "taxid": 224308}, {"_id": "110844164", "_score": 44.995735, "entrezgene": "110844164", "name": "N-acetylmuramoyl-L-alanine amidase CwlH", "symbol": "LOC110844164", "taxid": 158441}]}

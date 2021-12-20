@@ -1,0 +1,1 @@
+{"took": 3, "total": 2, "max_score": 6.334936, "hits": [{"_id": "20345", "_score": 6.334936, "entrezgene": "20345", "name": "selectin, platelet (p-selectin) ligand", "symbol": "Selplg", "taxid": 10090}, {"_id": "6404", "_score": 3.5563424, "entrezgene": "6404", "name": "selectin P ligand", "symbol": "SELPLG", "taxid": 9606}]}

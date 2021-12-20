@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 2.3906906, "hits": [{"_id": "171026", "_score": 2.3906906, "entrezgene": "171026", "name": "A-kinase anchoring protein 5", "symbol": "Akap5", "taxid": 10116}, {"_id": "9495", "_score": 2.3688254, "entrezgene": "9495", "name": "A-kinase anchoring protein 5", "symbol": "AKAP5", "taxid": 9606}]}

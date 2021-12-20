@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 16.375296, "hits": [{"_id": "64305287", "_score": 16.375296, "entrezgene": "64305287", "name": "ribosome hibernation promotion factor", "symbol": "hpf", "taxid": 703612}, {"_id": "50135916", "_score": 11.717226, "entrezgene": "50135916", "name": "ribosome hibernation promotion factor", "symbol": "hpf", "taxid": 260554}]}

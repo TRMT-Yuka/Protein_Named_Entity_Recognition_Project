@@ -1,0 +1,1 @@
+{"took": 7, "total": 2, "max_score": 3.760765, "hits": [{"_id": "100861211", "_score": 3.760765, "entrezgene": "100861211", "name": "bone morphogenetic protein receptor type 1B", "symbol": "BMPR1B", "taxid": 9925}, {"_id": "407128", "_score": 3.4461327, "entrezgene": "407128", "name": "bone morphogenetic protein receptor type 1B", "symbol": "BMPR1B", "taxid": 9913}]}
