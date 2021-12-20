@@ -1,1 +1,1 @@
-{"took": 7, "total": 1, "max_score": 3.6647828, "hits": [{"_id": "8995", "_score": 3.6647828, "entrezgene": "8995", "name": "TNF superfamily member 18", "symbol": "TNFSF18", "taxid": 9606}]}
+{"took": 2, "total": 1, "max_score": 3.6647828, "hits": [{"_id": "8995", "_score": 3.6647828, "entrezgene": "8995", "name": "TNF superfamily member 18", "symbol": "TNFSF18", "taxid": 9606}]}

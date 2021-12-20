@@ -1,0 +1,1 @@
+{"took": 4, "total": 2, "max_score": 3.030216, "hits": [{"_id": "84030", "_score": 3.030216, "entrezgene": "84030", "name": "chimerin 1", "symbol": "Chn1", "taxid": 10116}, {"_id": "613", "_score": 1.639076, "entrezgene": "613", "name": "BCR activator of RhoGEF and GTPase", "symbol": "BCR", "taxid": 9606}]}

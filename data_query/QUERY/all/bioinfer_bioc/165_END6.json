@@ -1,1 +1,1 @@
-{"took": 5, "total": 1, "max_score": 6.332657, "hits": [{"_id": "850367", "_score": 6.332657, "entrezgene": "850367", "name": "amphiphysin-like protein RVS161", "symbol": "RVS161", "taxid": 559292}]}
+{"took": 2, "total": 1, "max_score": 6.332657, "hits": [{"_id": "850367", "_score": 6.332657, "entrezgene": "850367", "name": "amphiphysin-like protein RVS161", "symbol": "RVS161", "taxid": 559292}]}

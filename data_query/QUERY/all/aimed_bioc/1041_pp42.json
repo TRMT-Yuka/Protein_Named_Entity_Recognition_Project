@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 2.3906906, "hits": [{"_id": "299027", "_score": 2.3906906, "entrezgene": "299027", "name": "eukaryotic translation initiation factor 2 subunit gamma", "symbol": "Eif2s3", "taxid": 10116}, {"_id": "26417", "_score": 0.6455368, "entrezgene": "26417", "name": "mitogen-activated protein kinase 3", "symbol": "Mapk3", "taxid": 10090}]}

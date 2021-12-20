@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 2.8256822, "hits": [{"_id": "81613", "_score": 2.8256822, "entrezgene": "81613", "name": "CEA cell adhesion molecule 1", "symbol": "Ceacam1", "taxid": 10116}, {"_id": "3192", "_score": 1.826653, "entrezgene": "3192", "name": "heterogeneous nuclear ribonucleoprotein U", "symbol": "HNRNPU", "taxid": 9606}]}

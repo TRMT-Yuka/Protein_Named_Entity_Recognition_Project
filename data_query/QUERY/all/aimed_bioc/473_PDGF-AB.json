@@ -1,1 +1,1 @@
-{"took": 9, "total": 1, "max_score": 2.7666402, "hits": [{"_id": "1290", "_score": 2.7666402, "entrezgene": "1290", "name": "collagen type V alpha 2 chain", "symbol": "COL5A2", "taxid": 9606}]}
+{"took": 5, "total": 1, "max_score": 2.7666402, "hits": [{"_id": "1290", "_score": 2.7666402, "entrezgene": "1290", "name": "collagen type V alpha 2 chain", "symbol": "COL5A2", "taxid": 9606}]}

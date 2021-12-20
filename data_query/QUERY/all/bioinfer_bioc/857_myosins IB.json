@@ -1,0 +1,1 @@
+{"took": 5, "total": 2, "max_score": 426.04236, "hits": [{"_id": "912261", "_score": 426.04236, "entrezgene": "912261", "name": "hypothetical protein", "symbol": "Ib", "taxid": 10651}, {"_id": "105931993", "_score": 15.338239, "entrezgene": "105931993", "name": "myosin heavy chain, fast skeletal muscle-like", "symbol": "LOC105931993", "taxid": 8078}]}

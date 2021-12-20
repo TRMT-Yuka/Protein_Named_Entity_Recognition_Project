@@ -1,1 +1,1 @@
-{"took": 10, "total": 1, "max_score": 9.025703, "hits": [{"_id": "856892", "_score": 9.025703, "entrezgene": "856892", "name": "Pea2p", "symbol": "PEA2", "taxid": 559292}]}
+{"took": 2, "total": 1, "max_score": 9.025703, "hits": [{"_id": "856892", "_score": 9.025703, "entrezgene": "856892", "name": "Pea2p", "symbol": "PEA2", "taxid": 559292}]}

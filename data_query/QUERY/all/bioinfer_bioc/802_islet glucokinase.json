@@ -1,0 +1,1 @@
+{"took": 13, "total": 2, "max_score": 11.434916, "hits": [{"_id": "2646", "_score": 11.434916, "entrezgene": "2646", "name": "glucokinase regulator", "symbol": "GCKR", "taxid": 9606}, {"_id": "3651", "_score": 4.7179966, "entrezgene": "3651", "name": "pancreatic and duodenal homeobox 1", "symbol": "PDX1", "taxid": 9606}]}

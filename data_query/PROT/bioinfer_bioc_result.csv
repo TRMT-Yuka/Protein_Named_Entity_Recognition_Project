@@ -726,327 +726,327 @@ cyclin-dependent kinase 2,9,7607,10
 cyclin-dependent kinase inhibitor,117,7168,8
 cyclin-dependent kinase inhibitors,9,6,1
 cysteine proteases,5,74,4
-cytokeratin,5,-1,0
-cytokeratins,96,-1,0
-cytokines,8,-1,0
-cytoskeletal,4,-1,0
-death receptors,5,-1,0
-delta-catenin,1,-1,0
-deoxyribonuclease I,3,-1,0
-desmin,71,-1,0
-destrin,16,-1,0
-diaphanous,4,-1,0
-dihydrofolate reductase,16,-1,0
-dipeptidyl peptidase IV,11,-1,0
-dystrophin,24,-1,0
-dystrophin related protein,12,-1,0
-eIF3,32,-1,0
-eIF3-p33,8,-1,0
-ecto-5'-nucleotidase,2,-1,0
-embryonic alpha-tubulin,9,-1,0
-embryonic beta-tubulin,9,-1,0
-epidermal growth factor,22,-1,0
-epithelial cadherin,6,-1,0
-epithelial membrane antigen,16,-1,0
-erythrocyte transferase,5,-1,0
-eukaryotic translation initiation factor 3,8,-1,0
-extracellular matrix proteins,2,-1,0
-extracellular signal regulated protein kinase,12,-1,0
-extracellular signal-regulated protein kinases,5,-1,0
-ezrin,8,-1,0
-fast myosin heavy chain,5,-1,0
-ferritin heavy chain,9,-1,0
-fibronectin,48,-1,0
-fibronectin receptor,3,-1,0
-filamin,23,-1,0
-fimbrin,112,-1,0
-fimbrin 1,3,-1,0
+cytokeratin,5,224,1
+cytokeratins,96,19,2
+cytokines,8,339,1
+cytoskeletal,4,25137,1
+death receptors,5,489,1
+delta-catenin,1,2400,1
+deoxyribonuclease I,3,954,10
+desmin,71,931,1
+destrin,16,640,1
+diaphanous,4,2326,3
+dihydrofolate reductase,16,5277,1
+dipeptidyl peptidase IV,11,102,1
+dystrophin,24,2735,1
+dystrophin related protein,12,616,1
+eIF3,32,543,1
+eIF3-p33,8,3,2
+ecto-5'-nucleotidase,2,543,4
+embryonic alpha-tubulin,9,0,0
+embryonic beta-tubulin,9,0,0
+epidermal growth factor,22,14513,1
+epithelial cadherin,6,94,10
+epithelial membrane antigen,16,35,1
+erythrocyte transferase,5,4,1
+eukaryotic translation initiation factor 3,8,27060,10
+extracellular matrix proteins,2,472,8
+extracellular signal regulated protein kinase,12,129,4
+extracellular signal-regulated protein kinases,5,36,1
+ezrin,8,2533,1
+fast myosin heavy chain,5,2271,10
+ferritin heavy chain,9,4099,1
+fibronectin,48,19797,1
+fibronectin receptor,3,297,1
+filamin,23,5379,3
+fimbrin,112,1041,10
+fimbrin 1,3,1235,10
 fimbrin/plastin,3,-1,0
-fimbrins,8,-1,0
-flk-1,3,-1,0
-focal adhesion kinase,7,-1,0
-fragmin,5,-1,0
-fus1,4,-1,0
-fusion,48,-1,0
-fusion protein,26,-1,0
-gamma catenin,2,-1,0
-gamma-catenin,132,-1,0
-gelatin,12,-1,0
-gelsolin,123,-1,0
-gephyrin,7,-1,0
-gizzard talin,4,-1,0
-glc7-10,32,-1,0
-glial fibrillary acid protein,16,-1,0
-glucocorticoid receptor,1,-1,0
-glucokinase,40,-1,0
-glycoprotein,17,-1,0
-glycoprotein 130,8,-1,0
-gp130,8,-1,0
-haemagglutinin,13,-1,0
-haemagglutinin neuraminidase,13,-1,0
-haemagglutinin-neuraminidase,14,-1,0
-heat shock protein,5,-1,0
-heat shock proteins,10,-1,0
-helicase-primase,66,-1,0
-hemagglutinin-neuraminidase protein,12,-1,0
-high molecular weight caldesmon,10,-1,0
-histone,650,-1,0
-histones,84,-1,0
-hnRNP,9,-1,0
-immunoglobulin,3,-1,0
-insulin,12,-1,0
-insulin-like growth factor I,7,-1,0
-integrin,12,-1,0
-integrins,26,-1,0
-interferon,4,-1,0
-interleukin-1alpha,8,-1,0
-iota toxin,5,-1,0
-islet glucokinase,10,-1,0
-islet-type glucokinase,10,-1,0
-keratin,4,-1,0
-kinase,14,-1,0
-kip1,3,-1,0
-lactic dehydrogenase,2,-1,0
-lamin B,3,-1,0
-laminin,37,-1,0
-large,27,-1,0
-large T-antigen,6,-1,0
-large polymerase,6,-1,0
-large protein,19,-1,0
-liver-,10,-1,0
-lymphocyte talin,4,-1,0
-mDia,2,-1,0
-mHip1R,3,-1,0
-mURA3,4,-1,0
-macrophage profilin,3,-1,0
-major DNA-binding protein,10,-1,0
-matrix,53,-1,0
-matrix protein,31,-1,0
-membrane protein,12,-1,0
-methyltransferase,11,-1,0
-mgt1,6,-1,0
-mitogen-activated protein kinase,25,-1,0
-msh2,18,-1,0
-msh3,18,-1,0
-msh6,18,-1,0
-msh6-F337A,3,-1,0
-muscarinic receptor,24,-1,0
-muscarinic receptors,12,-1,0
-muscle,25,-1,0
-muscle LIM,11,-1,0
-muscle actin,50,-1,0
-muscle myosin heavy chain,2,-1,0
-muscle tropomyosin,7,-1,0
-muscle-specific actin,3,-1,0
-mutS,8,-1,0
-myogenin,24,-1,0
-myosin,50,-1,0
-myosin I,3,-1,0
-myosin II,10,-1,0
-myosin II heavy-chain kinase,6,-1,0
-myosin heavy chain,244,-1,0
-myosin heavy chain B,8,-1,0
-myosin heavy chain kinase,1,-1,0
-myosin heavy chains,12,-1,0
-myosin heavy-chain,4,-1,0
-myosin light chain,19,-1,0
-myosin light chain 1,5,-1,0
-myosin light chain 2,9,-1,0
-myosin light chain kinase,11,-1,0
-myosin regulatory light chain,11,-1,0
-myosin-II heavy chain,1,-1,0
-myosins,20,-1,0
-myosins IB,10,-1,0
-nestin,8,-1,0
-non-muscle myosin heavy chain,6,-1,0
-non-structural,13,-1,0
-nonerythroid spectrin,5,-1,0
-nonmuscle myosin heavy chain,1,-1,0
-nonmuscle myosin heavy chain II-B,3,-1,0
-nonmuscle myosin heavy chain IIB,4,-1,0
-nonmuscle-type myosin heavy chain,4,-1,0
-nuclear basic proteins,5,-1,0
-nuclear receptor coactivator,5,-1,0
-nucleocapsid,58,-1,0
-nucleocapsid protein,107,-1,0
-nucleosome,16,-1,0
-nucleosomes,7,-1,0
-oncostatin M,8,-1,0
-origin-binding protein,13,-1,0
-p120,37,-1,0
-p120cas,5,-1,0
-p130,8,-1,0
-p14,10,-1,0
-p16,20,-1,0
+fimbrins,8,0,0
+flk-1,3,18,1
+focal adhesion kinase,7,988,10
+fragmin,5,107,10
+fus1,4,56,9
+fusion,48,18178,1
+fusion protein,26,16090,10
+gamma catenin,2,158,7
+gamma-catenin,132,151,1
+gelatin,12,2,1
+gelsolin,123,2053,1
+gephyrin,7,1148,1
+gizzard talin,4,0,0
+glc7-10,32,0,0
+glial fibrillary acid protein,16,2,2
+glucocorticoid receptor,1,834,1
+glucokinase,40,3135,1
+glycoprotein,17,80248,6
+glycoprotein 130,8,136,10
+gp130,8,123,5
+haemagglutinin,13,48,2
+haemagglutinin neuraminidase,13,1,1
+haemagglutinin-neuraminidase,14,1,1
+heat shock protein,5,78789,10
+heat shock proteins,10,302,1
+helicase-primase,66,961,10
+hemagglutinin-neuraminidase protein,12,13,10
+high molecular weight caldesmon,10,0,0
+histone,650,172981,1
+histones,84,1216,10
+hnRNP,9,738,2
+immunoglobulin,3,73382,6
+insulin,12,26396,1
+insulin-like growth factor I,7,779,10
+integrin,12,27022,2
+integrins,26,140,5
+interferon,4,42181,3
+interleukin-1alpha,8,8,1
+iota toxin,5,1,1
+islet glucokinase,10,2,1
+islet-type glucokinase,10,1,1
+keratin,4,51418,1
+kinase,14,1003122,5
+kip1,3,130,8
+lactic dehydrogenase,2,7,1
+lamin B,3,746,10
+laminin,37,11299,1
+large,27,70062,5
+large T-antigen,6,164,5
+large polymerase,6,629,2
+large protein,19,21250,5
+liver-,10,9765,1
+lymphocyte talin,4,0,0
+mDia,2,4,1
+mHip1R,3,0,0
+mURA3,4,0,0
+macrophage profilin,3,1,1
+major DNA-binding protein,10,91,6
+matrix,53,55079,10
+matrix protein,31,28771,3
+membrane protein,12,214480,10
+methyltransferase,11,291523,1
+mgt1,6,23,10
+mitogen-activated protein kinase,25,46252,10
+msh2,18,1307,1
+msh3,18,1120,1
+msh6,18,1482,1
+msh6-F337A,3,0,0
+muscarinic receptor,24,4157,1
+muscarinic receptors,12,38,1
+muscle,25,43498,1
+muscle LIM,11,399,1
+muscle actin,50,5491,5
+muscle myosin heavy chain,2,6118,7
+muscle tropomyosin,7,87,1
+muscle-specific actin,3,173,5
+mutS,8,5473,10
+myogenin,24,521,1
+myosin,50,68288,10
+myosin I,3,1215,10
+myosin II,10,323,6
+myosin II heavy-chain kinase,6,9,6
+myosin heavy chain,244,12340,10
+myosin heavy chain B,8,351,10
+myosin heavy chain kinase,1,389,8
+myosin heavy chains,12,16,1
+myosin heavy-chain,4,12340,10
+myosin light chain,19,12585,2
+myosin light chain 1,5,2104,2
+myosin light chain 2,9,4212,2
+myosin light chain kinase,11,3451,2
+myosin regulatory light chain,11,4685,2
+myosin-II heavy chain,1,232,10
+myosins,20,23,1
+myosins IB,10,2,1
+nestin,8,518,1
+non-muscle myosin heavy chain,6,932,6
+non-structural,13,2841,10
+nonerythroid spectrin,5,2,1
+nonmuscle myosin heavy chain,1,55,10
+nonmuscle myosin heavy chain II-B,3,7,1
+nonmuscle myosin heavy chain IIB,4,7,1
+nonmuscle-type myosin heavy chain,4,9,1
+nuclear basic proteins,5,224,1
+nuclear receptor coactivator,5,7311,1
+nucleocapsid,58,608,10
+nucleocapsid protein,107,466,10
+nucleosome,16,7747,5
+nucleosomes,7,420,1
+oncostatin M,8,1058,10
+origin-binding protein,13,125,3
+p120,37,68,1
+p120cas,5,2,1
+p130,8,317,2
+p14,10,1040,5
+p16,20,70,8
 p160/SRC-1,5,-1,0
-p16INK4,10,-1,0
-p16ink4a,5,-1,0
-p18,10,-1,0
-p19,10,-1,0
-p21,63,-1,0
-p21WAF1,7,-1,0
-p27,79,-1,0
-p27KIP1,17,-1,0
-p27Kip1,6,-1,0
-p27kip,3,-1,0
-p27kip1,5,-1,0
-p300,29,-1,0
-p33,8,-1,0
-p35,10,-1,0
-p38,12,-1,0
-p40,10,-1,0
-p53,59,-1,0
-p55,29,-1,0
-p55-R,10,-1,0
-p57,6,-1,0
-p57KIP2,2,-1,0
-p58,11,-1,0
-pE3,4,-1,0
-pRB,5,-1,0
-pRb,20,-1,0
-pan-cadherin,4,-1,0
-pan-desmocollin,6,-1,0
-pan-desmoglein,6,-1,0
-pancadherin,7,-1,0
-paxillin,30,-1,0
-pfy1-4,15,-1,0
-phospholipase C,17,-1,0
-phospholipase C-gamma 1,3,-1,0
-phosphoprotein,171,-1,0
-phosphorylatable myosin light chain,9,-1,0
-plakoglobin,334,-1,0
-platelet,14,-1,0
-platelet P-235,2,-1,0
-platelet actin,12,-1,0
-platelet profilin,28,-1,0
-platelet profilins,17,-1,0
-pollen actin,9,-1,0
-pollen profilin,9,-1,0
-polycystic kidney disease 1,3,-1,0
-polymerase,11,-1,0
-polymerase protein,5,-1,0
-pp125,7,-1,0
-pp60,5,-1,0
-pp60src,2,-1,0
-presenilin 1,1,-1,0
-primosome,3,-1,0
-profilin,1877,-1,0
-profilin I,76,-1,0
-profilin II,58,-1,0
-profilin-I,18,-1,0
-profilins,169,-1,0
-profilins I,10,-1,0
-profilins Ia,10,-1,0
-proliferating cell nuclear antigen,37,-1,0
-proteasome,8,-1,0
-protein,4,-1,0
-protein L-isoaspartyl methyltransferase,9,-1,0
-protein kinase,13,-1,0
-protein kinase C,4,-1,0
-protein kinase C alpha,3,-1,0
-protein tyrosine kinase,5,-1,0
-rac-1 GAP,5,-1,0
-rad18,5,-1,0
-rad22+,5,-1,0
-rad3,4,-1,0
-rad5,5,-1,0
-rad50,4,-1,0
-rad52,2,-1,0
-rad52-20,6,-1,0
-rad54,11,-1,0
-rad54Delta,11,-1,0
-rad55,3,-1,0
-rad57,3,-1,0
-rad59,4,-1,0
-rap1,2,-1,0
-rdh54,11,-1,0
-rdh54Delta,11,-1,0
-regulatory light chain,3,-1,0
-replication factor A,2,-1,0
-rhp51,4,-1,0
-rhp51+,5,-1,0
-rhp54,4,-1,0
-rhp54+,5,-1,0
-ribonuclease,20,-1,0
-ribonucleotide reductase,16,-1,0
-sNRP1,28,-1,0
-sac6,4,-1,0
-sac6-69,4,-1,0
-sarcomeric actin,11,-1,0
-sarcomeric actins,4,-1,0
-sarcomeric myosin heavy chain,3,-1,0
-semaphorin III,4,-1,0
-semaphorins,14,-1,0
-serine phosphatases,4,-1,0
+p16INK4,10,1,1
+p16ink4a,5,7,1
+p18,10,375,10
+p19,10,240,8
+p21,63,7191,5
+p21WAF1,7,3,1
+p27,79,972,10
+p27KIP1,17,25,5
+p27Kip1,6,25,5
+p27kip,3,1,1
+p27kip1,5,25,5
+p300,29,4041,1
+p33,8,87,10
+p35,10,340,7
+p38,12,1008,10
+p40,10,1099,10
+p53,59,11169,9
+p55,29,5271,3
+p55-R,10,50,1
+p57,6,27,3
+p57KIP2,2,4,1
+p58,11,775,3
+pE3,4,1,1
+pRB,5,21,1
+pRb,20,21,1
+pan-cadherin,4,0,0
+pan-desmocollin,6,0,0
+pan-desmoglein,6,0,0
+pancadherin,7,0,0
+paxillin,30,1131,1
+pfy1-4,15,0,0
+phospholipase C,17,12829,10
+phospholipase C-gamma 1,3,1983,10
+phosphoprotein,171,28757,6
+phosphorylatable myosin light chain,9,515,2
+plakoglobin,334,738,1
+platelet,14,18983,1
+platelet P-235,2,0,0
+platelet actin,12,212,5
+platelet profilin,28,2,1
+platelet profilins,17,0,0
+pollen actin,9,22,5
+pollen profilin,9,16,1
+polycystic kidney disease 1,3,4568,10
+polymerase,11,256183,2
+polymerase protein,5,45730,2
+pp125,7,4,1
+pp60,5,3,1
+pp60src,2,0,0
+presenilin 1,1,1767,10
+primosome,3,64,1
+profilin,1877,5052,1
+profilin I,76,27,1
+profilin II,58,23,1
+profilin-I,18,8,4
+profilins,169,0,0
+profilins I,10,18,10
+profilins Ia,10,1,1
+proliferating cell nuclear antigen,37,2422,1
+proteasome,8,77158,1
+protein,4,19650222,10
+protein L-isoaspartyl methyltransferase,9,163,2
+protein kinase,13,615707,9
+protein kinase C,4,21911,10
+protein kinase C alpha,3,1438,8
+protein tyrosine kinase,5,43950,4
+rac-1 GAP,5,1174,2
+rad18,5,1011,1
+rad22+,5,20,3
+rad3,4,406,10
+rad5,5,271,10
+rad50,4,2901,1
+rad52,2,1881,1
+rad52-20,6,0,0
+rad54,11,2208,10
+rad54Delta,11,0,0
+rad55,3,99,3
+rad57,3,70,6
+rad59,4,12,7
+rap1,2,3771,10
+rdh54,11,34,10
+rdh54Delta,11,0,0
+regulatory light chain,3,4702,2
+replication factor A,2,1765,1
+rhp51,4,90,10
+rhp51+,5,90,3
+rhp54,4,77,8
+rhp54+,5,77,3
+ribonuclease,20,61219,4
+ribonucleotide reductase,16,4450,2
+sNRP1,28,0,0
+sac6,4,186,10
+sac6-69,4,0,0
+sarcomeric actin,11,42,5
+sarcomeric actins,4,0,0
+sarcomeric myosin heavy chain,3,3,1
+semaphorin III,4,18,10
+semaphorins,14,13,1
+serine phosphatases,4,52,2
 serine/threonine kinase,4,-1,0
-sgs1,4,-1,0
-single-stranded DNA-binding protein,13,-1,0
-skeletal actin,21,-1,0
-skeletal muscle actin,64,-1,0
-skeletal muscle myosin heavy chain,4,-1,0
-skeletal myosin heavy chain,1,-1,0
-small GTP-binding proteins,7,-1,0
-small hydrophobic,14,-1,0
-smooth muscle actin,16,-1,0
-smooth muscle myosin,5,-1,0
-smooth muscle myosin heavy chain,41,-1,0
-smooth muscle myosin heavy-chain,6,-1,0
-smoothelin,10,-1,0
-soluble NRP1,14,-1,0
-somatomedin C,8,-1,0
-spectrin,3,-1,0
-spectrin alpha-chain,1,-1,0
-spectrin beta-chain,1,-1,0
-spleen,6,-1,0
-spleen actin,12,-1,0
-spleen profilin,6,-1,0
-srs2,26,-1,0
-srs2Delta,22,-1,0
-stress-activated protein kinase,4,-1,0
-striated muscle myosin heavy chain,1,-1,0
-synaptojanin,4,-1,0
-syntaxin,18,-1,0
-syntaxin 3,74,-1,0
-syntrophin,7,-1,0
-syntrophin triplet,6,-1,0
-t-SNARE,13,-1,0
-talin,282,-1,0
-tau,11,-1,0
-thrombin,8,-1,0
-thymidylate synthase,16,-1,0
-thymosin,14,-1,0
-thymosin beta 4,33,-1,0
-thymosin beta(4),32,-1,0
-thymosin beta4,26,-1,0
-thymosin-beta4,18,-1,0
-titin,5,-1,0
-transcriptase,17,-1,0
-tropomyosin,78,-1,0
-troponin I,21,-1,0
-troponin T,3,-1,0
-troponin-I,3,-1,0
-trypsin,4,-1,0
-tubulin,11,-1,0
-tumor necrosis factor,4,-1,0
-tumor necrosis factor receptor 1,6,-1,0
-twinstar,2,-1,0
-type I myosin,4,-1,0
-type II myosin heavy chain,2,-1,0
-type IV collagen,25,-1,0
-type XIII collagen,3,-1,0
-tyrosine kinase,26,-1,0
-ubiquitin,8,-1,0
-utrophin,42,-1,0
-vascular endothelial,10,-1,0
-vascular endothelial growth factor,11,-1,0
-vascular endothelial growth factor 165,14,-1,0
-vascular endothelial growth factor-165,4,-1,0
-vasodilator-stimulated phosphoprotein,10,-1,0
-verprolin,69,-1,0
-villin,31,-1,0
-vimentin,50,-1,0
-vinculin,191,-1,0
-vitamin D-binding protein,2,-1,0
-vitronectin,5,-1,0
-waf1,22,-1,0
-zyxin,8,-1,0
+sgs1,4,63,10
+single-stranded DNA-binding protein,13,8418,4
+skeletal actin,21,983,5
+skeletal muscle actin,64,980,5
+skeletal muscle myosin heavy chain,4,3330,1
+skeletal myosin heavy chain,1,3330,1
+small GTP-binding proteins,7,167,1
+small hydrophobic,14,68,1
+smooth muscle actin,16,945,5
+smooth muscle myosin,5,2568,1
+smooth muscle myosin heavy chain,41,418,10
+smooth muscle myosin heavy-chain,6,418,1
+smoothelin,10,1994,1
+soluble NRP1,14,381,1
+somatomedin C,8,81,10
+spectrin,3,9905,1
+spectrin alpha-chain,1,1226,10
+spectrin beta-chain,1,3524,10
+spleen,6,866,1
+spleen actin,12,13,5
+spleen profilin,6,1,1
+srs2,26,271,1
+srs2Delta,22,0,0
+stress-activated protein kinase,4,936,10
+striated muscle myosin heavy chain,1,290,10
+synaptojanin,4,2000,2
+syntaxin,18,23438,10
+syntaxin 3,74,2293,10
+syntrophin,7,3281,5
+syntrophin triplet,6,0,0
+t-SNARE,13,1378,1
+talin,282,2365,2
+tau,11,4915,2
+thrombin,8,2454,1
+thymidylate synthase,16,4786,1
+thymosin,14,3805,3
+thymosin beta 4,33,3084,10
+thymosin beta(4),32,1726,2
+thymosin beta4,26,0,0
+thymosin-beta4,18,0,0
+titin,5,7779,1
+transcriptase,17,4457,1
+tropomyosin,78,5831,4
+troponin I,21,3293,10
+troponin T,3,2671,2
+troponin-I,3,3275,1
+trypsin,4,23419,3
+tubulin,11,60577,2
+tumor necrosis factor,4,31936,1
+tumor necrosis factor receptor 1,6,1689,1
+twinstar,2,6,3
+type I myosin,4,47,10
+type II myosin heavy chain,2,68,6
+type IV collagen,25,3455,1
+type XIII collagen,3,431,2
+tyrosine kinase,26,61632,4
+ubiquitin,8,393410,3
+utrophin,42,800,1
+vascular endothelial,10,6217,5
+vascular endothelial growth factor,11,5387,4
+vascular endothelial growth factor 165,14,93,10
+vascular endothelial growth factor-165,4,8,1
+vasodilator-stimulated phosphoprotein,10,807,1
+verprolin,69,401,10
+villin,31,2250,2
+vimentin,50,1462,1
+vinculin,191,1160,1
+vitamin D-binding protein,2,443,1
+vitronectin,5,677,1
+waf1,22,11,1
+zyxin,8,695,1

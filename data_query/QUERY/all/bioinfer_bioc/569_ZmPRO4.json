@@ -1,1 +1,1 @@
-{"took": 6, "total": 1, "max_score": 10.738157, "hits": [{"_id": "541662", "_score": 10.738157, "entrezgene": "541662", "name": "profilin", "symbol": "LOC541662", "taxid": 4577}]}
+{"took": 5, "total": 1, "max_score": 10.738157, "hits": [{"_id": "541662", "_score": 10.738157, "entrezgene": "541662", "name": "profilin", "symbol": "LOC541662", "taxid": 4577}]}

@@ -1,0 +1,1 @@
+{"took": 6, "total": 2, "max_score": 5.179392, "hits": [{"_id": "100101665", "_score": 5.179392, "entrezgene": "100101665", "name": "catenin delta 1", "symbol": "ctnnd1", "taxid": 8364}, {"_id": "1500", "_score": 1.639076, "entrezgene": "1500", "name": "catenin delta 1", "symbol": "CTNND1", "taxid": 9606}]}

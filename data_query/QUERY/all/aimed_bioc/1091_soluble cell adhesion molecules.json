@@ -1,0 +1,1 @@
+{"took": 14, "total": 2, "max_score": 4.43205, "hits": [{"_id": "3339", "_score": 4.43205, "entrezgene": "3339", "name": "heparan sulfate proteoglycan 2", "symbol": "HSPG2", "taxid": 9606}, {"_id": "2335", "_score": 2.6642575, "entrezgene": "2335", "name": "fibronectin 1", "symbol": "FN1", "taxid": 9606}]}

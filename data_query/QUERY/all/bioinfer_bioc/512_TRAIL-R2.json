@@ -1,1 +1,1 @@
-{"took": 11, "total": 1, "max_score": 10.543008, "hits": [{"_id": "8795", "_score": 10.543008, "entrezgene": "8795", "name": "TNF receptor superfamily member 10b", "symbol": "TNFRSF10B", "taxid": 9606}]}
+{"took": 5, "total": 1, "max_score": 10.543008, "hits": [{"_id": "8795", "_score": 10.543008, "entrezgene": "8795", "name": "TNF receptor superfamily member 10b", "symbol": "TNFRSF10B", "taxid": 9606}]}

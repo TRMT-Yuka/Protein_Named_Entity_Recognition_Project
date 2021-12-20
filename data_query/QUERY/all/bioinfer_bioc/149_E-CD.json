@@ -1,1 +1,1 @@
-{"took": 6, "total": 1, "max_score": 1.4930735, "hits": [{"_id": "31441", "_score": 1.4930735, "entrezgene": "31441", "name": "Cyclin-dependent kinase 7", "symbol": "Cdk7", "taxid": 7227}]}
+{"took": 10, "total": 1, "max_score": 1.4930735, "hits": [{"_id": "31441", "_score": 1.4930735, "entrezgene": "31441", "name": "Cyclin-dependent kinase 7", "symbol": "Cdk7", "taxid": 7227}]}

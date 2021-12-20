@@ -1,1 +1,1 @@
-{"took": 4, "total": 1, "max_score": 5.038075, "hits": [{"_id": "15903", "_score": 5.038075, "entrezgene": "15903", "name": "inhibitor of DNA binding 3", "symbol": "Id3", "taxid": 10090}]}
+{"took": 3, "total": 1, "max_score": 5.038075, "hits": [{"_id": "15903", "_score": 5.038075, "entrezgene": "15903", "name": "inhibitor of DNA binding 3", "symbol": "Id3", "taxid": 10090}]}

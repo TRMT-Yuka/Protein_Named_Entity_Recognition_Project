@@ -1,1 +1,1 @@
-{"took": 8, "total": 1, "max_score": 4.0471363, "hits": [{"_id": "21413", "_score": 4.0471363, "entrezgene": "21413", "name": "transcription factor 4", "symbol": "Tcf4", "taxid": 10090}]}
+{"took": 5, "total": 1, "max_score": 4.0471363, "hits": [{"_id": "21413", "_score": 4.0471363, "entrezgene": "21413", "name": "transcription factor 4", "symbol": "Tcf4", "taxid": 10090}]}

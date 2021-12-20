@@ -1,0 +1,1 @@
+{"took": 8, "total": 2, "max_score": 426.04236, "hits": [{"_id": "543782", "_score": 426.04236, "entrezgene": "543782", "name": "profilin protein", "symbol": "profilin", "taxid": 4081}, {"_id": "5216", "_score": 9.207528, "entrezgene": "5216", "name": "profilin 1", "symbol": "PFN1", "taxid": 9606}]}

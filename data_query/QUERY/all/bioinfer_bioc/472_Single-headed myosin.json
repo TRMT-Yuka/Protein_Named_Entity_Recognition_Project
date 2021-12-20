@@ -1,1 +1,1 @@
-{"took": 23, "total": 1, "max_score": 7.574145, "hits": [{"_id": "4650", "_score": 7.574145, "entrezgene": "4650", "name": "myosin IXB", "symbol": "MYO9B", "taxid": 9606}]}
+{"took": 7, "total": 1, "max_score": 7.574145, "hits": [{"_id": "4650", "_score": 7.574145, "entrezgene": "4650", "name": "myosin IXB", "symbol": "MYO9B", "taxid": 9606}]}

@@ -1,0 +1,1 @@
+{"took": 15, "total": 2, "max_score": 3.2473843, "hits": [{"_id": "25335", "_score": 3.2473843, "entrezgene": "25335", "name": "matrix metallopeptidase 7", "symbol": "Mmp7", "taxid": 10116}, {"_id": "9370", "_score": 2.2051952, "entrezgene": "9370", "name": "adiponectin, C1Q and collagen domain containing", "symbol": "ADIPOQ", "taxid": 9606}]}

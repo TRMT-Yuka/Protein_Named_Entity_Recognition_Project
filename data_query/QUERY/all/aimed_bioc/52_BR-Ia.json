@@ -1,1 +1,1 @@
-{"took": 19, "total": 1, "max_score": 2.5952568, "hits": [{"_id": "3673", "_score": 2.5952568, "entrezgene": "3673", "name": "integrin subunit alpha 2", "symbol": "ITGA2", "taxid": 9606}]}
+{"took": 9, "total": 1, "max_score": 2.5952568, "hits": [{"_id": "3673", "_score": 2.5952568, "entrezgene": "3673", "name": "integrin subunit alpha 2", "symbol": "ITGA2", "taxid": 9606}]}

@@ -1,1 +1,1 @@
-{"took": 16, "total": 1, "max_score": 2.1256032, "hits": [{"_id": "8828", "_score": 2.1256032, "entrezgene": "8828", "name": "neuropilin 2", "symbol": "NRP2", "taxid": 9606}]}
+{"took": 8, "total": 1, "max_score": 2.1256032, "hits": [{"_id": "8828", "_score": 2.1256032, "entrezgene": "8828", "name": "neuropilin 2", "symbol": "NRP2", "taxid": 9606}]}
