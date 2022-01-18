@@ -1,0 +1,643 @@
+surface,symbol,entrezgene or _id,ensembl_id,pdb_id,name
+14-3-3 beta,2014/3/3,101501220,,,14-3-3-like protein B
+53BP2,Trp53bp2,209456,ENSMUSG00000026510,,transformation related protein 53 binding protein 2
+80K-H,PRKCSH,5589,ENSG00000130175,,protein kinase C substrate 80K-H
+A beta,a,50518,ENSMUSG00000027596,,nonagouti
+A kinase anchoring protein,a,50518,ENSMUSG00000027596,,nonagouti
+ABL-SH3,LOC108688689,108688689,,,abl interactor 2-like
+ABP-280,Flnc,68794,ENSMUSG00000068699,,"filamin C, gamma"
+ADA,ADA,100,ENSG00000196839,"['1M7M', '3IAR']",adenosine deaminase
+AKAP75,AKAP5,281612,ENSBTAG00000009642,,A-kinase anchoring protein 5
+AKAP79,Akap5,171026,ENSRNOG00000006410,,A-kinase anchoring protein 5
+APO-1,,PGSC0003DMG400022740,,,"APO protein 1, chloroplastic"
+AT mutated,at,11904,,,atrichosis
+ATF,Atf,692594,,,activating transcription factor
+ATM,ATM,472,ENSG00000149311,"['5NP0', '5NP1', '6HKA', '6K9K', '6K9L']",ATM serine/threonine kinase
+Abeta,PPP2R1B,5519,ENSG00000137713,,protein phosphatase 2 scaffold subunit Abeta
+Abeta peptide,APP,351,ENSG00000142192,"['1AAP', '1AMB', '1AMC', '1AML', '1BA4', '1BA6', '1BJB', '1BJC', '1BRC', '1CA0', '1HZ3', '1IYT', '1MWP', '1OWT', '1QCM', '1QWP', '1QXC', '1QYT', '1TAW', '1TKN', '1UO7', '1UO8', '1UOA', '1UOI', '1X11', '1Z0Q', '1ZE7', '1ZE9', '1ZJD', '2BEG', '2BOM', '2BP4', '2FJZ', '2FK1', '2FK2', '2FK3', '2FKL', '2FMA', '2G47', '2IPU', '2LFM', '2LLM', '2LMN', '2LMO', '2LMP', '2LMQ', '2LNQ', '2LOH', '2LP1', '2LZ3', '2LZ4', '2M4J', '2M9R', '2M9S', '2MGT', '2MJ1', '2MPZ', '2MVX', '2MXU', '2NAO', '2OTK', '2R0W', '2WK3', '2Y29', '2Y2A', '2Y3J', '2Y3K', '2Y3L', '3AYU', '3BAE', '3BKJ', '3DXC', '3DXD', '3DXE', '3GCI', '3IFL', '3IFN', '3IFO', '3IFP', '3JQ5', '3JQL', '3JTI', '3KTM', '3L33', '3L81', '3MOQ', '3MXC', '3MXY', '3NYJ', '3NYL', '3OVJ', '3OW9', '3PZZ', '3Q2X', '3SV1', '3U0T', '3UMH', '3UMI', '3UMK', '4HIX', '4JFN', '4M1C', '4MDR', '4MVI', '4MVK', '4MVL', '4NGE', '4OJF', '4ONF', '4ONG', '4PQD', '4PWQ', '4XXD', '5AEF', '5AM8', '5AMB', '5BUO', '5C67', '5CSZ', '5HOW', '5HOX', '5HOY', '5KK3', '5LFY', '5LV0', '5MY4', '5MYO', '5MYX', '5ONP', '5ONQ', '5OQV', '5TXD', '5VOS', '5VZY', '5W3P', '6CO3', '6GFI', '6ITU', '6IYC', '6NB9', '6O4J', '6OC9', '6OIZ', '6RHY', '6SHS', '6SZF', '6TI5', '6TI6', '6TI7', '6W0O', '6WXM', '6YHF', '6YHI', '6YHO', '6YHP', '6YHX', '7B3J', '7B3K', '7JXN', '7JXO', '7O1Q']",amyloid beta precursor protein
+ActR-II,ACVR2A,443304,ENSOARG00000009841,,activin A receptor type 2A
+ActRII,acvr2a.S,495087,,,activin A receptor type 2A S homeolog
+Activin A,a,50518,ENSMUSG00000027596,,nonagouti
+Apo-1,,PGSC0003DMG400022740,,,"APO protein 1, chloroplastic"
+B61,GfIV_sB61gp1,5179584,,,GfV-B61-ORF1
+BAG-1,bag-1,172373,WBGene00000236,1T7S,BAG family molecular chaperone regulator 1
+BDNF,BDNF,627,ENSG00000176697,"['1B8M', '1BND']",brain derived neurotrophic factor
+BMP type II receptor,RECEPTOR,443145,,,neuropilin-1
+BMP-2,Bmp-2,733059,,,bmp-2 protein
+BMP-4,bmp4,110965868,,,bone morphogenetic protein 4
+BMP-6,GDF6,407175,ENSBTAG00000007687,,growth differentiation factor 6
+BMP-7,bmp7.1.S,108702613,,,"bone morphogenetic protein 7, gene 1 S homeolog"
+BMPR-IA,BMPR1A,101112282,,,bone morphogenetic protein receptor type 1A
+BMPR-II,bmpr2.L,108701455,,,bone morphogenetic protein receptor type II L homeolog
+BMPRIB,BMPR1B,100861211,ENSCHIG00000017761,,bone morphogenetic protein receptor type 1B
+BR-I,CBLL1,524139,ENSBTAG00000018348,,Cbl proto-oncogene like 1
+BR-II,zip,38001,FBgn0265434,,zipper
+BR-Ia,ITGA2,3673,ENSG00000164171,"['1AOX', '1DZI', '1PQB', '1V7P', '4BJ3', '5HJ2', '5THP', '6ND8', '6ND9', '6NDA', '6NDB', '6NDC', '6NDD', '6NDE', '6NDF', '6NDG', '6NDH']",integrin subunit alpha 2
+Bax,BAX,581,ENSG00000087088,"['1F16', '2G5B', '2K7W', '2LR1', '3PK1', '3PL7', '4BD2', '4BD6', '4BD7', '4BD8', '4BDU', '4S0O', '4S0P', '4UF2', '4ZIE', '4ZIF', '4ZIG', '4ZIH', '4ZII', '5W5X', '5W5Z', '5W60', '5W61', '6EB6', '6L8V', '6L95', '6TRR', '6XY6']","BCL2 associated X, apoptosis regulator"
+Bcl-2-binding protein,LOC112410485,112410485,,,bcl-2-binding component 3
+Bcl-X,bclx,100196057,ENSSSAG00000063803,,Apoptosis regulator Bcl-X
+Bcl-X-L,bcl2l1,447991,,,BCL2 like 1
+Bcl-X-S,bcl2l1,447991,,,BCL2 like 1
+Bcl-x(L),bcl2l1,447991,,,BCL2 like 1
+Bone morphogenetic protein-2,BMP2,650,ENSG00000125845,"['1ES7', '1REU', '1REW', '2GOO', '2H62', '2H64', '2QJ9', '2QJA', '2QJB', '3BK3', '3BMP', '4MID', '4N1D', '4UHY', '4UHZ', '4UI0', '4UI1', '4UI2', '6OMN']",bone morphogenetic protein 2
+Bp50,cd40,100270675,ENSXETG00000033362,,"CD40 molecule, TNF receptor superfamily member 5"
+C3,C3,718,ENSG00000125730,"['1C3D', '1GHQ', '1W2S', '2A73', '2A74', '2GOX', '2I07', '2ICE', '2ICF', '2NOJ', '2QKI', '2WII', '2WIN', '2WY7', '2WY8', '2XQW', '2XWB', '2XWJ', '3D5R', '3D5S', '3G6J', '3L3O', '3L5N', '3NMS', '3OED', '3OHX', '3OXU', '3RJ3', '3T4A', '4HW5', '4HWJ', '4I6O', '4M76', '4ONT', '4ZH1', '5FO7', '5FO8', '5FO9', '5FOA', '5FOB', '5NBQ', '5O32', '5O35', '6EHG', '6RMT', '6RMU', '6RUR', '6RUV', '6S0B', '6YO6']",complement C3
+C5,C5,727,ENSG00000106804,"['1CFA', '1KJS', '1XWE', '3CU7', '3HQA', '3HQB', '3KLS', '3KM9', '3PRX', '3PVM', '4A5W', '4E0S', '4P39', '4UU9', '5B4P', '5B71', '5HCC', '5HCD', '5HCE', '5I5K', '6H03', '6H04', '6RPT', '7AD6', '7AD7']",complement C5
+C9,C9,735,ENSG00000113600,"['5FMW', '6DLW', '6H03', '6H04']",complement C9
+CAP-60,RpL14,38983,FBgn0017579,4V6W,Ribosomal protein L14
+CC chemokine receptor 3,RECEPTOR,443145,,,neuropilin-1
+CCKB G protein-coupled receptor,RECEPTOR,443145,,,neuropilin-1
+CCKB receptor,RECEPTOR,443145,,,neuropilin-1
+CCL16,CCL16,6360,,5LTL,C-C motif chemokine ligand 16
+CCR1,CCR1,1230,ENSG00000163823,1Y5D,C-C motif chemokine receptor 1
+CCR2,CCR2,729230,ENSG00000121807,"['1KAD', '1KP1', '2MLO', '2MLQ', '5T1A']",C-C motif chemokine receptor 2
+CCR3,CCR3,1232,ENSG00000183625,,C-C motif chemokine receptor 3
+CCR5,CCR5,1234,ENSG00000160791,"['1ND8', '1NE0', '1OPN', '1OPT', '1OPW', '2L87', '2MZX', '2RLL', '2RRS', '4MBS', '5UIW', '5YD3', '5YD4', '5YD5', '5YY4', '6FGP', '6MEO', '6MET', '7O7F']",C-C motif chemokine receptor 5
+CCR8,CCR8,1237,ENSG00000179934,,C-C motif chemokine receptor 8
+CD14,CD14,929,ENSG00000170458,4GLP,CD14 molecule
+CD16,snoRNA:Or-CD16,39877421,FBgn0286737,,snoRNA:Orphan CD box 16
+CD30,tnfrsf8,100496791,,,TNF receptor superfamily member 8
+CD30 ligand,TNFSF8,944,ENSG00000106952,,TNF superfamily member 8
+CD30L,TNFSF8,378930,ENSGALG00000053788,,tumor necrosis factor superfamily member 8
+CD34,CD34,947,ENSG00000174059,,CD34 molecule
+CD4,CD4,920,ENSG00000010610,"['1CDH', '1CDI', '1CDJ', '1CDU', '1CDY', '1G9M', '1G9N', '1GC1', '1JL4', '1OPN', '1OPT', '1OPW', '1Q68', '1RZJ', '1RZK', '1WBR', '1WIO', '1WIP', '1WIQ', '2B4C', '2JKR', '2JKT', '2KLU', '2NXY', '2NXZ', '2NY0', '2NY1', '2NY2', '2NY3', '2NY4', '2NY5', '2NY6', '2QAD', '3B71', '3CD4', '3J70', '3JCB', '3JCC', '3JWD', '3JWO', '3LQA', '3O2D', '3S4S', '3S5L', '3T0E', '4H8W', '4JM2', '4P9H', '4Q6I', '4R2G', '4R4H', '4RQS', '5A7X', '5A8H', '5CAY', '5THR', '5U1F', '5VN3', '6CM3', '6EDU', '6L1Y', '6MEO', '6MET', '6OPN', '6OPO', '6OPP', '6OPQ', '6QH6', '6QH7', '6U0L', '6U0N', '6URI', '6X5B', '6X5C']",CD4 molecule
+CD40,CD40,958,ENSG00000101017,"['1CDF', '1CZZ', '1D00', '1FLL', '1LB6', '3QD6', '5DMI', '5DMJ', '5IHL', '6FAX', '6PE8', '6PE9']",CD40 molecule
+CD40 ligand,CD40,958,ENSG00000101017,"['1CDF', '1CZZ', '1D00', '1FLL', '1LB6', '3QD6', '5DMI', '5DMJ', '5IHL', '6FAX', '6PE8', '6PE9']",CD40 molecule
+CD44,CD44,960,ENSG00000026508,"['1POZ', '1UUH', '2I83', '4PZ3', '4PZ4', '6TXS']",CD44 molecule (Indian blood group)
+CD5,CD5,921,ENSG00000110448,"['2JA4', '2JOP', '2JP0', '2OTT']",CD5 molecule
+CD72,CD72,971,ENSG00000137101,,CD72 molecule
+CD8,Cd8a,12525,ENSMUSG00000053977,"['1BQH', '1NEZ', '2ARJ', '2ATP', '3B9K', '3DMM']","CD8 antigen, alpha chain"
+CD8alpha,cd8a,777995,,,CD8a molecule
+CD9,CD9,928,ENSG00000010278,"['6K4J', '6RLO', '6RLR', '6Z1V', '6Z20']",CD9 molecule
+CD95,LOC403442,403442,,,death factor CD95
+CD95 ligand,FASLG,574159,ENSMMUG00000065134,,Fas ligand
+CD95L,FASLG,105484428,ENSMNEG00000040462,,Fas ligand
+CDC2-HS,RBMS2,5939,ENSG00000076067,1X4E,RNA binding motif single stranded interacting protein 2
+CDC37,CDC37,11140,ENSG00000105401,"['1US7', '2K5B', '2N5X', '2NCA', '2W0G', '5FWK', '5FWL', '5FWM', '5FWP', '5HPE']","cell division cycle 37, HSP90 cochaperone"
+CDK2,CDK2,1017,ENSG00000123374,"['1AQ1', '1B38', '1B39', '1BUH', '1CKP', '1DI8', '1DM2', '1E1V', '1E1X', '1E9H', '1F5Q', '1FIN', '1FQ1', '1FVT', '1FVV', '1G5S', '1GIH', '1GII', '1GIJ', '1GY3', '1GZ8', '1H00', '1H01', '1H07', '1H08', '1H0V', '1H0W', '1H1P', '1H1Q', '1H1R', '1H1S', '1H24', '1H25', '1H26', '1H27', '1H28', '1HCK', '1HCL', '1JST', '1JSU', '1JSV', '1JVP', '1KE5', '1KE6', '1KE7', '1KE8', '1KE9', '1OGU', '1OI9', '1OIQ', '1OIR', '1OIT', '1OIU', '1OIY', '1OKV', '1OKW', '1OL1', '1OL2', '1P2A', '1P5E', '1PF8', '1PKD', '1PW2', '1PXI', '1PXJ', '1PXK', '1PXL', '1PXM', '1PXN', '1PXO', '1PXP', '1PYE', '1QMZ', '1R78', '1URC', '1URW', '1V1K', '1VYW', '1VYZ', '1W0X', '1W8C', '1W98', '1WCC', '1Y8Y', '1Y91', '1YKR', '2A0C', '2A4L', '2B52', '2B53', '2B54', '2B55', '2BHE', '2BHH', '2BKZ', '2BPM', '2BTR', '2BTS', '2C4G', '2C5N', '2C5O', '2C5V', '2C5X', '2C5Y', '2C68', '2C69', '2C6I', '2C6K', '2C6L', '2C6M', '2C6O', '2C6T', '2CCH', '2CCI', '2CJM', '2CLX', '2DS1', '2DUV', '2EXM', '2FVD', '2G9X', '2HIC', '2I40', '2IW6', '2IW8', '2IW9', '2J9M', '2JGZ', '2R3F', '2R3G', '2R3H', '2R3I', '2R3J', '2R3K', '2R3L', '2R3M', '2R3N', '2R3O', '2R3P', '2R3Q', '2R3R', '2R64', '2UUE', '2UZB', '2UZD', '2UZE', '2UZL', '2UZN', '2UZO', '2V0D', '2V22', '2VTA', '2VTH', '2VTI', '2VTJ', '2VTL', '2VTM', '2VTN', '2VTO', '2VTP', '2VTQ', '2VTR', '2VTS', '2VTT', '2VU3', '2VV9', '2W05', '2W06', '2W17', '2W1H', '2WEV', '2WFY', '2WHB', '2WIH', '2WIP', '2WMA', '2WMB', '2WPA', '2WXV', '2X1N', '2XMY', '2XNB', '3BHT', '3BHU', '3BHV', '3DDP', '3DDQ', '3DOG', '3EID', '3EJ1', '3EOC', '3EZR', '3EZV', '3F5X', '3FZ1', '3IG7', '3IGG', '3LE6', '3LFN', '3LFQ', '3LFS', '3MY5', '3NS9', '3PJ8', '3PXF', '3PXQ', '3PXR', '3PXY', '3PXZ', '3PY0', '3PY1', '3QHR', '3QHW', '3QL8', '3QQF', '3QQG', '3QQH', '3QQJ', '3QQK', '3QQL', '3QRT', '3QRU', '3QTQ', '3QTR', '3QTS', '3QTU', '3QTW', '3QTX', '3QTZ', '3QU0', '3QWJ', '3QWK', '3QX2', '3QX4', '3QXO', '3QXP', '3QZF', '3QZG', '3QZH', '3QZI', '3R1Q', '3R1S', '3R1Y', '3R28', '3R6X', '3R71', '3R73', '3R7E', '3R7I', '3R7U', '3R7V', '3R7Y', '3R83', '3R8L', '3R8M', '3R8P', '3R8U', '3R8V', '3R8Z', '3R9D', '3R9H', '3R9N', '3R9O', '3RAH', '3RAI', '3RAK', '3RAL', '3RJC', '3RK5', '3RK7', '3RK9', '3RKB', '3RM6', '3RM7', '3RMF', '3RNI', '3ROY', '3RPO', '3RPR', '3RPV', '3RPY', '3RZB', '3S00', '3S0O', '3S1H', '3S2P', '3SQQ', '3SW4', '3SW7', '3TI1', '3TIY', '3TIZ', '3TNW', '3ULI', '3UNJ', '3UNK', '3WBL', '4ACM', '4BCK', '4BCM', '4BCN', '4BCO', '4BCP', '4BCQ', '4BGH', '4BZD', '4CFM', '4CFN', '4CFU', '4CFV', '4CFW', '4CFX', '4D1X', '4D1Z', '4EK3', '4EK4', '4EK5', '4EK6', '4EK8', '4EOI', '4EOJ', '4EOK', '4EOL', '4EOM', '4EON', '4EOO', '4EOP', '4EOQ', '4EOR', '4EOS', '4ERW', '4EZ3', '4EZ7', '4FKG', '4FKI', '4FKJ', '4FKL', '4FKO', '4FKP', '4FKQ', '4FKR', '4FKS', '4FKT', '4FKU', '4FKV', '4FKW', '4FX3', '4GCJ', '4I3Z', '4II5', '4KD1', '4LYN', '4NJ3', '4RJ3', '5A14', '5AND', '5ANE', '5ANG', '5ANI', '5ANJ', '5ANK', '5ANO', '5CYI', '5D1J', '5FP5', '5FP6', '5IEV', '5IEX', '5IEY', '5IF1', '5JQ5', '5JQ8', '5K4J', '5L2W', '5LMK', '5MHQ', '5NEV', '5OO0', '5OO1', '5OO3', '5OSJ', '5OSM', '5UQ1', '5UQ2', '5UQ3', '6ATH', '6GUB', '6GUC', '6GUE', '6GUF', '6GUH', '6GUK', '6GVA', '6INL', '6JGM', '6OQI', '6P3W', '6Q3B', '6Q3C', '6Q3F', '6Q48', '6Q49', '6Q4A', '6Q4B', '6Q4C', '6Q4D', '6Q4E', '6Q4F', '6Q4G', '6Q4H', '6Q4I', '6Q4J', '6Q4K', '6RIJ', '6SG4', '6YL1', '6YL6', '6YLK', '7ACK', '7B5L', '7B5R', '7E34', '7KJS', '7NVQ']",cyclin dependent kinase 2
+CDK4,CDK4,1019,ENSG00000135446,"['1LD2', '2W96', '2W99', '2W9F', '2W9Z', '3G33', '5FWK', '5FWL', '5FWM', '5FWP', '6P8E', '6P8F', '6P8G', '6P8H']",cyclin dependent kinase 4
+CDK6,CDK6,1021,ENSG00000105810,"['1BI7', '1BI8', '1BLX', '1G3N', '1JOW', '1XO2', '2EUF', '2F2C', '3NUP', '3NUX', '4AUA', '4EZ5', '4TTH', '5L2I', '5L2S', '5L2T', '6OQL', '6OQO']",cyclin dependent kinase 6
+CNTF,CNTF,1270,ENSG00000242689,1CNT,ciliary neurotrophic factor
+CNTFR alpha,CNTFR,1271,ENSG00000122756,1UC6,ciliary neurotrophic factor receptor
+COX-2,cox-2,100136025,ENSOMYG00000005747,,cyclooxygenase-2
+CREB-binding protein,CREBBP,1387,ENSG00000005339,"['1JSP', '1LIQ', '1RDT', '1WO3', '1WO4', '1WO5', '1WO6', '1WO7', '1ZOQ', '2D82', '2KJE', '2KWF', '2L84', '2L85', '2LXS', '2LXT', '2N1A', '2RNY', '3DWY', '3P1C', '3P1D', '3P1E', '3P1F', '3SVH', '4A9K', '4N3W', '4N4F', '4NR4', '4NR5', '4NR6', '4NR7', '4NYV', '4NYW', '4NYX', '4OUF', '4TQN', '4TS8', '4WHU', '4YK0', '5CGP', '5DBM', '5EIC', '5ENG', '5EP7', '5GH9', '5H85', '5I83', '5I86', '5I89', '5I8B', '5I8G', '5J0D', '5JEM', '5KTU', '5KTW', '5KTX', '5LPJ', '5LPL', '5MME', '5MMG', '5MPK', '5MPN', '5MPZ', '5MQE', '5MQG', '5MQK', '5NLK', '5NRW', '5NU3', '5OWK', '5SVH', '5TB6', '5W0E', '5W0F', '5W0L', '5W0Q', '5XXH', '6ALB', '6ALC', '6AXQ', '6AY3', '6AY5', '6DMK', '6ES5', '6ES6', '6ES7', '6FQO', '6FQT', '6FQU', '6FR0', '6FRF', '6M64', '6QST', '6SQE', '6SQF', '6SQM', '6SXX', '6YIJ', '6YIK', '6YIL', '6YIM', '7CO1', '7JFL', '7JFM']",CREB binding protein
+CTF-1,Nfix,101833130,ENSMAUG00000018106,,nuclear factor I X
+CTLA-4,CTLA4,102401069,,,cytotoxic T-lymphocyte associated protein 4
+CXCR-4,LOC117361035,117361035,,,C-X-C chemokine receptor type 4-B-like
+CXCR1,CXCR1,3577,ENSG00000163464,"['1ILP', '1ILQ', '2LNL']",C-X-C motif chemokine receptor 1
+CXCR2,CXCR2,3579,ENSG00000180871,"['4Q3H', '5TYT', '6KVA', '6KVF', '6LFM', '6LFO']",C-X-C motif chemokine receptor 2
+CXCR4,CXCR4,7852,ENSG00000121966,"['2K03', '2K04', '2K05', '2N55', '3ODU', '3OE0', '3OE6', '3OE8', '3OE9', '4RWS']",C-X-C motif chemokine receptor 4
+CaN,can,12329,,,cartilage anomaly
+Calnexin,CANX,821,,,calnexin
+Calreticulin,CALR,811,ENSG00000179218,"['2CLR', '3DOW', '3POS', '3POW', '5LK5', '5V90', '6ENY']",calreticulin
+Cdi1,CDKN3,1033,ENSG00000100526,"['1FPZ', '1FQ1']",cyclin dependent kinase inhibitor 3
+Cdk2,CDK2,1017,ENSG00000123374,"['1AQ1', '1B38', '1B39', '1BUH', '1CKP', '1DI8', '1DM2', '1E1V', '1E1X', '1E9H', '1F5Q', '1FIN', '1FQ1', '1FVT', '1FVV', '1G5S', '1GIH', '1GII', '1GIJ', '1GY3', '1GZ8', '1H00', '1H01', '1H07', '1H08', '1H0V', '1H0W', '1H1P', '1H1Q', '1H1R', '1H1S', '1H24', '1H25', '1H26', '1H27', '1H28', '1HCK', '1HCL', '1JST', '1JSU', '1JSV', '1JVP', '1KE5', '1KE6', '1KE7', '1KE8', '1KE9', '1OGU', '1OI9', '1OIQ', '1OIR', '1OIT', '1OIU', '1OIY', '1OKV', '1OKW', '1OL1', '1OL2', '1P2A', '1P5E', '1PF8', '1PKD', '1PW2', '1PXI', '1PXJ', '1PXK', '1PXL', '1PXM', '1PXN', '1PXO', '1PXP', '1PYE', '1QMZ', '1R78', '1URC', '1URW', '1V1K', '1VYW', '1VYZ', '1W0X', '1W8C', '1W98', '1WCC', '1Y8Y', '1Y91', '1YKR', '2A0C', '2A4L', '2B52', '2B53', '2B54', '2B55', '2BHE', '2BHH', '2BKZ', '2BPM', '2BTR', '2BTS', '2C4G', '2C5N', '2C5O', '2C5V', '2C5X', '2C5Y', '2C68', '2C69', '2C6I', '2C6K', '2C6L', '2C6M', '2C6O', '2C6T', '2CCH', '2CCI', '2CJM', '2CLX', '2DS1', '2DUV', '2EXM', '2FVD', '2G9X', '2HIC', '2I40', '2IW6', '2IW8', '2IW9', '2J9M', '2JGZ', '2R3F', '2R3G', '2R3H', '2R3I', '2R3J', '2R3K', '2R3L', '2R3M', '2R3N', '2R3O', '2R3P', '2R3Q', '2R3R', '2R64', '2UUE', '2UZB', '2UZD', '2UZE', '2UZL', '2UZN', '2UZO', '2V0D', '2V22', '2VTA', '2VTH', '2VTI', '2VTJ', '2VTL', '2VTM', '2VTN', '2VTO', '2VTP', '2VTQ', '2VTR', '2VTS', '2VTT', '2VU3', '2VV9', '2W05', '2W06', '2W17', '2W1H', '2WEV', '2WFY', '2WHB', '2WIH', '2WIP', '2WMA', '2WMB', '2WPA', '2WXV', '2X1N', '2XMY', '2XNB', '3BHT', '3BHU', '3BHV', '3DDP', '3DDQ', '3DOG', '3EID', '3EJ1', '3EOC', '3EZR', '3EZV', '3F5X', '3FZ1', '3IG7', '3IGG', '3LE6', '3LFN', '3LFQ', '3LFS', '3MY5', '3NS9', '3PJ8', '3PXF', '3PXQ', '3PXR', '3PXY', '3PXZ', '3PY0', '3PY1', '3QHR', '3QHW', '3QL8', '3QQF', '3QQG', '3QQH', '3QQJ', '3QQK', '3QQL', '3QRT', '3QRU', '3QTQ', '3QTR', '3QTS', '3QTU', '3QTW', '3QTX', '3QTZ', '3QU0', '3QWJ', '3QWK', '3QX2', '3QX4', '3QXO', '3QXP', '3QZF', '3QZG', '3QZH', '3QZI', '3R1Q', '3R1S', '3R1Y', '3R28', '3R6X', '3R71', '3R73', '3R7E', '3R7I', '3R7U', '3R7V', '3R7Y', '3R83', '3R8L', '3R8M', '3R8P', '3R8U', '3R8V', '3R8Z', '3R9D', '3R9H', '3R9N', '3R9O', '3RAH', '3RAI', '3RAK', '3RAL', '3RJC', '3RK5', '3RK7', '3RK9', '3RKB', '3RM6', '3RM7', '3RMF', '3RNI', '3ROY', '3RPO', '3RPR', '3RPV', '3RPY', '3RZB', '3S00', '3S0O', '3S1H', '3S2P', '3SQQ', '3SW4', '3SW7', '3TI1', '3TIY', '3TIZ', '3TNW', '3ULI', '3UNJ', '3UNK', '3WBL', '4ACM', '4BCK', '4BCM', '4BCN', '4BCO', '4BCP', '4BCQ', '4BGH', '4BZD', '4CFM', '4CFN', '4CFU', '4CFV', '4CFW', '4CFX', '4D1X', '4D1Z', '4EK3', '4EK4', '4EK5', '4EK6', '4EK8', '4EOI', '4EOJ', '4EOK', '4EOL', '4EOM', '4EON', '4EOO', '4EOP', '4EOQ', '4EOR', '4EOS', '4ERW', '4EZ3', '4EZ7', '4FKG', '4FKI', '4FKJ', '4FKL', '4FKO', '4FKP', '4FKQ', '4FKR', '4FKS', '4FKT', '4FKU', '4FKV', '4FKW', '4FX3', '4GCJ', '4I3Z', '4II5', '4KD1', '4LYN', '4NJ3', '4RJ3', '5A14', '5AND', '5ANE', '5ANG', '5ANI', '5ANJ', '5ANK', '5ANO', '5CYI', '5D1J', '5FP5', '5FP6', '5IEV', '5IEX', '5IEY', '5IF1', '5JQ5', '5JQ8', '5K4J', '5L2W', '5LMK', '5MHQ', '5NEV', '5OO0', '5OO1', '5OO3', '5OSJ', '5OSM', '5UQ1', '5UQ2', '5UQ3', '6ATH', '6GUB', '6GUC', '6GUE', '6GUF', '6GUH', '6GUK', '6GVA', '6INL', '6JGM', '6OQI', '6P3W', '6Q3B', '6Q3C', '6Q3F', '6Q48', '6Q49', '6Q4A', '6Q4B', '6Q4C', '6Q4D', '6Q4E', '6Q4F', '6Q4G', '6Q4H', '6Q4I', '6Q4J', '6Q4K', '6RIJ', '6SG4', '6YL1', '6YL6', '6YLK', '7ACK', '7B5L', '7B5R', '7E34', '7KJS', '7NVQ']",cyclin dependent kinase 2
+Cdk3,CDK3,1018,ENSG00000250506,1LFN,cyclin dependent kinase 3
+Cdk4,CDK4,1019,ENSG00000135446,"['1LD2', '2W96', '2W99', '2W9F', '2W9Z', '3G33', '5FWK', '5FWL', '5FWM', '5FWP', '6P8E', '6P8F', '6P8G', '6P8H']",cyclin dependent kinase 4
+Cockayne syndrome group B (CSB) protein,syndrome,252800,,,syndrome
+Crk,CRK,1398,ENSG00000167193,"['1JU5', '2DVJ', '2EYV', '2EYW', '2EYX', '2EYY', '2EYZ', '2MS4', '5UL6', '6ATV']","CRK proto-oncogene, adaptor protein"
+Crk-L,LOC121859259,121859259,,,adapter molecule Crk-like
+CrmA,CRMA,253868,,,cardiomyocyte maturation associated lncRNA
+DAF-4,daf-4,175781,WBGene00000900,,Cell surface receptor daf-4;Receptor protein serine/threonine kinase;Serine/threonine-protein kinase receptor
+DPC4,SMAD4,122902875,,,SMAD family member 4
+DPI,dsp,779453,,,desmoplakin
+DcR3,Dcr3,497118,,,decoy receptor 3
+Duffy antigen,DARC,100500770,,,"Duffy blood group, chemokine receptor"
+Dystrophin,DMD,1756,ENSG00000198947,"['1DXX', '1EG3', '1EG4', '3UUN']",dystrophin
+E-cadherin,LOC655649,655649,TC004820,,E-cadherin
+E2F1,E2F1,1869,ENSG00000101412,"['1H24', '1O9K', '2AZE', '5M9N', '5M9O', '6G0P', '6ULS']",E2F transcription factor 1
+E2F4,E2F4,1874,ENSG00000205250,"['1CF7', '5TUU']",E2F transcription factor 4
+E47,E47,14039107,,,E47
+EBP,EBP,10682,ENSG00000147155,"['6OHT', '6OHU']",EBP cholestenol delta-isomerase
+EBP delta,EBP,10682,ENSG00000147155,"['6OHT', '6OHU']",EBP cholestenol delta-isomerase
+ECK,Eck,751080,,,ecdysteroid 22-kinase
+EGF,EGF,1950,ENSG00000138798,"['1IVO', '1JL9', '1NQL', '1P9J', '2KV4', '3NJP']",epidermal growth factor
+EGFR,EGFR,1956,ENSG00000146648,"['1DNQ', '1DNR', '1IVO', '1M14', '1M17', '1MOX', '1NQL', '1XKK', '1YY9', '1Z9I', '2EB2', '2EB3', '2EXP', '2EXQ', '2GS2', '2GS6', '2GS7', '2ITN', '2ITO', '2ITP', '2ITQ', '2ITT', '2ITU', '2ITV', '2ITW', '2ITX', '2ITY', '2ITZ', '2J5E', '2J5F', '2J6M', '2JIT', '2JIU', '2JIV', '2KS1', '2M0B', '2M20', '2N5S', '2RF9', '2RFD', '2RFE', '2RGP', '3B2U', '3B2V', '3BEL', '3BUO', '3C09', '3G5V', '3G5Y', '3GOP', '3GT8', '3IKA', '3LZB', '3NJP', '3OB2', '3OP0', '3P0Y', '3PFV', '3POZ', '3QWQ', '3UG1', '3UG2', '3VJN', '3VJO', '3VRP', '3VRR', '3W2O', '3W2P', '3W2Q', '3W2R', '3W2S', '3W32', '3W33', '4G5J', '4G5P', '4HJO', '4I1Z', '4I20', '4I21', '4I22', '4I23', '4I24', '4JQ7', '4JQ8', '4JR3', '4JRV', '4KRL', '4KRM', '4KRO', '4KRP', '4LI5', '4LL0', '4LQM', '4LRM', '4R3P', '4R3R', '4R5S', '4RIW', '4RIX', '4RIY', '4RJ4', '4RJ5', '4RJ6', '4RJ7', '4RJ8', '4TKS', '4UIP', '4UV7', '4WD5', '4WKQ', '4WRG', '4ZAU', '4ZJV', '4ZSE', '5C8K', '5C8M', '5C8N', '5CAL', '5CAN', '5CAO', '5CAP', '5CAQ', '5CAS', '5CAU', '5CAV', '5CNN', '5CNO', '5CZH', '5CZI', '5D41', '5EDP', '5EDQ', '5EDR', '5EM5', '5EM6', '5EM7', '5EM8', '5FED', '5FEE', '5FEQ', '5GMP', '5GNK', '5GTY', '5GTZ', '5HCX', '5HCY', '5HCZ', '5HG5', '5HG7', '5HG8', '5HG9', '5HIB', '5HIC', '5J9Y', '5J9Z', '5JEB', '5LV6', '5SX4', '5SX5', '5U8L', '5UG8', '5UG9', '5UGA', '5UGB', '5UGC', '5UWD', '5WB7', '5WB8', '5X26', '5X27', '5X28', '5X2A', '5X2C', '5X2F', '5X2K', '5XDK', '5XDL', '5XGM', '5XGN', '5XWD', '5Y25', '5Y9T', '5YU9', '5ZTO', '5ZWJ', '6ARU', '6B3S', '6D8E', '6DUK', '6JRJ', '6JRK', '6JRX', '6JWL', '6JX0', '6JX4', '6JXT', '6JZ0', '6LUB', '6LUD', '6P1D', '6P1L', '6P8Q', '6S89', '6S8A', '6S9B', '6S9C', '6S9D', '6TFU', '6TFV', '6TFW', '6TFY', '6TFZ', '6TG0', '6TG1', '6V5N', '6V5P', '6V66', '6V6K', '6V6O', '6VH4', '6VHN', '6VHP', '6WA2', '6WAK', '6WXN', '6XL4', '6Z4B', '6Z4D', '7A2A', '7AEI', '7AEM']",epidermal growth factor receptor
+EMP1,EMP1,2012,ENSG00000134531,,epithelial membrane protein 1
+EPO,EPO,2056,ENSG00000130427,"['1BUY', '1CN4', '1EER']",erythropoietin
+EPO binding protein,EPO,2056,ENSG00000130427,"['1BUY', '1CN4', '1EER']",erythropoietin
+EPO mimetic peptide,EPO,2056,ENSG00000130427,"['1BUY', '1CN4', '1EER']",erythropoietin
+EPO-binding protein,TIMP1,7076,ENSG00000102265,"['1D2B', '1LQN', '1OO9', '1UEA', '2J0T', '3MA2', '3V96', '6MAV', '6N9D']",TIMP metallopeptidase inhibitor 1
+EPOR,EPOR,2057,ENSG00000187266,"['1CN4', '1EBA', '1EBP', '1EER', '1ERN', '2JIX', '2MV6', '4Y5V', '4Y5X', '4Y5Y', '6E2Q', '6MOE', '6MOF', '6MOH', '6MOI', '6MOJ', '6MOK', '6MOL']",erythropoietin receptor
+ET(A),NEWENTRY,4290775,,,"Record to support submission of GeneRIFs for a gene not in Gene (Shewanella arctica; Shewanella arctica Kim et al. 2012; Shewanella arctica Kim et al. 2012 non Qoura et al. 2014.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."
+ET(A) receptor,RECEPTOR,443145,,,neuropilin-1
+ET(B),EDNRB,112907186,ENSVVUG00000014127,,endothelin receptor type B
+ET(B) receptor,RECEPTOR,443145,,,neuropilin-1
+ET-1,LTHEOB_4325,56018053,,,Et-dependent rRNA methyltransferase Spb-1
+ET-3,ednrb,378691,,,endothelin-3 receptor
+Elf-1,elf-1,175226,WBGene00016029,,ETS domain-containing protein
+Endothelin-1,EDN1,1906,ENSG00000078401,"['1EDN', '1EDP', '1T7H', '1V6R', '5GLH', '6DK5']",endothelin 1
+Eotaxin-3,LOC116733420,116733420,,,eotaxin-like
+ErbB-1,LOC114396592,114396592,,,ERBB-3 BINDING PROTEIN 1
+ErbB2,ERBB2,2064,ENSG00000141736,"['1MFG', '1MFL', '1MW4', '1N8Z', '1OVC', '1QR1', '1S78', '2A91', '2JWA', '2KS1', '2L4K', '2N2A', '3BE1', '3H3B', '3MZW', '3N85', '3PP0', '3RCD', '3WLW', '3WSQ', '4GFU', '4HRL', '4HRM', '4HRN', '5K33', '5KWG', '5MY6', '5O4G', '5OB4', '5TQS', '6ATT', '6BGT', '6J71', '6LBX', '6OGE']",erb-b2 receptor tyrosine kinase 2
+ErbB3,ERBB3,2065,ENSG00000065361,"['1M6B', '2L9U', '3KEX', '3LMG', '3P11', '4LEO', '4P59', '4RIW', '4RIX', '4RIY', '5CUS', '5O4O', '5O7P', '6KBI', '6OP9', '7D85']",erb-b2 receptor tyrosine kinase 3
+ErbB4,ERBB4,2066,ENSG00000178568,"['2AHX', '2L2T', '2LCX', '2R4B', '3BBT', '3BBW', '3BCE', '3U2P', '3U7U', '3U9U']",erb-b2 receptor tyrosine kinase 4
+Estrogen Receptor,RECEPTOR,443145,,,neuropilin-1
+F1,F1,100631052,F1,,silk fibroin 1
+FADD,FADD,8772,ENSG00000168040,"['1A1W', '1A1Z', '1E3Y', '1E41', '2GF5', '3EZQ', '3OQ9', '6ACI']",Fas associated via death domain
+FGF-7,FGF7,122705509,,,fibroblast growth factor 7
+FGF1,FGF1,2246,ENSG00000113578,"['1AXM', '1DJS', '1DZC', '1DZD', '1E0O', '1EVT', '1HKN', '1JQZ', '1JT3', '1JT4', '1JT5', '1JT7', '1JTC', '1JY0', '1K5U', '1K5V', '1M16', '1NZK', '1P63', '1PZZ', '1Q03', '1Q04', '1QCT', '1RG8', '1RML', '1RY7', '1YTO', '1Z2V', '1Z4S', '2AFG', '2AQZ', '2AXM', '2ERM', '2HW9', '2HWA', '2HWM', '2HZ9', '2K43', '2K4A', '2K8R', '2KI4', '2KI6', '2NTD', '2Q9X', '2RQ9', '3B9U', '3BA4', '3BA5', '3BA7', '3BAD', '3BAG', '3BAH', '3BAO', '3BAQ', '3BAU', '3BAV', '3BB2', '3CQA', '3CRG', '3CRH', '3CRI', '3CU1', '3FGM', '3FJ8', '3FJ9', '3FJA', '3FJB', '3FJC', '3FJD', '3FJE', '3FJF', '3FJH', '3FJI', '3FJJ', '3FJK', '3HOM', '3JUT', '3K1X', '3O3Q', '3OJ2', '3OJM', '3OJV', '3UD7', '3UD8', '3UD9', '3UDA', '4J23', '4Q91', '4Q9G', '4Q9P', '4QAL', '4QBC', '4QBV', '4QC4', '4QO3', '4XKI', '4YOL']",fibroblast growth factor 1
+FGF10,FGF10,2255,ENSG00000070193,1NUN,fibroblast growth factor 10
+FGF2,FGF2,2247,ENSG00000138685,"['1BAS', '1BFB', '1BFC', '1BFF', '1BFG', '1BLA', '1BLD', '1CVS', '1EV2', '1FGA', '1FQ9', '1II4', '1IIL', '2BFH', '2FGF', '2M49', '4FGF', '4OEE', '4OEF', '4OEG', '5X1O', '6L4O']",fibroblast growth factor 2
+FGF6,FGF6,2251,ENSG00000111241,,fibroblast growth factor 6
+FGF7,FGF7,2252,ENSG00000140285,,fibroblast growth factor 7
+FGF9,FGF9,2254,ENSG00000102678,"['1G82', '1IHK', '5W59']",fibroblast growth factor 9
+FGFR1,FGFR1,2260,ENSG00000077782,"['1AGW', '1CVS', '1EVT', '1FGI', '1FGK', '1FQ9', '1XR0', '2CR3', '2FGI', '3C4F', '3DPK', '3GQI', '3GQL', '3JS2', '3KRJ', '3KRL', '3KXX', '3KY2', '3OJV', '3RHX', '3TT0', '4F63', '4F64', '4F65', '4NK9', '4NKA', '4NKS', '4RWI', '4RWJ', '4RWK', '4RWL', '4UWB', '4UWC', '4UWY', '4V01', '4V04', '4V05', '4WUN', '4ZSA', '5A46', '5A4C', '5AM6', '5AM7', '5B7V', '5EW8', '5FLF', '5O49', '5O4A', '5UQ0', '5UR1', '5VND', '5W21', '5W59', '5Z0S', '5ZV2', '6C18', '6C19', '6C1B', '6C1C', '6C1O', '6ITJ', '6MZQ', '6MZW', '6NVL', '6P68', '6P69']",fibroblast growth factor receptor 1
+FGFR2,FGFR2,2263,ENSG00000066468,"['1DJS', '1E0O', '1EV2', '1GJO', '1II4', '1IIL', '1NUN', '1OEC', '1WVZ', '2FDB', '2PSQ', '2PVF', '2PVY', '2PWL', '2PY3', '2PZ5', '2PZP', '2PZR', '2Q0B', '3B2T', '3CAF', '3CLY', '3CU1', '3DAR', '3EUU', '3OJ2', '3OJM', '3RI1', '4J23', '4J95', '4J96', '4J97', '4J98', '4J99', '4WV1', '5EG3', '5UGL', '5UGX', '5UHN', '5UI0', '6AGX', '6LVK', '6LVL', '6V6Q', '7KIA', '7KIE']",fibroblast growth factor receptor 2
+FGFR2 IIIb,FGFR2,2263,ENSG00000066468,"['1DJS', '1E0O', '1EV2', '1GJO', '1II4', '1IIL', '1NUN', '1OEC', '1WVZ', '2FDB', '2PSQ', '2PVF', '2PVY', '2PWL', '2PY3', '2PZ5', '2PZP', '2PZR', '2Q0B', '3B2T', '3CAF', '3CLY', '3CU1', '3DAR', '3EUU', '3OJ2', '3OJM', '3RI1', '4J23', '4J95', '4J96', '4J97', '4J98', '4J99', '4WV1', '5EG3', '5UGL', '5UGX', '5UHN', '5UI0', '6AGX', '6LVK', '6LVL', '6V6Q', '7KIA', '7KIE']",fibroblast growth factor receptor 2
+FGFR2b,Sm-FGFR2b,SMAR003253,SMAR003253,,Fibroblast Growth Factor Receptor 2b
+FGFR2c,fgfr2,352940,ENSDARG00000058115,,fibroblast growth factor receptor 2
+FGFR3,FGFR3,2261,ENSG00000068078,"['1RY7', '2LZL', '4K33', '6LVM', '6PNX', '7DHL']",fibroblast growth factor receptor 3
+FGFR3 IIIb,FGFR3,2261,ENSG00000068078,"['1RY7', '2LZL', '4K33', '6LVM', '6PNX', '7DHL']",fibroblast growth factor receptor 3
+FGFR3 IIIc,FGFR3,2261,ENSG00000068078,"['1RY7', '2LZL', '4K33', '6LVM', '6PNX', '7DHL']",fibroblast growth factor receptor 3
+FGFR4,FGFR4,2264,ENSG00000160867,"['1QCT', '4QQ5', '4QQC', '4QQJ', '4QQT', '4QRC', '4R6V', '4TYE', '4TYG', '4TYI', '4TYJ', '4UXQ', '4XCU', '5JKG', '5NUD', '5NWZ', '5XFF', '5XFJ', '6IUO', '6IUP', '6J6Y', '6JPE', '6JPJ', '6NVG', '6NVH', '6NVI', '6NVJ', '6NVK', '6V9C', '6YI8', '7DTZ']",fibroblast growth factor receptor 4
+FLICE,FLASH,36455,FBgn0033806,,FLICE-associated huge protein
+FLT-1,FLT-1,443182,,,vascular endothelial growth factor receptor-1
+Fas,FAS,355,ENSG00000026103,"['1BZI', '1DDF', '2NA7', '3EWT', '3EZQ', '3THM', '3TJE']",Fas cell surface death receptor
+Fas ligand,FAS,355,ENSG00000026103,"['1BZI', '1DDF', '2NA7', '3EWT', '3EZQ', '3THM', '3TJE']",Fas cell surface death receptor
+FasL,Fasl,14103,ENSMUSG00000000817,,"Fas ligand (TNF superfamily, member 6)"
+Flk-1,KDR,102412057,,,kinase insert domain receptor
+Flt1,FLT1,2321,ENSG00000102755,"['1FLT', '1QSV', '1QSZ', '1QTY', '1RV6', '2XAC', '3HNG', '4CKV', '4CL7', '5ABD', '5EX3', '5T89']",fms related receptor tyrosine kinase 1
+Flt4,FLT4,2324,ENSG00000037280,"['4BSJ', '4BSK']",fms related receptor tyrosine kinase 4
+Fos,FOS,2353,ENSG00000170345,"['1A02', '1FOS', '1S9K']","Fos proto-oncogene, AP-1 transcription factor subunit"
+FosB,FOSB,2354,ENSG00000125740,"['5VPA', '5VPB', '5VPC', '5VPD', '5VPE', '5VPF', '6UCI', '6UCL', '6UCM']","FosB proto-oncogene, AP-1 transcription factor subunit"
+GAP-43,GJA1,103111950,,,gap junction protein alpha 1
+GFAp,GFAP,2670,ENSG00000131095,6A9P,glial fibrillary acidic protein
+GITR,TNFRSF18,606971,ENSCAFG00845022900,,TNF receptor superfamily member 18
+GITR ligand,TNFSF18,8995,ENSG00000120337,"['2Q1M', '2R30', '2R32', '3B93', '3B94', '7KHD']",TNF superfamily member 18
+GM-CSF,GM-CSF,100137216,,,granulocyte-macrophage colony-stimulating factor
+GM-CSF-R,CSF2RB,1439,ENSG00000100368,"['1C8P', '1EGJ', '1GH7', '2GYS', '2NA8', '2NA9', '4NKQ', '5DWU']",colony stimulating factor 2 receptor subunit beta
+GRB2,GRB2,2885,ENSG00000177885,"['1AZE', '1BM2', '1BMB', '1CJ1', '1FHS', '1FYR', '1GCQ', '1GFC', '1GFD', '1GHU', '1GRI', '1IO6', '1JYQ', '1JYR', '1JYU', '1QG1', '1TZE', '1X0N', '1ZFP', '2AOA', '2AOB', '2H46', '2H5K', '2HUW', '2VVK', '2VWF', '2W0Z', '3C7I', '3IMD', '3IMJ', '3IN7', '3IN8', '3KFJ', '3MXC', '3MXY', '3N7Y', '3N84', '3N8M', '3OV1', '3OVE', '3S8L', '3S8N', '3S8O', '3WA4', '4P9V', '4P9Z', '5CDW', '6ICG', '6ICH', '6SDF', '6VK2', '6WM1', '6WO2']",growth factor receptor bound protein 2
+GTPase-activating protein,RAP1GAP,5909,ENSG00000076864,"['1SRQ', '3BRW']",RAP1 GTPase activating protein
+Gas6,GAS6,2621,ENSG00000183087,"['1H30', '2C5D', '4RA0', '5VXZ']",growth arrest specific 6
+Gastrin,gastrin,103173862,ENSCMIG00000002927,,gastrin/cholecystokinin-like peptide
+Glut 1,gluT,2700445,,,tRNA
+Granulysin,GNLY,10578,ENSG00000115523,1L9L,granulysin
+Grb2,GRB2,2885,ENSG00000177885,"['1AZE', '1BM2', '1BMB', '1CJ1', '1FHS', '1FYR', '1GCQ', '1GFC', '1GFD', '1GHU', '1GRI', '1IO6', '1JYQ', '1JYR', '1JYU', '1QG1', '1TZE', '1X0N', '1ZFP', '2AOA', '2AOB', '2H46', '2H5K', '2HUW', '2VVK', '2VWF', '2W0Z', '3C7I', '3IMD', '3IMJ', '3IN7', '3IN8', '3KFJ', '3MXC', '3MXY', '3N7Y', '3N84', '3N8M', '3OV1', '3OVE', '3S8L', '3S8N', '3S8O', '3WA4', '4P9V', '4P9Z', '5CDW', '6ICG', '6ICH', '6SDF', '6VK2', '6WM1', '6WO2']",growth factor receptor bound protein 2
+Grb7,GRB7,2886,ENSG00000141738,"['1MW4', '1WGR', '2L4K', '2QMS', '3PQZ', '4WWQ', '4X6S', '5D0J', '5EEL', '5EEQ', '5TYI', '5U06', '5U1Q']",growth factor receptor bound protein 7
+H-Ras,LOC367858,367858,ENSRNOG00000018301,,similar to GTPase HRas precursor (Transforming protein p21) (p21ras) (H-Ras-1) (c-H-ras)
+H-ras,LOC367858,367858,ENSRNOG00000018301,,similar to GTPase HRas precursor (Transforming protein p21) (p21ras) (H-Ras-1) (c-H-ras)
+HBx,HOX-2.4,407068,,,porcine homeobox
+HCC-4,Ccl16-ps,20294,,,"chemokine (C-C motif) ligand 16, pseudogene"
+HFE,HFE,3077,ENSG00000010704,"['1A6Z', '1C42', '1DE4']",homeostatic iron regulator
+HLA-E,HLA-E,3133,,"['1KPR', '1KTL', '1MHE', '2ESV', '3AM8', '3BZE', '3BZF', '3CDG', '3CII', '5W1V', '5W1W', '6GGM', '6GH1', '6GH4', '6GHN', '6GL1']","major histocompatibility complex, class I, E"
+HLH462,Id3,15903,ENSMUSG00000007872,,inhibitor of DNA binding 3
+HOX11,HOX11,BGIOSGA029665,BGIOSGA029665,,Homeobox-leucine zipper protein HOX11
+HVEM,Tnfrsf14,100733551,ENSCPOG00000009228,,TNF receptor superfamily member 14
+Ha-Ras,Hras,101838968,ENSMAUG00000020006,,"HRas proto-oncogene, GTPase"
+Hox11,HOX11,BGIOSGA029665,BGIOSGA029665,,Homeobox-leucine zipper protein HOX11
+Ht 21,HT,140805,,,Hashimoto thyroiditis
+Ht 31,HT,140805,,,Hashimoto thyroiditis
+I-eotaxin,CCR3,1232,ENSG00000183625,,C-C motif chemokine receptor 3
+ICE,ICE,692735,,,ICE protein
+IFN-alpha,IFNAC,281236,,,IFN-alpha C
+IFN-gamma receptor,RECEPTOR,443145,,,neuropilin-1
+IFN-gamma receptor alpha chain,RECEPTOR,443145,,,neuropilin-1
+IFNR,IFNR,3466,,,interferon production regulator
+IFNalpha,IFNA2,103219368,,,interferon alpha 2
+IGF-1 receptor,RECEPTOR,443145,,,neuropilin-1
+IGF-1R,igf1r.L,108711478,,,insulin like growth factor 1 receptor L homeolog
+IGF-IR,LOC117427860,117427860,,,insulin-like growth factor 1 receptor
+IGIF,IL18,443206,,,interleukin 18
+IL 1ra,LOC100169857,100169857,,,uncharacterized LOC100169857
+IL-1 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-1 receptor-associated kinase,CAOG_03490,14898905,,,pelle/IL-1 receptor associated Kinase
+IL-10,SPPV_03,944684,,,IL-10
+IL-10 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-10R,Il10ra,16154,ENSMUSG00000032089,,"interleukin 10 receptor, alpha"
+IL-11,IL-11,ENSCCRG00000025957,ENSCCRG00000025957,,interleukin 11a
+IL-13,LOC100360218,100360218,ENSRNOG00000001713,,IL-13 receptor alpha 1
+IL-13 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-13R,IL13RA2,3598,ENSG00000123496,3LB6,interleukin 13 receptor subunit alpha 2
+IL-15,il-15,100190875,ENSGACG00000017271,,interleukin-15
+IL-1RI,LOC109100305,109100305,,,interleukin-1 receptor-like 2
+IL-1alpha,IL1A,101691850,,,interleukin 1 alpha
+IL-1beta,LOC102448244,102448244,,,interleukin-1 beta
+IL-1ra,il-1ra,100136091,,,interleukin-1 receptor antagonist
+IL-2 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-2 receptor beta,RECEPTOR,443145,,,neuropilin-1
+IL-2 receptor gamma,RECEPTOR,443145,,,neuropilin-1
+IL-3,Iap11-1,111662,,,"intracisternal A particles, Il3 linked"
+IL-4 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-4R,IL4R,791252,ENSECAG00000021525,,interleukin 4 receptor
+IL-4Ralpha,il4r.2,563674,ENSDARG00000116052,,"interleukin 4 receptor, tandem duplicate 2"
+IL-5 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-6 receptor,RECEPTOR,443145,,,neuropilin-1
+IL-6.receptor,il6r,100491081,,,interleukin 6 receptor
+IL-6R,il6r,100491081,,,interleukin 6 receptor
+IL-7,il-7,100191071,ENSTRUG00000033482,,interleukin-7
+IL-7R,IL7R,102143679,,,interleukin 7 receptor
+IL-8 receptor subtypes A,a,50518,ENSMUSG00000027596,,nonagouti
+IL-9,IL9,103244581,ENSCSAG00000013366,,interleukin 9
+IL1R,il1r1,100491546,,,interleukin 1 receptor type 1
+IL1RA,il1r1,100491546,,,interleukin 1 receptor type 1
+INK4a,Cdkn2a,12578,ENSMUSG00000044303,"['1HN3', '1LNN']",cyclin dependent kinase inhibitor 2A
+INK4b,CDKN2B,709209,,,cyclin dependent kinase inhibitor 2B
+INK4d,cdkn2d.S,446719,,,cyclin-dependent kinase inhibitor 2D S homeolog
+IRAK,RhiXN_03358,67025638,,,TKL IRAK kinase
+IRF4,IRF4,3662,ENSG00000137265,"['2DLL', '6TD4', '7JM4', '7O56']",interferon regulatory factor 4
+IRS-1,LOC111506503,111506503,,,insulin receptor substrate 1
+IRS1,IRS1,3667,ENSG00000169047,"['1IRS', '1K3A', '1QQG', '2Z8C', '5U1M', '6BNT']",insulin receptor substrate 1
+ITAM,NFAM1,150372,ENSG00000235568,,NFAT activating protein with ITAM motif 1
+ITF-2,Tcf4,21413,ENSMUSG00000053477,,transcription factor 4
+ITF-2a,Tcf4,21413,ENSMUSG00000053477,,transcription factor 4
+ITF-2b,Tcf4,21413,ENSMUSG00000053477,,transcription factor 4
+Id3,ID3,3399,,2LFH,"inhibitor of DNA binding 3, HLH protein"
+Inhibin,INHA,3623,ENSG00000123999,,inhibin subunit alpha
+Insulin receptor substrate 1,RECEPTOR,443145,,,neuropilin-1
+Interferon-gamma,IFNG,3458,ENSG00000111537,"['1EKU', '1FG9', '1FYH', '1HIG', '3BES', '6E3K', '6E3L']",interferon gamma
+Interleukin-10,IL10,3586,ENSG00000136634,"['1ILK', '1INR', '1J7V', '1LK3', '1Y6K', '2H24', '2ILK', '6X93']",interleukin 10
+Interleukin-13,IL13,3596,ENSG00000169194,"['1GA3', '1IJZ', '1IK0', '1J9U', '3BPO', '3G6D', '3ITR', '3ITS', '3L5W', '3L5X', '3LB6', '4I77', '4PS4', '5E4E', '5L6Y']",interleukin 13
+Interleukin-2,IL2,3558,ENSG00000109471,"['1ILM', '1ILN', '1IRL', '1M47', '1M48', '1M49', '1M4A', '1M4B', '1M4C', '1NBP', '1PW6', '1PY2', '1QVN', '1Z92', '2B5I', '2ERJ', '3INK', '3QAZ', '3QB1', '4NEJ', '4NEM', '5LQB', '5M5E', '5UTZ', '6LX3', '6LXW', '6VWU', '6YE3', '7DR4']",interleukin 2
+JAK2,JAK2,3717,ENSG00000096968,"['2B7A', '2W1I', '2XA4', '3E62', '3E63', '3E64', '3FUP', '3IO7', '3IOK', '3JY9', '3KCK', '3KRR', '3LPB', '3Q32', '3RVG', '3TJC', '3TJD', '3UGC', '3ZMM', '4AQC', '4BBE', '4BBF', '4C61', '4C62', '4D0W', '4D0X', '4D1S', '4E4M', '4E6D', '4E6Q', '4F08', '4F09', '4FVP', '4FVQ', '4FVR', '4GFM', '4GMY', '4HGE', '4IVA', '4JI9', '4JIA', '4P7E', '4YTC', '4YTF', '4YTH', '4YTI', '4Z32', '4ZIM', '5AEP', '5CF4', '5CF5', '5CF6', '5CF8', '5HEZ', '5I4N', '5L3A', '5TQ3', '5TQ4', '5TQ5', '5TQ6', '5TQ7', '5TQ8', '5USY', '5USZ', '5UT0', '5UT1', '5UT2', '5UT3', '5UT4', '5UT5', '5UT6', '5WEV', '5WIJ', '5WIK', '5WIL', '5WIM', '5WIN', '6AAJ', '6BBV', '6BRW', '6BS0', '6BSS', '6D2I', '6DRW', '6E2P', '6E2Q', '6G3C', '6M9H', '6OAV', '6OBB', '6OBF', '6OBL', '6OCC', '6TPD', '6VGL', '6VN8', '6VNB', '6VNC', '6VNE', '6VNF', '6VNG', '6VNH', '6VNI', '6VNJ', '6VNK', '6VNL', '6VNM', '6VS3', '6VSN', '6WTN', '6WTO', '6WTP', '6WTQ', '6X8E', '6XJK']",Janus kinase 2
+JAK2 kinase,JAK2,3717,ENSG00000096968,"['2B7A', '2W1I', '2XA4', '3E62', '3E63', '3E64', '3FUP', '3IO7', '3IOK', '3JY9', '3KCK', '3KRR', '3LPB', '3Q32', '3RVG', '3TJC', '3TJD', '3UGC', '3ZMM', '4AQC', '4BBE', '4BBF', '4C61', '4C62', '4D0W', '4D0X', '4D1S', '4E4M', '4E6D', '4E6Q', '4F08', '4F09', '4FVP', '4FVQ', '4FVR', '4GFM', '4GMY', '4HGE', '4IVA', '4JI9', '4JIA', '4P7E', '4YTC', '4YTF', '4YTH', '4YTI', '4Z32', '4ZIM', '5AEP', '5CF4', '5CF5', '5CF6', '5CF8', '5HEZ', '5I4N', '5L3A', '5TQ3', '5TQ4', '5TQ5', '5TQ6', '5TQ7', '5TQ8', '5USY', '5USZ', '5UT0', '5UT1', '5UT2', '5UT3', '5UT4', '5UT5', '5UT6', '5WEV', '5WIJ', '5WIK', '5WIL', '5WIM', '5WIN', '6AAJ', '6BBV', '6BRW', '6BS0', '6BSS', '6D2I', '6DRW', '6E2P', '6E2Q', '6G3C', '6M9H', '6OAV', '6OBB', '6OBF', '6OBL', '6OCC', '6TPD', '6VGL', '6VN8', '6VNB', '6VNC', '6VNE', '6VNF', '6VNG', '6VNH', '6VNI', '6VNJ', '6VNK', '6VNL', '6VNM', '6VS3', '6VSN', '6WTN', '6WTO', '6WTP', '6WTQ', '6X8E', '6XJK']",Janus kinase 2
+JNK1,JKAMP,51528,ENSG00000050130,,JNK1/MAPK8 associated membrane protein
+Jak,jak,778659,,,Janus kinase
+Jak1,JAK1,3716,ENSG00000162434,"['3EYG', '3EYH', '4E4L', '4E4N', '4E5W', '4EHZ', '4EI4', '4FK6', '4GS0', '4I5C', '4IVB', '4IVC', '4IVD', '4K6Z', '4K77', '4L00', '4L01', '5E1E', '5HX8', '5IXD', '5IXI', '5KHW', '5KHX', '5L04', '5WO4', '6AAH', '6BBU', '6C7Y', '6DBN', '6ELR', '6GGH', '6HZU', '6N77', '6N78', '6N79', '6N7A', '6N7B', '6N7C', '6N7D', '6RSB', '6RSC', '6RSD', '6RSE', '6RSH', '6SM8', '6SMB', '6TPE', '6TPF', '6W8L']",Janus kinase 1
+Jak3,JAK3,3718,ENSG00000105639,"['1YVJ', '3LXK', '3LXL', '3PJC', '3ZC6', '3ZEP', '4HVD', '4HVG', '4HVH', '4HVI', '4I6Q', '4QPS', '4QT1', '4RIO', '4V0G', '4Z16', '5LWM', '5LWN', '5TOZ', '5TTS', '5TTU', '5TTV', '5VO6', '5W86', '5WFJ', '6AAK', '6DA4', '6DB3', '6DB4', '6DUD', '6GL9', '6GLA', '6GLB', '6HZV', '6NY4', '7APF', '7APG', '7C3N']",Janus kinase 3
+Jif-1,RPL10L,396411,,,ribosomal protein L10-like
+Jun,JUN,3725,ENSG00000177606,"['1A02', '1FOS', '1JNM', '1JUN', '1S9K', '1T2K', '5FV8', '5T01', '6Y3V']","Jun proto-oncogene, AP-1 transcription factor subunit"
+K-ras,LOC100159403,100159403,ACYPI000776,,K-ras-like
+K6,K6,4961510,,1ZXT,K6
+KDR,KDR,3791,ENSG00000128052,"['1VR2', '1Y6A', '1Y6B', '1YWN', '2M59', '2MET', '2MEU', '2OH4', '2P2H', '2P2I', '2QU5', '2QU6', '2RL5', '2X1W', '2X1X', '2XIR', '3B8Q', '3B8R', '3BE2', '3C7Q', '3CJF', '3CJG', '3CP9', '3CPB', '3CPC', '3DTW', '3EFL', '3EWH', '3KVQ', '3S35', '3S36', '3S37', '3U6J', '3V2A', '3V6B', '3VHE', '3VHK', '3VID', '3VNT', '3VO3', '3WZD', '3WZE', '4AG8', '4AGC', '4AGD', '4ASD', '4ASE', '5EW3', '5OYJ', '6GQO', '6GQP', '6GQQ', '6XVJ', '6XVK']",kinase insert domain receptor
+KGFR,fgfr2,100124910,ENSXETG00000015592,,fibroblast growth factor receptor 2
+LEC,lec,16839,,,laryngotracheo esophageal cleft
+LIF,LIF,3976,ENSG00000128342,"['1EMR', '1PVH', '2Q7N']",LIF interleukin 6 family cytokine
+LIF receptor,LIF,3976,ENSG00000128342,"['1EMR', '1PVH', '2Q7N']",LIF interleukin 6 family cytokine
+LIFR,LIFR,3977,ENSG00000113594,3E0G,LIF receptor subunit alpha
+LMC,Ccl16-ps,20294,,,"chemokine (C-C motif) ligand 16, pseudogene"
+LPR,Lpr,692500,,,lipophorin receptor
+LT-alpha,LOC107134779,107134779,,,alpha-1-antitrypsin-like protein GS55-LT
+LT-beta,lt-b2,100136129,,,lymphotoxin beta 2
+LTbetaR,Ltbr,17000,ENSMUSG00000030339,,lymphotoxin B receptor
+Liver-expressed chemokine,CCL16,6360,,5LTL,C-C motif chemokine ligand 16
+Lyn,LYN,4067,ENSG00000254087,"['1W1F', '1WA7', '3A4O', '5XY1', '6NMW']","LYN proto-oncogene, Src family tyrosine kinase"
+MACH,Urml,101056219,,,up-regulated in Myc liver
+MCP-2,CCL2,100294591,,,chemokine (C-C motif) ligand 2
+MCP-3,MCP-3,443429,,,mast cell proteinase-3
+MCP-4,CCL13,100033951,,,chemokine (C-C motif) ligand 13
+MDM2,MDM2,4193,ENSG00000135679,"['1RV1', '1T4E', '1T4F', '1YCR', '1Z1M', '2AXI', '2C6A', '2C6B', '2F1Y', '2FOP', '2GV2', '2HDP', '2LZG', '2M86', '2MPS', '2RUH', '2VJE', '2VJF', '3EQS', '3G03', '3IUX', '3IWY', '3JZK', '3JZR', '3JZS', '3LBK', '3LBL', '3LNJ', '3LNZ', '3MQS', '3TJ2', '3TPX', '3TU1', '3V3B', '3VBG', '3VZV', '3W69', '4DIJ', '4ERE', '4ERF', '4HBM', '4HFZ', '4HG7', '4JV7', '4JV9', '4JVE', '4JVR', '4JWR', '4MDN', '4MDQ', '4OAS', '4OBA', '4OCC', '4ODE', '4ODF', '4OGN', '4OGT', '4OGV', '4OQ3', '4QO4', '4QOC', '4UD7', '4UE1', '4UMN', '4WT2', '4XXB', '4ZFI', '4ZGK', '4ZYC', '4ZYF', '4ZYI', '5AFG', '5C5A', '5HMH', '5HMI', '5HMK', '5J7F', '5J7G', '5LAV', '5LAW', '5LAY', '5LAZ', '5LN2', '5MNJ', '5OAI', '5OC8', '5SWK', '5TRF', '5UMM', '5VK0', '5WTS', '5XXK', '5Z02', '5ZXF', '6AAW', '6GGN', '6H22', '6HFA', '6I29', '6I3S', '6IM9', '6KZU', '6Q96', '6Q9H', '6Q9L', '6Q9O', '6SQO', '6T2D', '6T2E', '6T2F', '6Y4Q', '7AD0', '7AI0', '7AI1', '7BIR', '7BIT', '7BIV', '7BJ0', '7BJ6', '7BMG']",MDM2 proto-oncogene
+MIP,MIP,4284,ENSG00000135517,,major intrinsic protein of lens fiber
+MIP-1alpha,CCL3,454592,ENSPTRG00000009039,,chemokine (C-C motif) ligand 3
+MIP-1beta,LOC110407809,110407809,,,C-C motif chemokine 4 homolog
+MMP2,MMP2,4313,ENSG00000087245,"['1CK7', '1CXW', '1EAK', '1GEN', '1GXD', '1HOV', '1J7M', '1KS0', '1QIB', '1RTG', '3AYU']",matrix metallopeptidase 2
+MORT,MORT-TOT,100310172,,,Total mortality
+MPIF-2,Ccl24,56221,ENSMUSG00000004814,,chemokine (C-C motif) ligand 24
+Max,MAX,4149,ENSG00000125952,"['1AN2', '1HLO', '1NKP', '1NLW', '1R05', '5EYO', '6G6J', '6G6K', '6G6L']",MYC associated factor X
+Mxi1,MXI1,4601,ENSG00000119950,,"MAX interactor 1, dimerization protein"
+Myc,MYC,4609,ENSG00000136997,"['1A93', '1EE4', '1MV0', '1NKP', '2A93', '2OR9', '4Y7R', '5I4Z', '5I50', '6C4U', '6E16', '6E24', '6G6J', '6G6K', '6G6L']","MYC proto-oncogene, bHLH transcription factor"
+Myogenin,MYOG,4656,ENSG00000122180,,myogenin
+NCC-4,Ccl16-ps,20294,,,"chemokine (C-C motif) ligand 16, pseudogene"
+NF-kappaB,NKILA,105416157,ENSG00000278709,,NF-kappaB interacting lncRNA
+NF-kappaB-inducing kinase,MAP3K14,9020,,"['4DN5', '4G3D', '4IDT', '4IDV', '6WPP', '6Z1Q', '6Z1T']",mitogen-activated protein kinase kinase kinase 14
+NFL,si:dkey-33c12.3,120527903,,,uncharacterized LOC120527903
+NGF,NGF,4803,ENSG00000134259,"['1SG1', '1WWW', '2IFG', '4EDW', '4EDX', '4ZBN', '5JZ7', '6YW8']",nerve growth factor
+NGF-receptor,ngf,100170161,ENSXETG00000016618,,nerve growth factor
+NIK,NRK,203447,ENSG00000123572,,Nik related kinase
+NMDA receptor,RECEPTOR,443145,,,neuropilin-1
+NR2B,nr2b,100126610,,"['4TLL', '4TLM', '5IOU', '5IOV', '5IPQ', '5IPR', '5IPS', '5IPT', '5IPU', '5IPV', '5UN1', '5UOW', '5UP2']",ionotropic glutamate receptor subunit NR2B
+Nerve growth factor,NGF,4803,ENSG00000134259,"['1SG1', '1WWW', '2IFG', '4EDW', '4EDX', '4ZBN', '5JZ7', '6YW8']",nerve growth factor
+OP-1,bmp7.1.S,108702613,,,"bone morphogenetic protein 7, gene 1 S homeolog"
+PCNA,PCNA,5111,ENSG00000132646,"['1AXC', '1U76', '1U7B', '1UL1', '1VYJ', '1VYM', '1W60', '2ZVK', '2ZVL', '2ZVM', '3JA9', '3P87', '3TBL', '3VKX', '3WGW', '4D2G', '4RJF', '4ZTD', '5E0T', '5E0U', '5E0V', '5IY4', '5MAV', '5MLO', '5MLW', '5MOM', '5YCO', '5YD8', '6CBI', '6EHT', '6FCM', '6FCN', '6GIS', '6GWS', '6HVO', '6K3A', '6QC0', '6QCG', '6S1M', '6S1N', '6S1O', '6TNY', '6TNZ', '6VVO', '7EFA', '7KQ0', '7KQ1']",proliferating cell nuclear antigen
+PDGF,,CPIJ019107,,,Pdgf/vegf receptor
+PDGF A,a,50518,ENSMUSG00000027596,,nonagouti
+PDGF receptor-alpha,pdgfra.L,380245,,,"platelet-derived growth factor receptor, alpha polypeptide L homeolog"
+PDGF-AA,COL6A1,1291,ENSG00000142156,,collagen type VI alpha 1 chain
+PDGF-AB,COL5A2,1290,ENSG00000204262,1A9A,collagen type V alpha 2 chain
+PDGF-BB,Pdgfb,24628,ENSRNOG00000017197,,platelet derived growth factor subunit B
+PDGF-C,PDGFC,107126248,,,platelet derived growth factor C
+PDGFb,PDGFB,5155,ENSG00000100311,"['1PDG', '3MJG', '4HQU', '4HQX', '4QCI', '6T9E']",platelet derived growth factor subunit B
+PI3 kinase,PI3,5266,ENSG00000124102,"['1FLE', '2REL', '6ATU']",peptidase inhibitor 3
+PP1C,PPP1R16A,84988,ENSG00000160972,,protein phosphatase 1 regulatory subunit 16A
+PP2AC,LOC100282834,100282834,,,PP2Ac-5 - Phosphatase 2A isoform 5 belonging to family 2
+PR,pr,19066,,,porcine tail
+PRAD1,ccnd1,448045,ENSXETG00000003800,,cyclin D1
+PRDI-BF1,PRDM4,112321777,,,PR/SET domain 4
+PS-2,PS-2,101247806,,,polygalacturonase
+PSD-95,PTSG_03306,16076470,,,PSD-95 alpha
+PTPmu,mam-4,179558,WBGene00011836,,"MAM (Meprin, A5-protein, PTPmu) domain protein"
+RAD51,RAD51,5888,ENSG00000051180,"['1B22', '1N0W', '5H1B', '5H1C', '5JZC', '5NP7', '5NWL', '7C9A']",RAD51 recombinase
+RAD52,RAD52,5893,ENSG00000002016,"['1H2I', '1KN0', '5JRB', '5XRZ', '5XS0']","RAD52 homolog, DNA repair protein"
+RAF1,RAF1,5894,ENSG00000132155,"['1C1Y', '1FAQ', '1FAR', '1GUA', '1RFA', '3CU8', '3IQJ', '3IQU', '3IQV', '3KUC', '3KUD', '3NKX', '3O8I', '3OMV', '4FJ3', '4G0N', '4G3X', '4IEA', '4IHL', '6NTC', '6NTD', '6PTS', '6PTW', '6VJJ', '6XGU', '6XGV', '6XHA', '6XHB', '6XI7', '7JHP']","Raf-1 proto-oncogene, serine/threonine kinase"
+RANTES,SPAPADRAFT_54818,18871891,,,Rantes
+RAS,ras,19412,,,resistance to audiogenic seizures
+RAS binding protein,ras,19412,,,resistance to audiogenic seizures
+RBP1,RBP1,5947,ENSG00000114115,"['5H8T', '5H9A', '5HA1', '5HBS', '5LJB', '5LJC', '5LJD', '5LJE', '5LJG', '5LJH', '5LJK', '6E5L', '6E5T', '6E6M']",retinol binding protein 1
+RBP2,RBP2,5948,ENSG00000114113,"['2RCQ', '2RCT', '4EDE', '4EEJ', '4EFG', '4EXZ', '4GKC', '4QYN', '4QYP', '4QZT', '4QZU', '4RUU', '4ZCB', '4ZGU', '4ZH6', '4ZH9', '4ZJ0', '4ZR2', '5DG4', '5DPQ', '5F58', '5F6B', '5F7G', '5FAZ', '5FEN', '5FFH', '5U6G', '6BTH', '6BTI', '6C7Z', '6E50', '6E51', '6E5E', '6E5Q', '6E5R', '6E5S', '6E6L', '6E7M', '6MCU', '6MCV', '6MKV', '6MLB', '6ON5', '6ON7', '6ON8', '6VID', '6VIS', '6VIT', '6WNF', '6WNJ', '6WP0', '6WP1', '6WP2', '7JVG', '7JVY', '7JWD', '7JWR', '7JX2', '7JZ5', '7K3I', '7LHJ', '7LHM', '7LHN', '7LHO']",retinol binding protein 2
+RII,tgfbr2.S,108719963,,,transforming growth factor beta receptor 2 S homeolog
+RIN1,RIN1,9610,ENSG00000174791,,Ras and Rab interactor 1
+RIP,Rip,110628,,,regulation of phenobarbitol-inducible P450
+RIZ,prdm2,100170624,ENSXETG00000026865,,"PR domain containing 2, with ZNF domain"
+Raf-1,RAF1,5894,ENSG00000132155,"['1C1Y', '1FAQ', '1FAR', '1GUA', '1RFA', '3CU8', '3IQJ', '3IQU', '3IQV', '3KUC', '3KUD', '3NKX', '3O8I', '3OMV', '4FJ3', '4G0N', '4G3X', '4IEA', '4IHL', '6NTC', '6NTD', '6PTS', '6PTW', '6VJJ', '6XGU', '6XGV', '6XHA', '6XHB', '6XI7', '7JHP']","Raf-1 proto-oncogene, serine/threonine kinase"
+Raf-1 cysteine-rich domain,SPRED3,399473,ENSG00000188766,,sprouty related EVH1 domain containing 3
+Raf-1 kinase,LOC105192683,105192683,,,raf homolog serine/threonine-protein kinase Raf
+Raf-1 protein kinase,LOC105192683,105192683,,,raf homolog serine/threonine-protein kinase Raf
+Raf1,RAF1,5894,ENSG00000132155,"['1C1Y', '1FAQ', '1FAR', '1GUA', '1RFA', '3CU8', '3IQJ', '3IQU', '3IQV', '3KUC', '3KUD', '3NKX', '3O8I', '3OMV', '4FJ3', '4G0N', '4G3X', '4IEA', '4IHL', '6NTC', '6NTD', '6PTS', '6PTW', '6VJJ', '6XGU', '6XGV', '6XHA', '6XHB', '6XI7', '7JHP']","Raf-1 proto-oncogene, serine/threonine kinase"
+Ras,ras,19412,,,resistance to audiogenic seizures
+Rel,REL,5966,ENSG00000162924,,"REL proto-oncogene, NF-kB subunit"
+S-phase-promoting factor,GMNN,51053,ENSG00000112312,"['1T6F', '1UII', '2LP0', '2WVR', '4BRY']",geminin DNA replication inhibitor
+SCYA24,Ccl24,56221,ENSMUSG00000004814,,chemokine (C-C motif) ligand 24
+SCYA26,CCL26,10344,ENSG00000006606,"['1G2S', '1G2T']",C-C motif chemokine ligand 26
+SDF-1,CXCL12,102499711,,,C-X-C motif chemokine ligand 12
+SF3b,sf3b,5788541,,,splicing factor 3b
+SH3 P17,Sh3,100125849,,,sperm hammerhead 3
+SKR2,acvr1b,733849,ENSXETG00000000572,,activin A receptor type 1B
+SNAPc,cubi_00924,39977715,,,SNAPc like transcription factor
+SNX1,SNX1,6642,ENSG00000028528,"['2I4K', '4FZS']",sorting nexin 1
+SP1,SP1,6667,ENSG00000185591,"['1SP1', '1SP2', '1VA1', '1VA2', '1VA3', '6PV0', '6PV1', '6PV2', '6PV3', '6UCO', '6UCP']",Sp1 transcription factor
+SREBP-2,Srebf2,110554093,,,sterol regulatory element binding transcription factor 2
+SRF,SRF,6722,ENSG00000112658,"['1HBX', '1K6O', '1SRS']",serum response factor
+SSRP,Ssrp,37767,FBgn0010278,1WXL,Structure specific recognition protein
+ST-3,l(4)102ABh,49282,,,lethal (4) 102ABh
+Smad4,SMAD4,4089,ENSG00000141646,"['1DD1', '1G88', '1MR1', '1U7F', '1U7V', '1YGS', '5C4V', '5MEY', '5MEZ', '5MF0', '5UWU']",SMAD family member 4
+Sos1,SOS1,6654,ENSG00000115904,"['1AWE', '1BKD', '1DBH', '1NVU', '1NVV', '1NVW', '1NVX', '1Q9C', '1XD2', '1XD4', '1XDV', '2II0', '3KSY', '4NYI', '4NYJ', '4NYM', '4URU', '4URV', '4URW', '4URX', '4URY', '4URZ', '4US0', '4US1', '4US2', '5OVD', '5OVE', '5OVF', '5OVG', '5OVH', '5OVI', '5WFO', '5WFP', '5WFQ', '5WFR', '6BVI', '6BVJ', '6BVK', '6BVL', '6BVM', '6CUO', '6CUP', '6CUR', '6D55', '6D56', '6D59', '6D5E', '6D5G', '6D5H', '6D5J', '6D5L', '6D5M', '6D5V', '6D5W', '6EPL', '6EPM', '6EPN', '6EPO', '6EPP', '6F08', '6SCM', '6SFR', '6V94', '6V9F', '6V9J', '6V9L', '6V9M', '6V9N', '6V9O', '6Y44', '7AVI', '7AVL', '7AVS', '7AVT', '7AVU', '7AVV', '7KFZ']",SOS Ras/Rac guanine nucleotide exchange factor 1
+Sp1,SP1,6667,ENSG00000185591,"['1SP1', '1SP2', '1VA1', '1VA2', '1VA3', '6PV0', '6PV1', '6PV2', '6PV3', '6UCO', '6UCP']",Sp1 transcription factor
+Src,SRC,6714,ENSG00000197122,"['1A07', '1A08', '1A09', '1A1A', '1A1B', '1A1C', '1A1E', '1FMK', '1HCS', '1HCT', '1KSW', '1O41', '1O42', '1O43', '1O44', '1O45', '1O46', '1O47', '1O48', '1O49', '1O4A', '1O4B', '1O4C', '1O4D', '1O4E', '1O4F', '1O4G', '1O4H', '1O4I', '1O4J', '1O4K', '1O4L', '1O4M', '1O4N', '1O4O', '1O4P', '1O4Q', '1O4R', '1SHD', '1Y57', '1YI6', '1YOJ', '1YOL', '1YOM', '2BDF', '2BDJ', '2H8H', '2SRC', '3VRO', '3ZMP', '3ZMQ', '4F59', '4F5A', '4F5B', '4HXJ', '4K11', '4MXO', '4MXX', '4MXY', '4MXZ', '6ATE', '6C4S', '6E6E', '6EHJ']","SRC proto-oncogene, non-receptor tyrosine kinase"
+Src A box Nck-associated protein II,a,50518,ENSMUSG00000027596,,nonagouti
+Stat1,STAT1,6772,ENSG00000115415,"['1BF5', '1YVL', '2KA6', '3WWT']",signal transducer and activator of transcription 1
+Stat3,STAT3,6774,ENSG00000168610,"['5AX3', '5U5S', '6NJS', '6NUQ', '6QHD', '6TLC']",signal transducer and activator of transcription 3
+Stat5,stat5,100135887,,,signal transducer and activator of transcription 5
+Syk,SYK,6850,ENSG00000165025,"['1A81', '1CSY', '1CSZ', '1XBA', '1XBB', '1XBC', '3BUW', '3EMG', '3FQE', '3FQH', '3FQS', '3SRV', '3TUB', '3TUC', '3TUD', '3VF8', '3VF9', '4DFL', '4DFN', '4F4P', '4FL1', '4FL2', '4FL3', '4FYN', '4FYO', '4FZ6', '4FZ7', '4GFG', '4I0R', '4I0S', '4I0T', '4PUZ', '4PV0', '4PX6', '4RSS', '4RX7', '4RX8', '4RX9', '4WNM', '4XG2', '4XG3', '4XG4', '4XG6', '4XG7', '4XG8', '4XG9', '4YJO', '4YJP', '4YJQ', '4YJR', '4YJS', '4YJT', '4YJU', '4YJV', '5C26', '5C27', '5CXH', '5CXZ', '5CY3', '5GHV', '5LMA', '5LMB', '5T68', '5TIU', '5TR6', '5TT7', '5Y5T', '5Y5U', '6HM6', '6HM7', '6SSB', '6VOV', '6ZC0', '6ZCP', '6ZCQ', '6ZCR', '6ZCS', '6ZCU', '6ZCX', '6ZCY']",spleen associated tyrosine kinase
+TAFII110,Taf4,39765,FBgn0010280,,TBP-associated factor 4
+TAFII40,TAF11,4851601,,,Transcription initiation factor TFIID subunit 11 (TBP-associated factor 11) (TBP-associated factor 40 kDa) (P40) (TAFII-40) (TAFII40)
+TAFII55,GNI_011110,22910662,,,TAFII55 protein
+TAFII60,Taf6,40134,FBgn0010417,1TAF,TBP-associated factor 6
+TBP,TBP,6908,ENSG00000112592,"['1C9B', '1CDW', '1JFI', '1NVP', '1TGH', '4ROC', '4ROD', '4ROE', '5FUR', '5IY6', '5IY7', '5IY8', '5IY9', '5IYA', '5IYB', '5IYC', '5IYD', '5N9G', '6MZD', '6MZL', '6MZM', '6O9L', '7EDX', '7EG7', '7EG8', '7EG9', '7EGA', '7EGB', '7EGC', '7EGD', '7EGE', '7EGF', '7EGI', '7EGJ', '7ENA', '7ENC', '7LBM', '7NVR', '7NVS', '7NVT', '7NVU', '7NVY', '7NVZ', '7NW0']",TATA-box binding protein
+TCR,Tcr,47207,,,Third chromosome alpha methyl dopa-resistant
+TFIIIB,TFIIIB,7896282,TGME49_207900,,transcription initiation factor TFIIIB
+TGF-beta,TBILA,112806053,,,TGF-beta induced lncRNA
+TH,TH,7054,ENSG00000180176,"['2XSN', '4J6S']",tyrosine hydroxylase
+TNF beta,TNF,7124,,"['1A8M', '1TNF', '2AZ5', '2E7A', '2TUN', '2ZJC', '2ZPX', '3ALQ', '3IT8', '3L9J', '3WD5', '4G3Y', '4TSV', '4TWT', '4Y6O', '5M2I', '5M2J', '5M2M', '5MU8', '5TSW', '5UUI', '5WUX', '5YOY', '6OOY', '6OOZ', '6OP0', '6RMJ', '6X81', '6X82', '6X83', '6X85', '6X86', '7ASY', '7AT7', '7ATB', '7JRA', '7KP9', '7KPA', '7KPB']",tumor necrosis factor
+TNF receptor 1,TNF,7124,,"['1A8M', '1TNF', '2AZ5', '2E7A', '2TUN', '2ZJC', '2ZPX', '3ALQ', '3IT8', '3L9J', '3WD5', '4G3Y', '4TSV', '4TWT', '4Y6O', '5M2I', '5M2J', '5M2M', '5MU8', '5TSW', '5UUI', '5WUX', '5YOY', '6OOY', '6OOZ', '6OP0', '6RMJ', '6X81', '6X82', '6X83', '6X85', '6X86', '7ASY', '7AT7', '7ATB', '7JRA', '7KP9', '7KPA', '7KPB']",tumor necrosis factor
+TNF receptor-1,TNF,7124,,"['1A8M', '1TNF', '2AZ5', '2E7A', '2TUN', '2ZJC', '2ZPX', '3ALQ', '3IT8', '3L9J', '3WD5', '4G3Y', '4TSV', '4TWT', '4Y6O', '5M2I', '5M2J', '5M2M', '5MU8', '5TSW', '5UUI', '5WUX', '5YOY', '6OOY', '6OOZ', '6OP0', '6RMJ', '6X81', '6X82', '6X83', '6X85', '6X86', '7ASY', '7AT7', '7ATB', '7JRA', '7KP9', '7KPA', '7KPB']",tumor necrosis factor
+TNF-R2,tnfrsf1b,100690893,ENSONIG00000004070,,"tumor necrosis factor receptor superfamily, member 1B"
+TNF-related activation protein,TNFSF18,8995,ENSG00000120337,"['2Q1M', '2R30', '2R32', '3B93', '3B94', '7KHD']",TNF superfamily member 18
+TNFR-1,T02C5.1,180568,WBGene00020158,,TNFR-Cys domain-containing protein
+TNFR1,tradd,100494283,ENSXETG00000031794,,TNFRSF1A-associated via death domain
+TNFalpha,THRIL,102659353,ENSG00000280634,,TNF and HNRNPL related immunoregulatory long non-coding RNA
+TPO,TPO,7173,,,thyroid peroxidase
+TR6,n-TRacg6,102467246,,,nuclear encoded tRNA arginine 6 (anticodon ACG)
+TRADD,TRADD,8717,ENSG00000102871,"['1F2H', '1F3V', '5XME', '6AC0']",TNFRSF1A associated via death domain
+TRAF2,TRAF2,7186,ENSG00000127191,"['1CA4', '1CA9', '1CZY', '1CZZ', '1D00', '1D01', '1D0A', '1D0J', '1F3V', '1QSC', '3KNV', '3M06', '3M0A', '3M0D']",TNF receptor associated factor 2
+TRAP,TRAP,100187907,,,triiodothyronine receptor auxiliary protein
+TRKB,trkb-A,378552,,,neurotrophin receptor B xTrkB-beta
+TRKB receptor,RECEPTOR,443145,,,neuropilin-1
+TTR,TTR,7276,ENSG00000118271,"['1BM7', '1BMZ', '1BZ8', '1BZD', '1BZE', '1DVQ', '1DVS', '1DVT', '1DVU', '1DVX', '1DVY', '1DVZ', '1E3F', '1E4H', '1E5A', '1ETA', '1ETB', '1F41', '1F64', '1F86', '1FH2', '1FHN', '1G1O', '1GKO', '1ICT', '1III', '1IIK', '1IJN', '1QAB', '1QWH', '1RLB', '1SOK', '1SOQ', '1THA', '1THC', '1TLM', '1TSH', '1TT6', '1TTA', '1TTB', '1TTC', '1TTR', '1TYR', '1TZ8', '1U21', '1X7S', '1X7T', '1Y1D', '1Z7J', '1ZCR', '1ZD6', '2B14', '2B15', '2B16', '2B77', '2B9A', '2F7I', '2F8I', '2FBR', '2FLM', '2G3X', '2G3Z', '2G4E', '2G4G', '2G5U', '2G9K', '2GAB', '2H4E', '2M5N', '2NBO', '2NBP', '2NOY', '2PAB', '2QEL', '2QGB', '2QGC', '2QGD', '2QGE', '2ROX', '2ROY', '2TRH', '2TRY', '2WQA', '3A4D', '3A4E', '3A4F', '3B56', '3BSZ', '3BT0', '3CBR', '3CFM', '3CFN', '3CFQ', '3CFT', '3CN0', '3CN1', '3CN2', '3CN3', '3CN4', '3CXF', '3D2T', '3D7P', '3DGD', '3DID', '3DJR', '3DJS', '3DJT', '3DJZ', '3DK0', '3DK2', '3DO4', '3ESN', '3ESO', '3ESP', '3FC8', '3FCB', '3GLZ', '3GPS', '3GRB', '3GRG', '3GS0', '3GS4', '3GS7', '3HJ0', '3I9A', '3I9I', '3I9P', '3IMR', '3IMS', '3IMT', '3IMU', '3IMV', '3IMW', '3IPB', '3IPE', '3KGS', '3KGT', '3KGU', '3M1O', '3NEE', '3NEO', '3NES', '3NEX', '3NG5', '3OZK', '3OZL', '3P3R', '3P3S', '3P3T', '3P3U', '3SSG', '3TCT', '3TFB', '3U2I', '3U2J', '3W3B', '4ABQ', '4ABU', '4ABV', '4ABW', '4AC2', '4AC4', '4ACT', '4ANK', '4D7B', '4DER', '4DES', '4DET', '4DEU', '4DEW', '4FI6', '4FI7', '4FI8', '4HIQ', '4HIS', '4HJS', '4HJT', '4HJU', '4I85', '4I87', '4I89', '4IIZ', '4IK6', '4IK7', '4IKI', '4IKJ', '4IKK', '4IKL', '4KY2', '4L1S', '4L1T', '4MAS', '4MRB', '4MRC', '4N85', '4N86', '4N87', '4PM1', '4PME', '4PMF', '4PVL', '4PVM', '4PVN', '4PWE', '4PWF', '4PWG', '4PWH', '4PWI', '4PWJ', '4PWK', '4QRF', '4QXV', '4QYA', '4TKW', '4TL4', '4TL5', '4TLK', '4TLS', '4TLT', '4TLU', '4TM9', '4TNE', '4TNF', '4TNG', '4TQ8', '4TQH', '4TQI', '4TQP', '4WNJ', '4WNS', '4WO0', '4Y9B', '4Y9C', '4Y9E', '4Y9F', '4Y9G', '4YDM', '4YDN', '5A6I', '5AKS', '5AKT', '5AKV', '5AL0', '5AL8', '5AYT', '5BOJ', '5CLX', '5CLY', '5CLZ', '5CM1', '5CN3', '5CNH', '5CR1', '5DEJ', '5DWP', '5E23', '5E4A', '5E4O', '5EN3', '5EZP', '5FO2', '5FW6', '5FW7', '5FW8', '5H0V', '5H0W', '5H0X', '5H0Y', '5H0Z', '5HJG', '5IHH', '5JID', '5JIM', '5JIQ', '5K1J', '5K1N', '5L4F', '5L4I', '5L4J', '5L4M', '5LLL', '5LLV', '5N5Q', '5N62', '5N7C', '5NFE', '5NFW', '5OQ0', '5TTR', '5TZL', '5U48', '5U49', '5U4A', '5U4B', '5U4C', '5U4D', '5U4E', '5U4F', '5U4G', '6D0W', '6E6Z', '6E70', '6E71', '6E72', '6E73', '6E74', '6E75', '6E76', '6E77', '6E78', '6EP1', '6FFT', '6FWD', '6FXU', '6FZL', '6GR7', '6GRP', '6IMX', '6IMY', '6KGB', '6R66', '6R67', '6R68', '6R6I', '6SDZ', '6SUG', '6SUH', '6TI9', '6TJN', '6TXV', '6TXW', '6U0Q', '6XTK', '7ACU']",transthyretin
+Tat,TAT,6898,ENSG00000198650,3DYD,tyrosine aminotransferase
+TfR,tfrc,108644432,ENSXETG00000003077,,transferrin receptor
+Thrombopoietin,THPO,7066,ENSG00000090534,"['1V7M', '1V7N']",thrombopoietin
+Transthyretin,TTR,7276,ENSG00000118271,"['1BM7', '1BMZ', '1BZ8', '1BZD', '1BZE', '1DVQ', '1DVS', '1DVT', '1DVU', '1DVX', '1DVY', '1DVZ', '1E3F', '1E4H', '1E5A', '1ETA', '1ETB', '1F41', '1F64', '1F86', '1FH2', '1FHN', '1G1O', '1GKO', '1ICT', '1III', '1IIK', '1IJN', '1QAB', '1QWH', '1RLB', '1SOK', '1SOQ', '1THA', '1THC', '1TLM', '1TSH', '1TT6', '1TTA', '1TTB', '1TTC', '1TTR', '1TYR', '1TZ8', '1U21', '1X7S', '1X7T', '1Y1D', '1Z7J', '1ZCR', '1ZD6', '2B14', '2B15', '2B16', '2B77', '2B9A', '2F7I', '2F8I', '2FBR', '2FLM', '2G3X', '2G3Z', '2G4E', '2G4G', '2G5U', '2G9K', '2GAB', '2H4E', '2M5N', '2NBO', '2NBP', '2NOY', '2PAB', '2QEL', '2QGB', '2QGC', '2QGD', '2QGE', '2ROX', '2ROY', '2TRH', '2TRY', '2WQA', '3A4D', '3A4E', '3A4F', '3B56', '3BSZ', '3BT0', '3CBR', '3CFM', '3CFN', '3CFQ', '3CFT', '3CN0', '3CN1', '3CN2', '3CN3', '3CN4', '3CXF', '3D2T', '3D7P', '3DGD', '3DID', '3DJR', '3DJS', '3DJT', '3DJZ', '3DK0', '3DK2', '3DO4', '3ESN', '3ESO', '3ESP', '3FC8', '3FCB', '3GLZ', '3GPS', '3GRB', '3GRG', '3GS0', '3GS4', '3GS7', '3HJ0', '3I9A', '3I9I', '3I9P', '3IMR', '3IMS', '3IMT', '3IMU', '3IMV', '3IMW', '3IPB', '3IPE', '3KGS', '3KGT', '3KGU', '3M1O', '3NEE', '3NEO', '3NES', '3NEX', '3NG5', '3OZK', '3OZL', '3P3R', '3P3S', '3P3T', '3P3U', '3SSG', '3TCT', '3TFB', '3U2I', '3U2J', '3W3B', '4ABQ', '4ABU', '4ABV', '4ABW', '4AC2', '4AC4', '4ACT', '4ANK', '4D7B', '4DER', '4DES', '4DET', '4DEU', '4DEW', '4FI6', '4FI7', '4FI8', '4HIQ', '4HIS', '4HJS', '4HJT', '4HJU', '4I85', '4I87', '4I89', '4IIZ', '4IK6', '4IK7', '4IKI', '4IKJ', '4IKK', '4IKL', '4KY2', '4L1S', '4L1T', '4MAS', '4MRB', '4MRC', '4N85', '4N86', '4N87', '4PM1', '4PME', '4PMF', '4PVL', '4PVM', '4PVN', '4PWE', '4PWF', '4PWG', '4PWH', '4PWI', '4PWJ', '4PWK', '4QRF', '4QXV', '4QYA', '4TKW', '4TL4', '4TL5', '4TLK', '4TLS', '4TLT', '4TLU', '4TM9', '4TNE', '4TNF', '4TNG', '4TQ8', '4TQH', '4TQI', '4TQP', '4WNJ', '4WNS', '4WO0', '4Y9B', '4Y9C', '4Y9E', '4Y9F', '4Y9G', '4YDM', '4YDN', '5A6I', '5AKS', '5AKT', '5AKV', '5AL0', '5AL8', '5AYT', '5BOJ', '5CLX', '5CLY', '5CLZ', '5CM1', '5CN3', '5CNH', '5CR1', '5DEJ', '5DWP', '5E23', '5E4A', '5E4O', '5EN3', '5EZP', '5FO2', '5FW6', '5FW7', '5FW8', '5H0V', '5H0W', '5H0X', '5H0Y', '5H0Z', '5HJG', '5IHH', '5JID', '5JIM', '5JIQ', '5K1J', '5K1N', '5L4F', '5L4I', '5L4J', '5L4M', '5LLL', '5LLV', '5N5Q', '5N62', '5N7C', '5NFE', '5NFW', '5OQ0', '5TTR', '5TZL', '5U48', '5U49', '5U4A', '5U4B', '5U4C', '5U4D', '5U4E', '5U4F', '5U4G', '6D0W', '6E6Z', '6E70', '6E71', '6E72', '6E73', '6E74', '6E75', '6E76', '6E77', '6E78', '6EP1', '6FFT', '6FWD', '6FXU', '6FZL', '6GR7', '6GRP', '6IMX', '6IMY', '6KGB', '6R66', '6R67', '6R68', '6R6I', '6SDZ', '6SUG', '6SUH', '6TI9', '6TJN', '6TXV', '6TXW', '6U0Q', '6XTK', '7ACU']",transthyretin
+TrkB,trkb-A,378552,,,neurotrophin receptor B xTrkB-beta
+TrkC,NTRK3,4916,ENSG00000140538,"['1WWC', '3V5Q', '4YMJ', '6KZC', '6KZD']",neurotrophic receptor tyrosine kinase 3
+U2 small nuclear ribonucleoprotein,small,914662,,,Hok/gef family protein
+U2AF35,Bm12845,6106100,WBGene00233106,,"splicing factor U2AF35, putative"
+UBE2I,UBE2I,7329,ENSG00000103275,"['1A3S', '1KPS', '1Z5Q', '1Z5S', '2GRN', '2GRO', '2GRP', '2GRQ', '2GRR', '2O25', '2PE6', '2PX9', '2XWU', '3A4S', '3UIN', '3UIO', '3UIP', '4W5V', '4Y1L', '5D2M', '5F6D', '5F6E', '5F6U', '5F6V', '5F6W', '5F6X', '5F6Y', '5FQ2', '6SYF']",ubiquitin conjugating enzyme E2 I
+UBF,ubf,778787,ENSCING00000011375,,transcription factor protein
+UBL1,ubl1,41986954,,,Ubiquitin-like protein
+VEGF-related protein,,SSCA009952,SSCA009952,,PDGF-and VEGF-related factor 3-like protein
+VRP,PSEUBRA_SCAF1g00603,27418794,,,GTPase-activating protein VRP
+Vascular endothelial growth factor-related protein,Flt4,100766609,,,fms related receptor tyrosine kinase 4
+Vav,Vav,32920,FBgn0040068,,Vav guanine nucleotide exchange factor
+WASP,WASp,43402,FBgn0024273,,WASp
+Wiskott-Aldrich syndrome protein,syndrome,252800,,,syndrome
+XPB,Ppa-xpb-1,WBGene00092190,WBGene00092190,,Xpb-1
+YY1,YY1,7528,ENSG00000100811,"['1UBD', '1ZNM', '4C5I']",YY1 transcription factor
+aFGF,FIBP,9158,ENSG00000172500,,FGF1 intracellular binding protein
+acidic (alpha 1-) syntrophin,Snta1,100757978,,,syntrophin alpha 1
+activin A,a,50518,ENSMUSG00000027596,,nonagouti
+activin receptor,RECEPTOR,443145,,,neuropilin-1
+activin type II receptor kinase,RECEPTOR,443145,,,neuropilin-1
+adenosine deaminase,ADA,100,ENSG00000196839,"['1M7M', '3IAR']",adenosine deaminase
+alpha-actinin,ALPHA-ACTININ,NEMVEDRAFT_v1g206855,,,Predicted protein
+alpha1 syntrophin,alpha1,26122881,,,alpha1 protein
+alpha1AT,serpina1,100145012,ENSXETG00000023329,,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1"
+armadillo-protein,SRAE_2000272900,36380435,,,Armadillo repeat and Armadillo-like helical domain and Armadillo-type fold domain-containing protein
+bFGF,FGF2,118152209,,,fibroblast growth factor 2
+basic (beta 2-) syntrophin,Sntb2,100754410,,,syntrophin beta 2
+beta ARK,ARK,AAEL000874,,,
+beta-adrenergic receptor kinase,RECEPTOR,443145,,,neuropilin-1
+beta-amyloid peptide,BDCG_04929,69026997,,,amyloid beta-peptide binding protein
+beta-galactosidase,Ubg,107729,,,"ubiquitin, beta-galactosidase related"
+bicoid,bcd,40830,FBgn0000166,1ZQ3,bicoid
+bone morphogenetic protein (BMP)-2,BMP10,118923941,,,bone morphogenetic protein 10
+brain-derived neurotrophic factor,BDNF,627,ENSG00000176697,"['1B8M', '1BND']",brain derived neurotrophic factor
+brain-derived neurotrophin,LOC118406849,118406849,,,brain-derived neurotrophic factor-like
+c-ABL,Abl1,11350,ENSMUSG00000026842,"['1ABO', '1ABQ', '1FPU', '1IEP', '1M52', '1OPJ', '1OPK', '2HZN', '2QOH', '2Z60', '3DK3', '3DK6', '3DK7', '3IK3', '3K5V', '3KF4', '3KFA', '3MS9', '3MSS', '3OXZ', '3OY3', '5IH2', '6HD4', '6HD6']","c-abl oncogene 1, non-receptor tyrosine kinase"
+c-Abl,Abl1,11350,ENSMUSG00000026842,"['1ABO', '1ABQ', '1FPU', '1IEP', '1M52', '1OPJ', '1OPK', '2HZN', '2QOH', '2Z60', '3DK3', '3DK6', '3DK7', '3IK3', '3K5V', '3KF4', '3KFA', '3MS9', '3MSS', '3OXZ', '3OY3', '5IH2', '6HD4', '6HD6']","c-abl oncogene 1, non-receptor tyrosine kinase"
+c-Cbl,CAP,100307004,,,c-Cbl-associated protein
+c-Fos,c-Fos,ENSDLAG00005010958,ENSDLAG00005010958,,v-fos FBJ murine osteosarcoma viral oncogene homolog Ab
+c-Jun,c-Jun,101863323,,,transcription factor AP-1-like
+c-Kit,KIT,112933391,,,"KIT proto-oncogene, receptor tyrosine kinase"
+c-Mpl,LOC108713530,108713530,,,thrombopoietin receptor
+c-Myc,c-myc,110535641,ENSOMYG00000039293,,transcriptional regulator Myc-like
+c-Raf-1,raf1.L,108704012,,,"Raf-1 proto-oncogene, serine/threonine kinase L homeolog"
+c-Src,Csk,12988,ENSMUSG00000032312,1JEG,c-src tyrosine kinase
+c-cbl,CAP,100307004,,,c-Cbl-associated protein
+c-fos,c-Fos,ENSDLAG00005010958,ENSDLAG00005010958,,v-fos FBJ murine osteosarcoma viral oncogene homolog Ab
+c-jun,c-Jun,101863323,,,transcription factor AP-1-like
+c-myc,c-myc,110535641,ENSOMYG00000039293,,transcriptional regulator Myc-like
+calcium effector protein,RPH3AL,9501,,,rabphilin 3A like (without C2 domains)
+calcium-sensing receptor,RECEPTOR,443145,,,neuropilin-1
+calmodulin,CALMODULIN,104311303,,,calmodulin
+calnexin,CANX,821,,,calnexin
+calnexin-associated protein,MARCHF6,10299,ENSG00000145495,,membrane associated ring-CH-type finger 6
+calreticulin,CALR,811,ENSG00000179218,"['2CLR', '3DOW', '3POS', '3POW', '5LK5', '5V90', '6ENY']",calreticulin
+cd44,CD44,960,ENSG00000026508,"['1POZ', '1UUH', '2I83', '4PZ3', '4PZ4', '6TXS']",CD44 molecule (Indian blood group)
+cdc25A,CDC25A,993,ENSG00000164045,1C25,cell division cycle 25A
+cdc25B,CDC25B,994,ENSG00000101224,"['1CWR', '1CWS', '1CWT', '1QB0', '1YM9', '1YMD', '1YMK', '1YML', '1YS0', '2A2K', '2IFD', '2IFV', '2UZQ', '3FQT', '3FQU', '4WH7', '4WH9']",cell division cycle 25B
+cdc7,CDC7,8317,ENSG00000097046,"['4F99', '4F9A', '4F9B', '4F9C', '5UWQ', '5UWR', '6YA6', '6YA7', '6YA8']",cell division cycle 7
+cdk2,CDK2,1017,ENSG00000123374,"['1AQ1', '1B38', '1B39', '1BUH', '1CKP', '1DI8', '1DM2', '1E1V', '1E1X', '1E9H', '1F5Q', '1FIN', '1FQ1', '1FVT', '1FVV', '1G5S', '1GIH', '1GII', '1GIJ', '1GY3', '1GZ8', '1H00', '1H01', '1H07', '1H08', '1H0V', '1H0W', '1H1P', '1H1Q', '1H1R', '1H1S', '1H24', '1H25', '1H26', '1H27', '1H28', '1HCK', '1HCL', '1JST', '1JSU', '1JSV', '1JVP', '1KE5', '1KE6', '1KE7', '1KE8', '1KE9', '1OGU', '1OI9', '1OIQ', '1OIR', '1OIT', '1OIU', '1OIY', '1OKV', '1OKW', '1OL1', '1OL2', '1P2A', '1P5E', '1PF8', '1PKD', '1PW2', '1PXI', '1PXJ', '1PXK', '1PXL', '1PXM', '1PXN', '1PXO', '1PXP', '1PYE', '1QMZ', '1R78', '1URC', '1URW', '1V1K', '1VYW', '1VYZ', '1W0X', '1W8C', '1W98', '1WCC', '1Y8Y', '1Y91', '1YKR', '2A0C', '2A4L', '2B52', '2B53', '2B54', '2B55', '2BHE', '2BHH', '2BKZ', '2BPM', '2BTR', '2BTS', '2C4G', '2C5N', '2C5O', '2C5V', '2C5X', '2C5Y', '2C68', '2C69', '2C6I', '2C6K', '2C6L', '2C6M', '2C6O', '2C6T', '2CCH', '2CCI', '2CJM', '2CLX', '2DS1', '2DUV', '2EXM', '2FVD', '2G9X', '2HIC', '2I40', '2IW6', '2IW8', '2IW9', '2J9M', '2JGZ', '2R3F', '2R3G', '2R3H', '2R3I', '2R3J', '2R3K', '2R3L', '2R3M', '2R3N', '2R3O', '2R3P', '2R3Q', '2R3R', '2R64', '2UUE', '2UZB', '2UZD', '2UZE', '2UZL', '2UZN', '2UZO', '2V0D', '2V22', '2VTA', '2VTH', '2VTI', '2VTJ', '2VTL', '2VTM', '2VTN', '2VTO', '2VTP', '2VTQ', '2VTR', '2VTS', '2VTT', '2VU3', '2VV9', '2W05', '2W06', '2W17', '2W1H', '2WEV', '2WFY', '2WHB', '2WIH', '2WIP', '2WMA', '2WMB', '2WPA', '2WXV', '2X1N', '2XMY', '2XNB', '3BHT', '3BHU', '3BHV', '3DDP', '3DDQ', '3DOG', '3EID', '3EJ1', '3EOC', '3EZR', '3EZV', '3F5X', '3FZ1', '3IG7', '3IGG', '3LE6', '3LFN', '3LFQ', '3LFS', '3MY5', '3NS9', '3PJ8', '3PXF', '3PXQ', '3PXR', '3PXY', '3PXZ', '3PY0', '3PY1', '3QHR', '3QHW', '3QL8', '3QQF', '3QQG', '3QQH', '3QQJ', '3QQK', '3QQL', '3QRT', '3QRU', '3QTQ', '3QTR', '3QTS', '3QTU', '3QTW', '3QTX', '3QTZ', '3QU0', '3QWJ', '3QWK', '3QX2', '3QX4', '3QXO', '3QXP', '3QZF', '3QZG', '3QZH', '3QZI', '3R1Q', '3R1S', '3R1Y', '3R28', '3R6X', '3R71', '3R73', '3R7E', '3R7I', '3R7U', '3R7V', '3R7Y', '3R83', '3R8L', '3R8M', '3R8P', '3R8U', '3R8V', '3R8Z', '3R9D', '3R9H', '3R9N', '3R9O', '3RAH', '3RAI', '3RAK', '3RAL', '3RJC', '3RK5', '3RK7', '3RK9', '3RKB', '3RM6', '3RM7', '3RMF', '3RNI', '3ROY', '3RPO', '3RPR', '3RPV', '3RPY', '3RZB', '3S00', '3S0O', '3S1H', '3S2P', '3SQQ', '3SW4', '3SW7', '3TI1', '3TIY', '3TIZ', '3TNW', '3ULI', '3UNJ', '3UNK', '3WBL', '4ACM', '4BCK', '4BCM', '4BCN', '4BCO', '4BCP', '4BCQ', '4BGH', '4BZD', '4CFM', '4CFN', '4CFU', '4CFV', '4CFW', '4CFX', '4D1X', '4D1Z', '4EK3', '4EK4', '4EK5', '4EK6', '4EK8', '4EOI', '4EOJ', '4EOK', '4EOL', '4EOM', '4EON', '4EOO', '4EOP', '4EOQ', '4EOR', '4EOS', '4ERW', '4EZ3', '4EZ7', '4FKG', '4FKI', '4FKJ', '4FKL', '4FKO', '4FKP', '4FKQ', '4FKR', '4FKS', '4FKT', '4FKU', '4FKV', '4FKW', '4FX3', '4GCJ', '4I3Z', '4II5', '4KD1', '4LYN', '4NJ3', '4RJ3', '5A14', '5AND', '5ANE', '5ANG', '5ANI', '5ANJ', '5ANK', '5ANO', '5CYI', '5D1J', '5FP5', '5FP6', '5IEV', '5IEX', '5IEY', '5IF1', '5JQ5', '5JQ8', '5K4J', '5L2W', '5LMK', '5MHQ', '5NEV', '5OO0', '5OO1', '5OO3', '5OSJ', '5OSM', '5UQ1', '5UQ2', '5UQ3', '6ATH', '6GUB', '6GUC', '6GUE', '6GUF', '6GUH', '6GUK', '6GVA', '6INL', '6JGM', '6OQI', '6P3W', '6Q3B', '6Q3C', '6Q3F', '6Q48', '6Q49', '6Q4A', '6Q4B', '6Q4C', '6Q4D', '6Q4E', '6Q4F', '6Q4G', '6Q4H', '6Q4I', '6Q4J', '6Q4K', '6RIJ', '6SG4', '6YL1', '6YL6', '6YLK', '7ACK', '7B5L', '7B5R', '7E34', '7KJS', '7NVQ']",cyclin dependent kinase 2
+chymase,CMA1,1215,ENSG00000092009,"['1KLT', '1NN6', '1PJP', '1T31', '2HVX', '3N7O', '3S0N', '4AFQ', '4AFS', '4AFU', '4AFZ', '4AG1', '4AG2', '4K2Y', '4K5Z', '4K60', '4K69', '4KP0', '5YJM', '5YJP']",chymase 1
+ciliary neurotrophic factor,CNTF,1270,ENSG00000242689,1CNT,ciliary neurotrophic factor
+creatine kinase,CKB,1152,ENSG00000166165,"['3B6R', '3DRB', '3DRE', '6V9H']",creatine kinase B
+cyclin A,a,50518,ENSMUSG00000027596,,nonagouti
+cyclin D-dependent kinase,LOC120210668,120210668,,,cyclin-dependent kinase D-3-like
+cyclin-dependent kinase2,Cdkn1a,12575,ENSMUSG00000023067,,cyclin-dependent kinase inhibitor 1A (P21)
+cyclinA,Ccna2,101835930,ENSMAUG00000018247,,cyclin A2
+cyclins A,a,50518,ENSMUSG00000027596,,nonagouti
+cyclooxygenase-2,cox-2,100136025,ENSOMYG00000005747,,cyclooxygenase-2
+cytokine receptor gamma chain,RECEPTOR,443145,,,neuropilin-1
+dTBP,Tbp,37476,FBgn0003687,,TATA binding protein
+dTFIID,Tbp,37476,FBgn0003687,,TATA binding protein
+decorin,DCN,1634,ENSG00000011465,,decorin
+decoy receptor 3,RECEPTOR,443145,,,neuropilin-1
+delta-catenin,ARVCF,421,ENSG00000099889,,ARVCF delta catenin family member
+dipeptidyl peptidase IV,IV,8114,,,"inversus situs, viscerum"
+dystrophin,DMD,1756,ENSG00000198947,"['1DXX', '1EG3', '1EG4', '3UUN']",dystrophin
+dystrophin related protein,DRP2,1821,ENSG00000102385,,dystrophin related protein 2
+eip1,LOC4327432,4327432,Os01g0831200,,BAG family molecular chaperone regulator 4
+elastin,ELN,2006,ENSG00000049540,,elastin
+endothelin-1,EDN1,1906,ENSG00000078401,"['1EDN', '1EDP', '1T7H', '1V6R', '5GLH', '6DK5']",endothelin 1
+eotaxin-2,LOC102081935,102081935,,,eotaxin
+eotaxin-3,LOC116733420,116733420,,,eotaxin-like
+epidermal growth factor,EGF,1950,ENSG00000138798,"['1IVO', '1JL9', '1NQL', '1P9J', '2KV4', '3NJP']",epidermal growth factor
+epidermal growth factor receptor,RECEPTOR,443145,,,neuropilin-1
+erythropoietin,EPO,2056,ENSG00000130427,"['1BUY', '1CN4', '1EER']",erythropoietin
+erythropoietin (EPO) receptor,RECEPTOR,443145,,,neuropilin-1
+erythropoietin receptor,RECEPTOR,443145,,,neuropilin-1
+fibroblast growth factor receptor 2,RECEPTOR,443145,,,neuropilin-1
+fibroblast growth factor receptor 3,RECEPTOR,443145,,,neuropilin-1
+fibroblast growth factor-7,FGF7,2252,ENSG00000140285,,fibroblast growth factor 7
+fibromodulin,FMOD,2331,ENSG00000122176,5MX0,fibromodulin
+fibronectin,FN1,2335,ENSG00000115414,"['1E88', '1E8B', '1FBR', '1FNA', '1FNF', '1FNH', '1J8K', '1O9A', '1OWW', '1Q38', '1QGB', '1QO6', '1TTF', '1TTG', '2CG6', '2CG7', '2CK2', '2CKU', '2EC3', '2FN2', '2FNB', '2GEE', '2H41', '2H45', '2HA1', '2MNU', '2N1K', '2OCF', '2RKY', '2RKZ', '2RL0', '3CAL', '3EJH', '3GXE', '3M7P', '3MQL', '3R8Q', '3T1W', '3ZRZ', '4GH7', '4JE4', '4JEG', '4LXO', '4MMX', '4MMY', '4MMZ', '4PZ5', '5DC0', '5DC4', '5DC9', '5DFT', '5J6Z', '5J7C', '5M0A', '5N47', '5N48', '6HNF', '6MFA', '6MSV', '6NAJ', '6XAX', '6XAY', '7NWL']",fibronectin 1
+gammac,Crygc,100337641,ENSCPOG00000000186,,crystallin gamma C
+gastrin,gastrin,103173862,ENSCMIG00000002927,,gastrin/cholecystokinin-like peptide
+gelatinase A,a,50518,ENSMUSG00000027596,,nonagouti
+glial fibrillary acidic protein,GFAP,2670,ENSG00000131095,6A9P,glial fibrillary acidic protein
+glut 1,gluT,2700445,,,tRNA
+glutamine synthetase,Gm12008,102632442,,,glutamine synthetase-like
+gp 130,gp,14722,,,gaping lids
+gp120,gp120,16186250,,,hypothetical protein
+gp91-phox,GP91-PHOX,397108,ENSSSCG00000036246,,NADPH oxidase heavy chain subunit
+granulocyte-macrophage colony-stimulating factor,GM-CSF,100137216,,,granulocyte-macrophage colony-stimulating factor
+granulysin,GNLY,10578,ENSG00000115523,1L9L,granulysin
+hGITRL,TNFSF18,8995,ENSG00000120337,"['2Q1M', '2R30', '2R32', '3B93', '3B94', '7KHD']",TNF superfamily member 18
+hIL-10,IL10RA,3587,ENSG00000110324,"['1J7V', '1LQS', '1Y6K', '1Y6M', '1Y6N', '5IXI', '6X93']",interleukin 10 receptor subunit alpha
+hIL-10R,IL10RA,3587,ENSG00000110324,"['1J7V', '1LQS', '1Y6K', '1Y6M', '1Y6N', '5IXI', '6X93']",interleukin 10 receptor subunit alpha
+hIL-6,hil-6,186584,WBGene00001857,,Putative histone H1.6
+hPRL,PRLR,5618,ENSG00000113494,"['1BP3', '2LFG', '2N7I', '3D48', '3MZG', '3N06', '3N0P', '3NCB', '3NCC', '3NCE', '3NCF', '4I18']",prolactin receptor
+hTAFII28,HRG_00623,68349752,,,hTAFII28-like protein
+hdm-2,hdac3,549637,ENSXETG00000002708,,histone deacetylase 3
+herpes virus entry mediator (HVEM)-L,Tnfrsf14,230979,ENSMUSG00000042333,,"tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)"
+histone H1,H1,109740,,,histocompatibility 1
+human growth hormone,TSHB,7252,ENSG00000134200,,thyroid stimulating hormone subunit beta
+ifnar1,IFNAR1,3454,ENSG00000142166,"['3S98', '3SE3', '3SE4', '4PO6']",interferon alpha and beta receptor subunit 1
+ifnar2,IFNAR2,3455,ENSG00000159110,"['1N6U', '1N6V', '2HYM', '2KZ1', '2LAG', '3S8W', '3S9D', '3SE3', '3SE4']",interferon alpha and beta receptor subunit 2
+immunoreceptor tyrosine-based activation motif,NFAM1,150372,ENSG00000235568,,NFAT activating protein with ITAM motif 1
+insulin,INS,3630,ENSG00000254647,"['1A7F', '1AI0', '1AIY', '1B9E', '1BEN', '1EFE', '1EV3', '1EV6', '1EVR', '1FU2', '1FUB', '1G7A', '1G7B', '1GUJ', '1HIQ', '1HIS', '1HIT', '1HLS', '1HTV', '1HUI', '1IOG', '1IOH', '1J73', '1JCA', '1JCO', '1JK8', '1K3M', '1KMF', '1LKQ', '1LPH', '1MHI', '1MHJ', '1MSO', '1OS3', '1OS4', '1Q4V', '1QIY', '1QIZ', '1QJ0', '1RWE', '1SF1', '1SJT', '1SJU', '1T0C', '1T1K', '1T1P', '1T1Q', '1TRZ', '1TYL', '1TYM', '1UZ9', '1VKT', '1W8P', '1XDA', '1XGL', '1XW7', '1ZEG', '1ZEH', '1ZNJ', '2AIY', '2C8Q', '2C8R', '2CEU', '2G54', '2G56', '2H67', '2HH4', '2HHO', '2HIU', '2JMN', '2JUM', '2JUU', '2JUV', '2JV1', '2JZQ', '2K91', '2K9R', '2KJJ', '2KJU', '2KQP', '2KQQ', '2KXK', '2L1Y', '2L1Z', '2LGB', '2LWZ', '2M1D', '2M1E', '2M2M', '2M2N', '2M2O', '2M2P', '2MLI', '2MPG', '2MPI', '2MVC', '2MVD', '2N2V', '2N2W', '2N2X', '2OLY', '2OLZ', '2OM0', '2OM1', '2OMG', '2OMH', '2OMI', '2OMQ', '2QIU', '2R34', '2R35', '2R36', '2RN5', '2VJZ', '2VK0', '2W44', '2WBY', '2WC0', '2WRU', '2WRV', '2WRW', '2WRX', '2WS0', '2WS1', '2WS4', '2WS6', '2WS7', '3AIY', '3BXQ', '3E7Y', '3E7Z', '3EXX', '3FQ9', '3HYD', '3I3Z', '3I40', '3ILG', '3INC', '3IR0', '3JSD', '3KQ6', '3P2X', '3P33', '3Q6E', '3ROV', '3TT8', '3U4N', '3UTQ', '3UTS', '3UTT', '3V19', '3V1G', '3W11', '3W12', '3W13', '3W7Y', '3W7Z', '3W80', '3ZI3', '3ZQR', '3ZS2', '3ZU1', '4AIY', '4AJX', '4AJZ', '4AK0', '4AKJ', '4CXL', '4CXN', '4CY7', '4EFX', '4EWW', '4EWX', '4EWZ', '4EX0', '4EX1', '4EXX', '4EY1', '4EY9', '4EYD', '4EYN', '4EYP', '4F0N', '4F0O', '4F1A', '4F1B', '4F1C', '4F1D', '4F1F', '4F1G', '4F4T', '4F4V', '4F51', '4F8F', '4FG3', '4FKA', '4GBC', '4GBI', '4GBK', '4GBL', '4GBN', '4IUZ', '4IYD', '4IYF', '4NIB', '4OGA', '4P65', '4RXW', '4UNE', '4UNG', '4UNH', '4WDI', '4XC4', '4Y19', '4Y1A', '4Z76', '4Z77', '4Z78', '5AIY', '5BOQ', '5BPO', '5BQQ', '5BTS', '5C0D', '5CJO', '5CNY', '5CO2', '5CO6', '5CO9', '5E7W', '5EMS', '5EN9', '5ENA', '5HPR', '5HPU', '5HQI', '5HRQ', '5HYJ', '5MAM', '5MHD', '5MT3', '5MT9', '5MWQ', '5T7R', '5UDP', '5UOZ', '5UQA', '5URT', '5URU', '5USP', '5USS', '5USV', '5UU2', '5UU3', '5UU4', '5VIZ', '5WBT', '5WDM', '5WOB', '6B3Q', '6B70', '6BFC', '6CE7', '6CE9', '6CEB', '6CK2', '6GNQ', '6GV0', '6H3M', '6HN5', '6JK8', '6JR3', '6K59', '6NWV', '6O17', '6P4Z', '6S34', '6S4I', '6S4J', '6SOF', '6TC2', '6TYH', '6U46', '6VEP', '6VER', '6VES', '6VET', '6X4X', '6Z7W', '6Z7Y', '7BW7', '7BW8', '7BWA', '7NHU']",insulin
+insulin receptor,RECEPTOR,443145,,,neuropilin-1
+insulin receptor substrate 1,RECEPTOR,443145,,,neuropilin-1
+insulin receptor substrate-1,RECEPTOR,443145,,,neuropilin-1
+insulin-like growth factor-I,Igf1r,16001,ENSMUSG00000005533,6PYH,insulin-like growth factor I receptor
+insulin-like growth factor-I (IGF-I) receptor,RECEPTOR,443145,,,neuropilin-1
+insulin-like growth factor-I receptor,RECEPTOR,443145,,,neuropilin-1
+interferon (IFN)alpha2,LOC122233077,122233077,,,interferon alpha-like
+interferon alpha (IFNalpha) receptor,RECEPTOR,443145,,,neuropilin-1
+interferon alpha receptor,RECEPTOR,443145,,,neuropilin-1
+interferon-gamma,IFNG,3458,ENSG00000111537,"['1EKU', '1FG9', '1FYH', '1HIG', '3BES', '6E3K', '6E3L']",interferon gamma
+interferon-gamma inducing factor,IL18,100861190,ENSCHIG00000020991,,interleukin 18
+interleukin (IL) 2 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin (IL)-13,Il1,111343,,,interleukin 1 complex
+interleukin (IL)-8,Il1,111343,,,interleukin 1 complex
+interleukin 10 (IL-10) receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin 13 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin 13 receptor alpha chain,RECEPTOR,443145,,,neuropilin-1
+interleukin 1alpha,IL1A,101691850,,,interleukin 1 alpha
+interleukin 2 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin-1 beta-converting enzyme,CASP4,493961,ENSFCAG00000005921,,caspase 4
+interleukin-1 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin-10,IL10,3586,ENSG00000136634,"['1ILK', '1INR', '1J7V', '1LK3', '1Y6K', '2H24', '2ILK', '6X93']",interleukin 10
+interleukin-10 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin-15,IL15,3600,ENSG00000164136,"['2XQB', '2Z3Q', '2Z3R', '4GS7']",interleukin 15
+interleukin-1beta,LOC102448244,102448244,,,interleukin-1 beta
+interleukin-1beta (IL-1beta) converting enzyme,Casp1,25166,ENSRNOG00000007372,,caspase 1
+interleukin-1beta converting enzyme,casp1.L,397719,,,caspase 1 L homeolog
+interleukin-2,IL2,3558,ENSG00000109471,"['1ILM', '1ILN', '1IRL', '1M47', '1M48', '1M49', '1M4A', '1M4B', '1M4C', '1NBP', '1PW6', '1PY2', '1QVN', '1Z92', '2B5I', '2ERJ', '3INK', '3QAZ', '3QB1', '4NEJ', '4NEM', '5LQB', '5M5E', '5UTZ', '6LX3', '6LXW', '6VWU', '6YE3', '7DR4']",interleukin 2
+interleukin-2 (IL-2) receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin-2 receptor,RECEPTOR,443145,,,neuropilin-1
+interleukin-3,IL3,3562,ENSG00000164399,"['1JLI', '5UV8', '5UWC', '6NMY']",interleukin 3
+interleukin-6,IL6,3569,ENSG00000136244,"['1ALU', '1IL6', '1N2Q', '1P9M', '2IL6', '4CNI', '4J4L', '4NI7', '4NI9', '4O9H', '4ZS7', '5FUC', '7NXZ']",interleukin 6
+interleukin-6 receptor,RECEPTOR,443145,,,neuropilin-1
+ith,cgd3_510,3373799,,,"fucose translocatorw ith 8 transmembrane domains, within locus of 3 paralogous genes"
+junB,JUNB,3726,ENSG00000171223,,"JunB proto-oncogene, AP-1 transcription factor subunit"
+keratinocyte growth factor,FGF7,102261751,,,fibroblast growth factor 7
+keratinocyte growth factor receptor,RECEPTOR,443145,,,neuropilin-1
+kinase insert domain-containing receptor,RECEPTOR,443145,,,neuropilin-1
+laminin-5,LAMA5,102774792,,,laminin subunit alpha 5
+leukemia inhibitory factor,Lif,16878,ENSMUSG00000034394,"['1A7M', '1LKI']",leukemia inhibitory factor
+lymphotoxin beta receptor,RECEPTOR,443145,,,neuropilin-1
+lymphotoxin-alpha,LTA,4049,,"['1TNR', '4MXV', '4MXW']",lymphotoxin alpha
+lymphotoxin-beta,LTB,4050,,4MXW,lymphotoxin beta
+mIL-10R,Il10ra,16154,ENSMUSG00000032089,,"interleukin 10 receptor, alpha"
+macrophage inflammatory protein (MIP)-1alpha,CCL4L1,574217,ENSMMUG00000020102,,chemokine (C-C motif) ligand 4-like 1
+matrix metalloprotease-2,LOC123030660,123030660,,,epididymal sperm-binding protein 1-like
+mdm-2,NLGN2,100016144,,,neuroligin 2
+mitogen-activated protein-serine (MAP) kinases,DUSP9,1852,ENSG00000130829,"['2HXP', '3LJ8']",dual specificity phosphatase 9
+monocyte chemoattractant protein-3,Mcpt3,100379541,ENSCPOG00000013035,,mast cell protease 3
+myeloproliferative leukemia virus receptor,RECEPTOR,443145,,,neuropilin-1
+myogenic basic helix-loop-helix,MYF5,443159,,,myogenic factor 5
+myogenin,MYOG,4656,ENSG00000122180,,myogenin
+natural resistance-associated protein,LOC118309808,118309808,,,natural resistance-associated macrophage protein 2-like
+nerve growth factor,NGF,4803,ENSG00000134259,"['1SG1', '1WWW', '2IFG', '4EDW', '4EDX', '4ZBN', '5JZ7', '6YW8']",nerve growth factor
+neuregulin-2,NRG2,9542,ENSG00000158458,,neuregulin 2
+neuropilin-1,NRP1,8829,ENSG00000099250,"['1KEX', '2QQI', '2QQM', '2QQN', '3I97', '4DEQ', '4RN5', '5C7G', '5IJR', '5IYY', '5J1X', '5JGI', '5JGQ', '5JHK', '5L73', '6FMC', '6FMF', '6TKK', '7JJC']",neuropilin 1
+neurotrophin TRKB receptor,RECEPTOR,443145,,,neuropilin-1
+neurotrophin-3,NTF3,4908,ENSG00000185652,"['1B8K', '1BND', '1NT3', '3BUK']",neurotrophin 3
+nuclear factor-kappaB,,ENSCAFG00020010326,ENSCAFG00020010326,,nuclear factor related to kappaB binding protein
+nucleolin,NCL,4691,ENSG00000115053,"['2FC8', '2FC9', '2KRR']",nucleolin
+p0071,pkp4,780351,ENSXETG00000010376,,plakophilin 4
+p107,16-3p107,6654057,,,p107
+p120GAP,RASA1,282032,ENSBTAG00000009565,,RAS p21 protein activator 1
+p140trk (trkA) tyrosine kinase receptor,RECEPTOR,443145,,,neuropilin-1
+p16INK4a,cdkn2a/b,103182848,ENSCMIG00000011795,,"cyclin-dependent kinase inhibitor 2A/B (p15, inhibits CDK4)"
+p21CIP1,cdkn1a,100038054,ENSXETG00000024887,,cyclin-dependent kinase inhibitor 1A
+p21rac,Chn1,84030,ENSRNOG00000017939,,chimerin 1
+p21ras,LOC367858,367858,ENSRNOG00000018301,,similar to GTPase HRas precursor (Transforming protein p21) (p21ras) (H-Ras-1) (c-H-ras)
+p22-phox,p22-phox,100301566,ENSOMYG00000039445,,cytochrome b558 alpha-subunit
+p300,EP300,2033,ENSG00000100393,"['1L3E', '1P4Q', '2K8F', '2MH0', '2MZD', '3BIY', '3I3J', '3IO2', '3P57', '3T92', '4BHW', '4PZR', '4PZS', '4PZT', '5BT3', '5KJ2', '5LKT', '5LKU', '5LKX', '5LKZ', '5LPK', '5LPM', '5NU5', '5XZC', '6DS6', '6FGN', '6FGS', '6GYR', '6GYT', '6K4N', '6PF1', '6PGU', '6V8B', '6V8K', '6V8N', '6V90', '7LJE']",E1A binding protein p300
+p34cdc2,,TraesCS5A02G521700,TraesCS5A02G521700,,p34cdc2
+p47-phox,NCF1,101320246,,,neutrophil cytosolic factor 1
+p52Shc,SHC1,6464,ENSG00000160691,"['1MIL', '1N3H', '1OY2', '1QG1', '1SHC', '1TCE', '1WCP', '2L1C', '4JMH', '4XWX', '5CZI', '6DM4']",SHC adaptor protein 1
+p56lck,lck.S,108708930,,,"LCK proto-oncogene, Src family tyrosine kinase S homeolog"
+p59fyn,FYN,2534,ENSG00000010810,"['1A0N', '1AOT', '1AOU', '1AVZ', '1AZG', '1EFN', '1FYN', '1G83', '1M27', '1NYF', '1NYG', '1SHF', '1ZBJ', '2DQ7', '2MQI', '2MRJ', '2MRK', '3H0F', '3H0H', '3H0I', '3UA6', '3UA7', '4D8D', '4EIK', '4U17', '4U1P', '4ZNX', '5ZAU', '6EDF', '6IPY', '6IPZ']","FYN proto-oncogene, Src family tyrosine kinase"
+p67-phox,NCF2,101330725,,,neutrophil cytosolic factor 2
+p72Syk,Syk,25155,ENSRNOG00000012160,,spleen associated tyrosine kinase
+p75 neurotrophin receptor,RECEPTOR,443145,,,neuropilin-1
+p85,P85,AT4G35985,,,"Senescence/dehydration-associated protein At4g35985, chloroplastic"
+p90,,TC009089,TC009089,,Serine protease P90
+pRB,LOC111002126,111002126,,,opsin-3
+pRb,LOC111002126,111002126,,,opsin-3
+pRb2,PRB2,653247,ENSG00000121335,,proline rich protein BstNI subfamily 2
+perforin,PRF1,5551,ENSG00000180644,,perforin 1
+phosphatidylinositol 3-kinase,PIK3C3,5289,ENSG00000078142,"['3IHY', '3LS8', '4OYS', '4PH4', '4UWF', '4UWG', '4UWH', '4UWK', '4UWL', '5ANL', '5ENN', '6I3U', '6YKG', '7BL1']",phosphatidylinositol 3-kinase catalytic subunit type 3
+pim 2,pim,34404,FBgn0003087,,pimples
+platelet-derived growth factor (PDGF) receptor,RECEPTOR,443145,,,neuropilin-1
+pp120,Ceacam1,81613,ENSRNOG00000020578,,CEA cell adhesion molecule 1
+pp42,Eif2s3,299027,ENSRNOG00000060793,,eukaryotic translation initiation factor 2 subunit gamma
+pp60c-src,src.L,380430,,,"SRC proto-oncogene, non-receptor tyrosine kinase L homeolog"
+pp60v-src,src.L,380430,,,"SRC proto-oncogene, non-receptor tyrosine kinase L homeolog"
+pp66,CORO1B,100009415,,,"coronin, actin binding protein, 1B"
+progesterone receptor,RECEPTOR,443145,,,neuropilin-1
+prolactin,PROLACTIN,100861193,,,PROLACTIN protein
+proliferating-cell nuclear antigen,PCNA,5111,ENSG00000132646,"['1AXC', '1U76', '1U7B', '1UL1', '1VYJ', '1VYM', '1W60', '2ZVK', '2ZVL', '2ZVM', '3JA9', '3P87', '3TBL', '3VKX', '3WGW', '4D2G', '4RJF', '4ZTD', '5E0T', '5E0U', '5E0V', '5IY4', '5MAV', '5MLO', '5MLW', '5MOM', '5YCO', '5YD8', '6CBI', '6EHT', '6FCM', '6FCN', '6GIS', '6GWS', '6HVO', '6K3A', '6QC0', '6QCG', '6S1M', '6S1N', '6S1O', '6TNY', '6TNZ', '6VVO', '7EFA', '7KQ0', '7KQ1']",proliferating cell nuclear antigen
+protein kinase A,a,50518,ENSMUSG00000027596,,nonagouti
+raf-1,RAF1,5894,ENSG00000132155,"['1C1Y', '1FAQ', '1FAR', '1GUA', '1RFA', '3CU8', '3IQJ', '3IQU', '3IQV', '3KUC', '3KUD', '3NKX', '3O8I', '3OMV', '4FJ3', '4G0N', '4G3X', '4IEA', '4IHL', '6NTC', '6NTD', '6PTS', '6PTW', '6VJJ', '6XGU', '6XGV', '6XHA', '6XHB', '6XI7', '7JHP']","Raf-1 proto-oncogene, serine/threonine kinase"
+raf1,RAF1,5894,ENSG00000132155,"['1C1Y', '1FAQ', '1FAR', '1GUA', '1RFA', '3CU8', '3IQJ', '3IQU', '3IQV', '3KUC', '3KUD', '3NKX', '3O8I', '3OMV', '4FJ3', '4G0N', '4G3X', '4IEA', '4IHL', '6NTC', '6NTD', '6PTS', '6PTW', '6VJJ', '6XGU', '6XGV', '6XHA', '6XHB', '6XI7', '7JHP']","Raf-1 proto-oncogene, serine/threonine kinase"
+ras,ras,19412,,,resistance to audiogenic seizures
+receptor interacting protein,RECEPTOR,443145,,,neuropilin-1
+renin,REN,5972,ENSG00000143839,"['1BBS', '1BIL', '1BIM', '1HRN', '1RNE', '2BKS', '2BKT', '2FS4', '2G1N', '2G1O', '2G1R', '2G1S', '2G1Y', '2G20', '2G21', '2G22', '2G24', '2G26', '2G27', '2I4Q', '2IKO', '2IKU', '2IL2', '2REN', '2V0Z', '2V10', '2V11', '2V12', '2V13', '2V16', '2X0B', '3D91', '3G6Z', '3G70', '3G72', '3GW5', '3K1W', '3KM4', '3O9L', '3OAD', '3OAG', '3OOT', '3OQF', '3OQK', '3OWN', '3Q3T', '3Q4B', '3Q5H', '3SFC', '3VCM', '3VSW', '3VSX', '3VUC', '3VYD', '3VYE', '3VYF', '4AMT', '4GJ5', '4GJ6', '4GJ7', '4GJ8', '4GJ9', '4GJA', '4GJB', '4GJC', '4GJD', '4PYV', '4Q1N', '4RYC', '4RYG', '4RZ1', '4S1G', '4XX3', '4XX4', '5KOQ', '5KOS', '5KOT', '5SXN', '5SY2', '5SY3', '5SZ9', '5T4S', '5TMG', '5TMK', '5V8V', '5VPM', '5VRP', '6I3F']",renin
+retinoblastoma susceptibility gene,LPAR6,10161,ENSG00000139679,,lysophosphatidic acid receptor 6
+retinoblastoma tumor suppressor protein,RB1,112313044,,,RB transcriptional corepressor 1
+retinoic X receptor,RECEPTOR,443145,,,neuropilin-1
+s-IL1R,il1r1.S,108709706,,,interleukin 1 receptor type 1 S homeolog
+sCAM,SCAM-5,548064,,,calmodulin
+sem-5,sem-5,181055,WBGene00004774,"['1K76', '1KFZ', '1SEM', '2SEM', '3SEM']",Sex muscle abnormal protein 5
+serum response factor,SRF,6722,ENSG00000112658,"['1HBX', '1K6O', '1SRS']",serum response factor
+soluble cell adhesion molecules,HSPG2,3339,ENSG00000142798,"['3SH4', '3SH5']",heparan sulfate proteoglycan 2
+sorting nexin-1,SNX1,6642,ENSG00000028528,"['2I4K', '4FZS']",sorting nexin 1
+thrombopoietin,THPO,7066,ENSG00000090534,"['1V7M', '1V7N']",thrombopoietin
+thyroid AKAP,AKAP13,11214,ENSG00000170776,"['2DRN', '2LG1', '4D0N', '4D0O', '6BCA']",A-kinase anchoring protein 13
+tissue inhibitor of metalloproteinases-1,TIMP1,100009047,,,TIMP metallopeptidase inhibitor 1
+tonin,LOC116894355,116894355,,,tonin
+transcription factor IIB,GTF2B,2959,ENSG00000137947,"['1C9B', '1DL6', '1RLY', '1RO4', '1TFB', '1VOL', '2PHG', '5IY6', '5IY7', '5IY8', '5IY9', '5IYA', '5IYB', '5IYC', '5IYD', '5WH1', '6O9L', '7EDX', '7EG7', '7EG8', '7EG9', '7EGA', '7EGB', '7EGC', '7ENA', '7ENC', '7LBM', '7NVR', '7NVS', '7NVT', '7NVU', '7NVY', '7NVZ', '7NW0']",general transcription factor IIB
+transcription factor IID,,fgenesh2_kg.3__1428__AT3G13445.1,,,Transcription factor IID-1
+transferrin,TF,7018,ENSG00000091513,"['1A8E', '1A8F', '1B3E', '1BP5', '1BTJ', '1D3K', '1D4N', '1DTG', '1FQE', '1FQF', '1JQF', '1N7W', '1N7X', '1N84', '1OQG', '1OQH', '1RYO', '1SUV', '2HAU', '2HAV', '2O7U', '2O84', '3FGS', '3QYT', '3S9L', '3S9M', '3S9N', '3SKP', '3V83', '3V89', '3V8X', '3VE1', '4H0W', '4X1B', '4X1D', '5DYH', '5H52', '5WTD', '5X5P', '5Y6K', '6CTC', '6D03', '6D04', '6D05', '6JAS', '6SOY', '6SOZ', '6UJ6']",transferrin
+transferrin receptor,RECEPTOR,443145,,,neuropilin-1
+transporter associated with antigen processing,with,249888,,,with trident
+transthyretin,TTR,7276,ENSG00000118271,"['1BM7', '1BMZ', '1BZ8', '1BZD', '1BZE', '1DVQ', '1DVS', '1DVT', '1DVU', '1DVX', '1DVY', '1DVZ', '1E3F', '1E4H', '1E5A', '1ETA', '1ETB', '1F41', '1F64', '1F86', '1FH2', '1FHN', '1G1O', '1GKO', '1ICT', '1III', '1IIK', '1IJN', '1QAB', '1QWH', '1RLB', '1SOK', '1SOQ', '1THA', '1THC', '1TLM', '1TSH', '1TT6', '1TTA', '1TTB', '1TTC', '1TTR', '1TYR', '1TZ8', '1U21', '1X7S', '1X7T', '1Y1D', '1Z7J', '1ZCR', '1ZD6', '2B14', '2B15', '2B16', '2B77', '2B9A', '2F7I', '2F8I', '2FBR', '2FLM', '2G3X', '2G3Z', '2G4E', '2G4G', '2G5U', '2G9K', '2GAB', '2H4E', '2M5N', '2NBO', '2NBP', '2NOY', '2PAB', '2QEL', '2QGB', '2QGC', '2QGD', '2QGE', '2ROX', '2ROY', '2TRH', '2TRY', '2WQA', '3A4D', '3A4E', '3A4F', '3B56', '3BSZ', '3BT0', '3CBR', '3CFM', '3CFN', '3CFQ', '3CFT', '3CN0', '3CN1', '3CN2', '3CN3', '3CN4', '3CXF', '3D2T', '3D7P', '3DGD', '3DID', '3DJR', '3DJS', '3DJT', '3DJZ', '3DK0', '3DK2', '3DO4', '3ESN', '3ESO', '3ESP', '3FC8', '3FCB', '3GLZ', '3GPS', '3GRB', '3GRG', '3GS0', '3GS4', '3GS7', '3HJ0', '3I9A', '3I9I', '3I9P', '3IMR', '3IMS', '3IMT', '3IMU', '3IMV', '3IMW', '3IPB', '3IPE', '3KGS', '3KGT', '3KGU', '3M1O', '3NEE', '3NEO', '3NES', '3NEX', '3NG5', '3OZK', '3OZL', '3P3R', '3P3S', '3P3T', '3P3U', '3SSG', '3TCT', '3TFB', '3U2I', '3U2J', '3W3B', '4ABQ', '4ABU', '4ABV', '4ABW', '4AC2', '4AC4', '4ACT', '4ANK', '4D7B', '4DER', '4DES', '4DET', '4DEU', '4DEW', '4FI6', '4FI7', '4FI8', '4HIQ', '4HIS', '4HJS', '4HJT', '4HJU', '4I85', '4I87', '4I89', '4IIZ', '4IK6', '4IK7', '4IKI', '4IKJ', '4IKK', '4IKL', '4KY2', '4L1S', '4L1T', '4MAS', '4MRB', '4MRC', '4N85', '4N86', '4N87', '4PM1', '4PME', '4PMF', '4PVL', '4PVM', '4PVN', '4PWE', '4PWF', '4PWG', '4PWH', '4PWI', '4PWJ', '4PWK', '4QRF', '4QXV', '4QYA', '4TKW', '4TL4', '4TL5', '4TLK', '4TLS', '4TLT', '4TLU', '4TM9', '4TNE', '4TNF', '4TNG', '4TQ8', '4TQH', '4TQI', '4TQP', '4WNJ', '4WNS', '4WO0', '4Y9B', '4Y9C', '4Y9E', '4Y9F', '4Y9G', '4YDM', '4YDN', '5A6I', '5AKS', '5AKT', '5AKV', '5AL0', '5AL8', '5AYT', '5BOJ', '5CLX', '5CLY', '5CLZ', '5CM1', '5CN3', '5CNH', '5CR1', '5DEJ', '5DWP', '5E23', '5E4A', '5E4O', '5EN3', '5EZP', '5FO2', '5FW6', '5FW7', '5FW8', '5H0V', '5H0W', '5H0X', '5H0Y', '5H0Z', '5HJG', '5IHH', '5JID', '5JIM', '5JIQ', '5K1J', '5K1N', '5L4F', '5L4I', '5L4J', '5L4M', '5LLL', '5LLV', '5N5Q', '5N62', '5N7C', '5NFE', '5NFW', '5OQ0', '5TTR', '5TZL', '5U48', '5U49', '5U4A', '5U4B', '5U4C', '5U4D', '5U4E', '5U4F', '5U4G', '6D0W', '6E6Z', '6E70', '6E71', '6E72', '6E73', '6E74', '6E75', '6E76', '6E77', '6E78', '6EP1', '6FFT', '6FWD', '6FXU', '6FZL', '6GR7', '6GRP', '6IMX', '6IMY', '6KGB', '6R66', '6R67', '6R68', '6R6I', '6SDZ', '6SUG', '6SUH', '6TI9', '6TJN', '6TXV', '6TXW', '6U0Q', '6XTK', '7ACU']",transthyretin
+tumor necrosis factor (TNF) receptor-1,tnfrsf8,100496791,,,TNF receptor superfamily member 8
+tumor necrosis factor (TNF) type 2 receptor,RECEPTOR,443145,,,neuropilin-1
+tumor necrosis factor receptor I,RECEPTOR,443145,,,neuropilin-1
+tumour necrosis factor-alpha,tnf-alpha,100136034,,,tumour necrosis factor alpha-like
+type I IL-1 receptor,RECEPTOR,443145,,,neuropilin-1
+type IV collagen,IV,8114,,,"inversus situs, viscerum"
+type-I IL1R,il1r1,100491546,,,interleukin 1 receptor type 1
+type-I interleukin-1 receptor,RECEPTOR,443145,,,neuropilin-1
+tyrosine hydroxylase,TH,7054,ENSG00000180176,"['2XSN', '4J6S']",tyrosine hydroxylase
+"tyrosine kinase, phosphatidylinositol 3-kinase",LOC108993581,108993581,Jr01_24090,,hepatocyte growth factor-regulated tyrosine kinase substrate
+upstream binding factor,UBTF,7343,ENSG00000108312,"['1K99', '1L8Y', '1L8Z', '2HDZ']",upstream binding transcription factor
+utrophin,utrophin,103179262,ENSCMIG00000007999,,utrophin
+v-Fos,Gm5586,434127,,,40S RIBOSOMAL PROTEIN S3A (V-FOS TRANSFORMATION EFFECTOR PROTEIN)
+v-Raf,Raf1,110157,ENSMUSG00000000441,,v-raf-leukemia viral oncogene 1
+vimentin,VIM,7431,ENSG00000026025,"['1GK4', '1GK6', '1GK7', '3G1E', '3KLT', '3S4R', '3SSU', '3SWK', '3TRT', '3UF1', '4MCY', '4MCZ', '4MD0', '4MD5', '4MDI', '4MDJ', '4YPC', '4YV3', '5WHF', '6ATF', '6ATI', '6BIR', '6YXK']",vimentin
+vitamin D receptor,RECEPTOR,443145,,,neuropilin-1

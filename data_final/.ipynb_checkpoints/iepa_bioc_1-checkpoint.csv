@@ -1,0 +1,60 @@
+,surface,symbol,entrezgene or _id,ensembl_id,pdb_id,name
+0,3,A2MP1,3,ENSG00000256069,,alpha-2-macroglobulin pseudogene 1
+1,A beta,a,50518,ENSMUSG00000027596,,nonagouti
+2,A beta P,a,50518,ENSMUSG00000027596,,nonagouti
+3,A(beta) (1-40),DNAJC5B,85479,ENSG00000147570,,DnaJ heat shock protein family (Hsp40) member C5 beta
+4,APP,APP,351,ENSG00000142192,"['1AAP', '1AMB', '1AMC', '1AML', '1BA4', '1BA6', '1BJB', '1BJC', '1BRC', '1CA0', '1HZ3', '1IYT', '1MWP', '1OWT', '1QCM', '1QWP', '1QXC', '1QYT', '1TAW', '1TKN', '1UO7', '1UO8', '1UOA', '1UOI', '1X11', '1Z0Q', '1ZE7', '1ZE9', '1ZJD', '2BEG', '2BOM', '2BP4', '2FJZ', '2FK1', '2FK2', '2FK3', '2FKL', '2FMA', '2G47', '2IPU', '2LFM', '2LLM', '2LMN', '2LMO', '2LMP', '2LMQ', '2LNQ', '2LOH', '2LP1', '2LZ3', '2LZ4', '2M4J', '2M9R', '2M9S', '2MGT', '2MJ1', '2MPZ', '2MVX', '2MXU', '2NAO', '2OTK', '2R0W', '2WK3', '2Y29', '2Y2A', '2Y3J', '2Y3K', '2Y3L', '3AYU', '3BAE', '3BKJ', '3DXC', '3DXD', '3DXE', '3GCI', '3IFL', '3IFN', '3IFO', '3IFP', '3JQ5', '3JQL', '3JTI', '3KTM', '3L33', '3L81', '3MOQ', '3MXC', '3MXY', '3NYJ', '3NYL', '3OVJ', '3OW9', '3PZZ', '3Q2X', '3SV1', '3U0T', '3UMH', '3UMI', '3UMK', '4HIX', '4JFN', '4M1C', '4MDR', '4MVI', '4MVK', '4MVL', '4NGE', '4OJF', '4ONF', '4ONG', '4PQD', '4PWQ', '4XXD', '5AEF', '5AM8', '5AMB', '5BUO', '5C67', '5CSZ', '5HOW', '5HOX', '5HOY', '5KK3', '5LFY', '5LV0', '5MY4', '5MYO', '5MYX', '5ONP', '5ONQ', '5OQV', '5TXD', '5VOS', '5VZY', '5W3P', '6CO3', '6GFI', '6ITU', '6IYC', '6NB9', '6O4J', '6OC9', '6OIZ', '6RHY', '6SHS', '6SZF', '6TI5', '6TI6', '6TI7', '6W0O', '6WXM', '6YHF', '6YHI', '6YHO', '6YHP', '6YHX', '7B3J', '7B3K', '7JXN', '7JXO', '7O1Q']",amyloid beta precursor protein
+5,AVP,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
+6,Arginine vasopressin,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
+7,GA,Ga,104054,,,greying with age
+8,IP,Ptgir,19222,ENSMUSG00000043017,4F8K,prostaglandin I receptor (IP)
+9,IP1,ip1,24019685,,,LAGLIDADG type homing endonuclease
+10,Insulin,INS,3630,ENSG00000254647,"['1A7F', '1AI0', '1AIY', '1B9E', '1BEN', '1EFE', '1EV3', '1EV6', '1EVR', '1FU2', '1FUB', '1G7A', '1G7B', '1GUJ', '1HIQ', '1HIS', '1HIT', '1HLS', '1HTV', '1HUI', '1IOG', '1IOH', '1J73', '1JCA', '1JCO', '1JK8', '1K3M', '1KMF', '1LKQ', '1LPH', '1MHI', '1MHJ', '1MSO', '1OS3', '1OS4', '1Q4V', '1QIY', '1QIZ', '1QJ0', '1RWE', '1SF1', '1SJT', '1SJU', '1T0C', '1T1K', '1T1P', '1T1Q', '1TRZ', '1TYL', '1TYM', '1UZ9', '1VKT', '1W8P', '1XDA', '1XGL', '1XW7', '1ZEG', '1ZEH', '1ZNJ', '2AIY', '2C8Q', '2C8R', '2CEU', '2G54', '2G56', '2H67', '2HH4', '2HHO', '2HIU', '2JMN', '2JUM', '2JUU', '2JUV', '2JV1', '2JZQ', '2K91', '2K9R', '2KJJ', '2KJU', '2KQP', '2KQQ', '2KXK', '2L1Y', '2L1Z', '2LGB', '2LWZ', '2M1D', '2M1E', '2M2M', '2M2N', '2M2O', '2M2P', '2MLI', '2MPG', '2MPI', '2MVC', '2MVD', '2N2V', '2N2W', '2N2X', '2OLY', '2OLZ', '2OM0', '2OM1', '2OMG', '2OMH', '2OMI', '2OMQ', '2QIU', '2R34', '2R35', '2R36', '2RN5', '2VJZ', '2VK0', '2W44', '2WBY', '2WC0', '2WRU', '2WRV', '2WRW', '2WRX', '2WS0', '2WS1', '2WS4', '2WS6', '2WS7', '3AIY', '3BXQ', '3E7Y', '3E7Z', '3EXX', '3FQ9', '3HYD', '3I3Z', '3I40', '3ILG', '3INC', '3IR0', '3JSD', '3KQ6', '3P2X', '3P33', '3Q6E', '3ROV', '3TT8', '3U4N', '3UTQ', '3UTS', '3UTT', '3V19', '3V1G', '3W11', '3W12', '3W13', '3W7Y', '3W7Z', '3W80', '3ZI3', '3ZQR', '3ZS2', '3ZU1', '4AIY', '4AJX', '4AJZ', '4AK0', '4AKJ', '4CXL', '4CXN', '4CY7', '4EFX', '4EWW', '4EWX', '4EWZ', '4EX0', '4EX1', '4EXX', '4EY1', '4EY9', '4EYD', '4EYN', '4EYP', '4F0N', '4F0O', '4F1A', '4F1B', '4F1C', '4F1D', '4F1F', '4F1G', '4F4T', '4F4V', '4F51', '4F8F', '4FG3', '4FKA', '4GBC', '4GBI', '4GBK', '4GBL', '4GBN', '4IUZ', '4IYD', '4IYF', '4NIB', '4OGA', '4P65', '4RXW', '4UNE', '4UNG', '4UNH', '4WDI', '4XC4', '4Y19', '4Y1A', '4Z76', '4Z77', '4Z78', '5AIY', '5BOQ', '5BPO', '5BQQ', '5BTS', '5C0D', '5CJO', '5CNY', '5CO2', '5CO6', '5CO9', '5E7W', '5EMS', '5EN9', '5ENA', '5HPR', '5HPU', '5HQI', '5HRQ', '5HYJ', '5MAM', '5MHD', '5MT3', '5MT9', '5MWQ', '5T7R', '5UDP', '5UOZ', '5UQA', '5URT', '5URU', '5USP', '5USS', '5USV', '5UU2', '5UU3', '5UU4', '5VIZ', '5WBT', '5WDM', '5WOB', '6B3Q', '6B70', '6BFC', '6CE7', '6CE9', '6CEB', '6CK2', '6GNQ', '6GV0', '6H3M', '6HN5', '6JK8', '6JR3', '6K59', '6NWV', '6O17', '6P4Z', '6S34', '6S4I', '6S4J', '6SOF', '6TC2', '6TYH', '6U46', '6VEP', '6VER', '6VES', '6VET', '6X4X', '6Z7W', '6Z7Y', '7BW7', '7BW8', '7BWA', '7NHU']",insulin
+11,Leptin,LEP,3952,ENSG00000174697,1AX8,leptin
+12,N1,N1,65099612,,,N1
+13,NPY,NPY,4852,ENSG00000122585,"['1QFA', '1RON']",neuropeptide Y
+14,OT,ot,45342,,,outheld
+15,Oxy,PPA32530,WBGene00205391,WBGene00205391,,Oxy-4
+16,Oxytocin,OXTR,5021,ENSG00000180914,6TPK,oxytocin receptor
+17,PIP2-PLC,PLCD1,5333,ENSG00000187091,,phospholipase C delta 1
+18,PIPLC,PIPLC,7899514,TGME49_248830,,phosphoinositide phospholipase PIPLC
+19,PKC-epsilon,prkce,100135720,ENSXETG00000041283,,protein kinase C epsilon
+20,PKCalpha,prkca.S,108702159,,,"protein kinase C, alpha S homeolog"
+21,PLCgamma,sl,32601,FBgn0003416,,small wing
+22,PrP(c),CTRU02_06775,59360000,,,PRP 4 C domain-containing protein
+23,PrPsc,Prnp,19122,ENSMUSG00000079037,"['1AG2', '1XYX', '1Y15', '1Y16', '2K5O', '2KFM', '2KFO', '2KU5', '2KU6', '2L1D', '2L1E', '2L1H', '2L1K', '2L39', '2L40', '3NVG', '3NVH', '4H88', '4J8R', '4MA7', '4MA8', '6AQ7', '6HER', '6HHD']",prion protein
+24,UCP-1,Ucp1,101835783,,,uncoupling protein 1
+25,UCP-2,LOC109105814,109105814,ENSCCRG00000029489,,mitochondrial uncoupling protein 2-like
+26,UCP-3,LOC107308634,107308634,ENSCJPG00005006418,,mitochondrial uncoupling protein 3
+27,UCP1,UCP1,7350,ENSG00000109424,,uncoupling protein 1
+28,UCP2,UCP2,7351,ENSG00000175567,,uncoupling protein 2
+29,UCP3,UCP3,7352,ENSG00000175564,,uncoupling protein 3
+30,UCPs,SLC25A27,9481,ENSG00000153291,,solute carrier family 25 member 27
+31,Uncoupling protein-3,UCP3,7352,ENSG00000175564,,uncoupling protein 3
+32,Vasopressin,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
+33,alpha-Amy2,AMY2,MDOA003190,,,alpha-amylase A
+34,arginine vasopressin,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
+35,arginine-vasopressin,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
+36,cholesteryl ester,CETP,1071,ENSG00000087237,"['2OBD', '4EWS', '4F2A']",cholesteryl ester transfer protein
+37,flavones,UGT1A8,54576,ENSG00000242366,,UDP glucuronosyltransferase family 1 member A8
+38,flavonoids,flvL,938778,,,transcriptional regulator (FlvL-flavonoids)
+39,"inositol 1, 4, 5-triphosphate",,ADAC007999,ADAC007999,,Inositol 1 4 5-triphosphate kinase 1
+40,inositol phosphates,INPP5B,3633,ENSG00000204084,"['3MTC', '3N9V', '4CML', '5A7I', '5A7J']",inositol polyphosphate-5-phosphatase B
+41,insulin,INS,3630,ENSG00000254647,"['1A7F', '1AI0', '1AIY', '1B9E', '1BEN', '1EFE', '1EV3', '1EV6', '1EVR', '1FU2', '1FUB', '1G7A', '1G7B', '1GUJ', '1HIQ', '1HIS', '1HIT', '1HLS', '1HTV', '1HUI', '1IOG', '1IOH', '1J73', '1JCA', '1JCO', '1JK8', '1K3M', '1KMF', '1LKQ', '1LPH', '1MHI', '1MHJ', '1MSO', '1OS3', '1OS4', '1Q4V', '1QIY', '1QIZ', '1QJ0', '1RWE', '1SF1', '1SJT', '1SJU', '1T0C', '1T1K', '1T1P', '1T1Q', '1TRZ', '1TYL', '1TYM', '1UZ9', '1VKT', '1W8P', '1XDA', '1XGL', '1XW7', '1ZEG', '1ZEH', '1ZNJ', '2AIY', '2C8Q', '2C8R', '2CEU', '2G54', '2G56', '2H67', '2HH4', '2HHO', '2HIU', '2JMN', '2JUM', '2JUU', '2JUV', '2JV1', '2JZQ', '2K91', '2K9R', '2KJJ', '2KJU', '2KQP', '2KQQ', '2KXK', '2L1Y', '2L1Z', '2LGB', '2LWZ', '2M1D', '2M1E', '2M2M', '2M2N', '2M2O', '2M2P', '2MLI', '2MPG', '2MPI', '2MVC', '2MVD', '2N2V', '2N2W', '2N2X', '2OLY', '2OLZ', '2OM0', '2OM1', '2OMG', '2OMH', '2OMI', '2OMQ', '2QIU', '2R34', '2R35', '2R36', '2RN5', '2VJZ', '2VK0', '2W44', '2WBY', '2WC0', '2WRU', '2WRV', '2WRW', '2WRX', '2WS0', '2WS1', '2WS4', '2WS6', '2WS7', '3AIY', '3BXQ', '3E7Y', '3E7Z', '3EXX', '3FQ9', '3HYD', '3I3Z', '3I40', '3ILG', '3INC', '3IR0', '3JSD', '3KQ6', '3P2X', '3P33', '3Q6E', '3ROV', '3TT8', '3U4N', '3UTQ', '3UTS', '3UTT', '3V19', '3V1G', '3W11', '3W12', '3W13', '3W7Y', '3W7Z', '3W80', '3ZI3', '3ZQR', '3ZS2', '3ZU1', '4AIY', '4AJX', '4AJZ', '4AK0', '4AKJ', '4CXL', '4CXN', '4CY7', '4EFX', '4EWW', '4EWX', '4EWZ', '4EX0', '4EX1', '4EXX', '4EY1', '4EY9', '4EYD', '4EYN', '4EYP', '4F0N', '4F0O', '4F1A', '4F1B', '4F1C', '4F1D', '4F1F', '4F1G', '4F4T', '4F4V', '4F51', '4F8F', '4FG3', '4FKA', '4GBC', '4GBI', '4GBK', '4GBL', '4GBN', '4IUZ', '4IYD', '4IYF', '4NIB', '4OGA', '4P65', '4RXW', '4UNE', '4UNG', '4UNH', '4WDI', '4XC4', '4Y19', '4Y1A', '4Z76', '4Z77', '4Z78', '5AIY', '5BOQ', '5BPO', '5BQQ', '5BTS', '5C0D', '5CJO', '5CNY', '5CO2', '5CO6', '5CO9', '5E7W', '5EMS', '5EN9', '5ENA', '5HPR', '5HPU', '5HQI', '5HRQ', '5HYJ', '5MAM', '5MHD', '5MT3', '5MT9', '5MWQ', '5T7R', '5UDP', '5UOZ', '5UQA', '5URT', '5URU', '5USP', '5USS', '5USV', '5UU2', '5UU3', '5UU4', '5VIZ', '5WBT', '5WDM', '5WOB', '6B3Q', '6B70', '6BFC', '6CE7', '6CE9', '6CEB', '6CK2', '6GNQ', '6GV0', '6H3M', '6HN5', '6JK8', '6JR3', '6K59', '6NWV', '6O17', '6P4Z', '6S34', '6S4I', '6S4J', '6SOF', '6TC2', '6TYH', '6U46', '6VEP', '6VER', '6VES', '6VET', '6X4X', '6Z7W', '6Z7Y', '7BW7', '7BW8', '7BWA', '7NHU']",insulin
+42,isoflavones,TAS2R39,259285,ENSG00000236398,2GFZ,taste 2 receptor member 39
+43,leptin,LEP,3952,ENSG00000174697,1AX8,leptin
+44,neuropeptide-Y,NPY,4852,ENSG00000122585,"['1QFA', '1RON']",neuropeptide Y
+45,oxytocin,OXTR,5021,ENSG00000180914,6TPK,oxytocin receptor
+46,phospholipase Cgamma,sl,32601,FBgn0003416,,small wing
+47,prion,PRNP,5621,ENSG00000171867,"['1E1G', '1E1J', '1E1P', '1E1S', '1E1U', '1E1W', '1FKC', '1FO7', '1H0L', '1HJM', '1HJN', '1I4M', '1OEH', '1OEI', '1QLX', '1QLZ', '1QM0', '1QM1', '1QM2', '1QM3', '2IV4', '2IV5', '2IV6', '2K1D', '2KUN', '2LBG', '2LEJ', '2LFT', '2LSB', '2LV1', '2M8T', '2OL9', '2W9E', '3HAF', '3HAK', '3HEQ', '3HER', '3HES', '3HJ5', '3HJX', '3MD4', '3MD5', '3NHC', '3NHD', '3NVF', '4DGI', '4E1H', '4E1I', '4KML', '4N9O', '5L6R', '5YJ4', '5YJ5', '6DU9', '6LNI', '6PQ5', '6PQA', '6SUZ', '6SV2', '6UUR']",prion protein
+48,prion protein,PRNP,5621,ENSG00000171867,"['1E1G', '1E1J', '1E1P', '1E1S', '1E1U', '1E1W', '1FKC', '1FO7', '1H0L', '1HJM', '1HJN', '1I4M', '1OEH', '1OEI', '1QLX', '1QLZ', '1QM0', '1QM1', '1QM2', '1QM3', '2IV4', '2IV5', '2IV6', '2K1D', '2KUN', '2LBG', '2LEJ', '2LFT', '2LSB', '2LV1', '2M8T', '2OL9', '2W9E', '3HAF', '3HAK', '3HEQ', '3HER', '3HES', '3HJ5', '3HJX', '3MD4', '3MD5', '3NHC', '3NHD', '3NVF', '4DGI', '4E1H', '4E1I', '4KML', '4N9O', '5L6R', '5YJ4', '5YJ5', '6DU9', '6LNI', '6PQ5', '6PQA', '6SUZ', '6SV2', '6UUR']",prion protein
+49,protein kinase A,a,50518,ENSMUSG00000027596,,nonagouti
+50,protein kinase Calpha,PRKACA,443094,,,protein kinase cAMP-activated catalytic subunit alpha
+51,protein kinases,EMB1290,AT4G23250,,,kinases;protein kinases
+52,tyrosine kinase Fyn,FYN,2534,ENSG00000010810,"['1A0N', '1AOT', '1AOU', '1AVZ', '1AZG', '1EFN', '1FYN', '1G83', '1M27', '1NYF', '1NYG', '1SHF', '1ZBJ', '2DQ7', '2MQI', '2MRJ', '2MRK', '3H0F', '3H0H', '3H0I', '3UA6', '3UA7', '4D8D', '4EIK', '4U17', '4U1P', '4ZNX', '5ZAU', '6EDF', '6IPY', '6IPZ']","FYN proto-oncogene, Src family tyrosine kinase"
+53,uncoupling protein (UCP)-2,Ucp1,101835783,,,uncoupling protein 1
+54,uncoupling protein-1,UCP1,7350,ENSG00000109424,,uncoupling protein 1
+55,uncoupling protein-2,UCP2,7351,ENSG00000175567,,uncoupling protein 2
+56,uncoupling protein-3,UCP3,7352,ENSG00000175564,,uncoupling protein 3
+57,uncoupling proteins,ucp1,100135179,ENSXETG00000014927,,uncoupling protein 1
+58,vasopressin,AVP,551,ENSG00000101200,7KH0,arginine vasopressin
