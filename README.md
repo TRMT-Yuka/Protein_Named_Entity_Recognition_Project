@@ -52,7 +52,6 @@ summary.txt
 
 ![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
 
-momomomomo
 
 ### Generative_Model
 https://github.com/duttaprat/PPI_Generative
