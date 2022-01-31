@@ -50,7 +50,7 @@ summary.txt
 | iepa     | 59       | 54       | 14       | 3          | 130  | 
 | lll      | 28       | 71       | 19       | 3          | 121  | 
 
-	![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
+![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
 
 momomomomo
 
