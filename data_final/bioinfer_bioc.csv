@@ -1,0 +1,1808 @@
+surface,symbol,_id,entrezgene,ensembl_id,pdb_id,name
+4a,4A,1262388,1262388,,,toprim domain-containing protein
+4a,4A,2658894,2658894,,,toprim domain-containing protein
+4a,4a,1258859,1258859,,,gp4a
+4a,4a,10322958,10322958,,,toprim domain-containing protein
+4a,4A,10324328,10324328,,,predicted DNA primase-helicase
+4a,4A,10228800,10228800,,,DNA primase/helicase
+4a,4A,54967436,54967436,,,toprim domain-containing protein
+4a,4A,6449693,6449693,,,toprim domain-containing protein
+4a,4A,6370157,6370157,,,toprim domain-containing protein
+4a,4A,6449779,6449779,,,toprim domain-containing protein
+4A6,LOC112642531,112642531,112642531,ENSCAFG00020014560,,cytochrome P450 4A6
+4A6,LOC100064020,100064020,100064020,ENSECAG00000027949,,cytochrome P450 4A6
+4A6,LOC100564663,100564663,100564663,ENSACAG00000005985,,cytochrome P450 4A6
+4A6,LOC103670742,103670742,103670742,ENSUMAG00000023368,,cytochrome P450 4A6
+4A6,LOC107514040,107514040,107514040,,,cytochrome P450 4A6
+4A6,LOC112314476,112314476,112314476,,,cytochrome P450 4A6
+4A6,LOC101674954,101674954,101674954,,,cytochrome P450 4A6
+4A6,LOC119005426,119005426,119005426,,,cytochrome P450 4A6
+4A6,CYP4A6,100328946,100328946,,,cytochrome P450 4A6
+4A6,LOC105092933,105092933,105092933,,,cytochrome P450 4A6
+4b,4B,1262421,1262421,,,helicase
+4b,4B,10324332,10324332,,,predicted DNA helicase
+4b,4B,54967441,54967441,,,toprim domain-containing protein
+4b,4B,6449857,6449857,,,toprim domain-containing protein
+4b,4B,6449894,6449894,,,4B
+4b,4B,6370128,6370128,,,gp4B
+4b,4B,6449778,6449778,,,gp4B
+4b,4b,3844360,3844360,,,4b protein
+4b,4b,918760,918760,,,4b protein
+4b,4B,18500415,18500415,,,toprim domain-containing protein
+5S,5S,58912514,58912514,,,5S ribosomal RNA
+5S,5S,40873334,40873334,,,5S ribosomal RNA
+5S,5S,40874126,40874126,,,5S ribosomal RNA
+5S,5S,56139581,56139581,,,5S ribosomal RNA
+5S,5S,59443122,59443122,,,5S ribosomal RNA
+5S,5S,56139600,56139600,,,5S ribosomal RNA
+5S,5S,33900594,33900594,,,5S ribosomal RNA
+5S,5S,55289887,55289887,,,5S ribosomal RNA
+5S,5S,56139469,56139469,,,5S ribosomal RNA
+5S,5S,56139450,56139450,,,5S ribosomal RNA
+A23R,A23R,928984,928984,,,A23R
+A23R,A23R,3707673,3707673,,,temporal expression: early
+A23R,A23R,1486499,1486499,,,hypothetical protein
+A23R,A23R,18158461,18158461,,,transcription subunit (intermediate) large subunit
+A8R,A8R,3707525,3707525,,,temporal expression: early
+A8R,A8R,1486538,1486538,,,hypothetical protein
+A8R,A8R,18158345,18158345,,,intermediate transcription factor
+ABP1,Abp1,39520,39520,FBgn0036372,,Actin binding protein 1
+acetylase,DCS_05472,63718115,63718115,,,acetylase
+acetylase,PAAG_01680,9099973,9099973,,,acetylase
+acetylase,HCBG_09041,69042057,69042057,,,acetylase
+acetylase,CIMG_01435,4567829,4567829,,,acetylase
+acid SMase,ACID,100326236,100326236,,,Acid flavor
+acid SMase,ACID,100326244,100326244,,,Acid flavor
+acid sphingomyelinase,ACID,100326236,100326236,,,Acid flavor
+acid sphingomyelinase,ACID,100326244,100326244,,,Acid flavor
+actin-binding protein,DMTN,2039,2039,ENSG00000158856,1QZP,dematin actin binding protein
+actin-binding protein,ANLN,54443,54443,ENSG00000011426,2Y7B,anillin actin binding protein
+actin-binding protein,KPTN,11133,11133,ENSG00000118162,,"kaptin, actin binding protein"
+actin-binding protein,POF1B,79983,79983,ENSG00000124429,3,POF1B actin binding protein
+actobindin,abnC,31362457,31362457,,,actobindin
+actobindin,abnA,31366621,31366621,,,actobindin
+actobindin,abnA,14876612,14876612,,,actobindin
+actomyosin,FMAN_02484,65081755,65081755,,,EF-hand component of the actomyosin contractile ring
+actomyosin,FPRO_02595,42047480,42047480,,,EF-hand component of the actomyosin contractile ring
+AH,AH,100884355,100884355,,,Albumen height
+AH,AH,101410258,101410258,,,Albumen height
+AH,AH,101410262,101410262,,,Albumen height
+AH,AH,101410266,101410266,,,Albumen height
+AH,AH,101410464,101410464,,,Albumen height
+AH,AH,100884371,100884371,,,Albumen height
+AH,AH,100884378,100884378,,,Albumen height
+AH,AH,101410378,101410378,,,Albumen height
+AH,AH,100884548,100884548,,,Albumen height
+AH,AH,100884563,100884563,,,Albumen height
+Aip1p,KABA2_02S15928,64856442,64856442,,,Aip1p
+Aip1p,AIP1,30036988,30036988,,,Aip1p
+Aip1p,AIP1,855117,855117,YMR092C,1PGU,Aip1p
+alpha-,GAA,2548,2548,ENSG00000171298,5KZW,alpha glucosidase
+alpha-,DTNA,1837,1837,ENSG00000134769,2,dystrobrevin alpha
+alpha-,SGCA,6442,6442,ENSG00000108823,,sarcoglycan alpha
+alpha-,ENSA,2029,2029,ENSG00000143420,,endosulfine alpha
+alpha-,PTMA,5757,5757,ENSG00000187514,2L9I,prothymosin alpha
+alpha-,LALBA,3906,3906,ENSG00000167531,1A4V,lactalbumin alpha
+alpha-,AFP,174,174,ENSG00000081051,3,alpha fetoprotein
+alpha-,TXLNA,200081,200081,ENSG00000084652,,taxilin alpha
+alpha-,PARVA,55742,55742,ENSG00000197702,2K2R,parvin alpha
+alpha-,GLA,2717,2717,ENSG00000102393,1R46,galactosidase alpha
+alpha 1-syntrophin,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha 1-syntrophin,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha 1-syntrophin,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha 1-syntrophin,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha 1-syntrophin,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha 1-syntrophin,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha 1-syntrophin,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha 1-syntrophin,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha 5,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha 5,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha 5,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha 5,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha 5,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha 5,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha 5,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha 5,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha actinin,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha actinin,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha actinin,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha actinin,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha actinin,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha actinin,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha actinin,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha actinin,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha catenin,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha catenin,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha catenin,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha catenin,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha catenin,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha catenin,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha catenin,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha catenin,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha Myosin,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha Myosin,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha Myosin,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha Myosin,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha Myosin,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha Myosin,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha Myosin,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha Myosin,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha myosin,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha myosin,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha myosin,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha myosin,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha myosin,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha myosin,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha myosin,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha myosin,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha v beta 3,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha v beta 3,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha v beta 3,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha v beta 3,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha v beta 3,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha v beta 3,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha v beta 3,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha v beta 3,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha v beta 5,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+alpha v beta 5,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+alpha v beta 5,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+alpha v beta 5,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+alpha v beta 5,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+alpha v beta 5,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+alpha v beta 5,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+alpha v beta 5,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+alpha-Catenin,alpha-Cat,40517,40517,FBgn0010215,,alpha Catenin
+alpha-catenin,alpha-Cat,40517,40517,FBgn0010215,,alpha Catenin
+alpha-smooth muscle,ACTA2,102476173,102476173,,,"actin alpha 2, smooth muscle"
+alpha-smooth muscle,Acta2,104848831,104848831,,,"actin alpha 2, smooth muscle"
+alpha-smooth muscle,ACTA2,110475302,110475302,,,"actin alpha 2, smooth muscle"
+alpha-smooth muscle,ACTA2,102259532,102259532,,,"actin alpha 2, smooth muscle"
+alpha-SNAP,GL50803_0010856,5702090,5702090,,,Alpha-snap
+alpha-SNAP,GL50803_0016521,5698100,5698100,,,Alpha-snap
+alpha-SNAP,SJAG_04909,7050341,7050341,SJAG_04909,,alpha SNAP
+alpha-SNAP,SPOG_00494,25034826,25034826,SPOG_00494,,alpha SNAP
+alpha-SNAP,SOCG_04817,25033777,25033777,SOCG_04817,,alpha SNAP
+alpha-SNAP,FPV033,1486752,1486752,,,alpha-SNAP
+alpha-SNAP,FPV011,1486730,1486730,,,alpha-SNAP
+alpha-SNAP,C1178_gp004,35381329,35381329,,,alpha-SNAP
+alpha-SNAP,C1178_gp032,35381357,35381357,,,alpha-SNAP
+ANP,anp,100135815,100135815,ENSOMYG00000020185,,atrial natriuretic peptide
+AP-1,FOSB,2354,2354,ENSG00000125740,5VPA,"FosB proto-oncogene, AP-1 transcription factor subunit"
+AP-1,JUND,3727,3727,ENSG00000130522,3U86,"JunD proto-oncogene, AP-1 transcription factor subunit"
+AP-1,FOSL2,2355,2355,ENSG00000075426,,"FOS like 2, AP-1 transcription factor subunit"
+AP-1,FOSL1,8061,8061,ENSG00000175592,,"FOS like 1, AP-1 transcription factor subunit"
+AP-1,JUN,3725,3725,ENSG00000177606,1A02,"Jun proto-oncogene, AP-1 transcription factor subunit"
+AP-1,JUNB,3726,3726,ENSG00000171223,,"JunB proto-oncogene, AP-1 transcription factor subunit"
+AP-1,FOS,2353,2353,ENSG00000170345,1A02,"Fos proto-oncogene, AP-1 transcription factor subunit"
+Arp2,Arp2,32623,32623,FBgn0011742,,Actin-related protein 2
+Arp3,Arp3,38898,38898,FBgn0262716,,Actin-related protein 3
+avidin,avd,108437821,108437821,ENSPNAG00000020901,,avidin
+avidin,avd,567678,567678,,,avidin
+avidin,avd,108277130,108277130,ENSIPUG00000020267,,avidin
+avidin,LOC115491036,115491036,115491036,ENSTGUG00000026723,,avidin
+avidin,LOC100220412,100220412,100220412,ENSTGUG00000001849,,avidin
+avidin,avd,100127566,100127566,ENSXETG00000033506,2UYW,avidin
+avidin,avd,107552052,107552052,ENSSGRG00000055393,,avidin
+Bet v 1,v,32026,32026,FBgn0003965,4,vermilion
+Bet v 1,V,654844,654844,,,tryptophan oxygenase
+Bet v 1,V,1260612,1260612,,,baseplate assembly protein V
+Bet v 1,V,1460940,1460940,,,minor core protein
+Bet v 1,V,7047321,7047321,,,virion protein
+Bet v 1,V,5648824,5648824,,,structural protein
+Bet v 1,V,4643065,4643065,,,structural protein
+Bet v 1,V,7056560,7056560,,,virion protein
+Bet v 1,V,40093766,40093766,,,tail protein
+Bet v 1,V,18504821,18504821,,,baseplate assembly protein
+beta 1 integrin subunit,betA,60681909,60681909,,,choline dehydrogenase
+beta 1 integrin subunit,betA,61051597,61051597,,,choline dehydrogenase
+beta 1 integrin subunit,betA,60253976,60253976,,,choline dehydrogenase
+beta 1 integrin subunit,betA,45956561,45956561,,,choline dehydrogenase
+beta 1 integrin subunit,betA,58138987,58138987,,,choline dehydrogenase
+beta 1 integrin subunit,betA,66383652,66383652,,,choline dehydrogenase
+beta 1 integrin subunit,betA,58391691,58391691,,,choline dehydrogenase
+beta 1 integrin subunit,betA,61316828,61316828,,,choline dehydrogenase
+beta 1 integrin subunit,betA,61635557,61635557,,,choline dehydrogenase
+beta 1 integrin subunit,betA,60851331,60851331,,,choline dehydrogenase
+beta 1 integrins,betA,60681909,60681909,,,choline dehydrogenase
+beta 1 integrins,betA,61051597,61051597,,,choline dehydrogenase
+beta 1 integrins,betA,60253976,60253976,,,choline dehydrogenase
+beta 1 integrins,betA,45956561,45956561,,,choline dehydrogenase
+beta 1 integrins,betA,58138987,58138987,,,choline dehydrogenase
+beta 1 integrins,betA,66383652,66383652,,,choline dehydrogenase
+beta 1 integrins,betA,58391691,58391691,,,choline dehydrogenase
+beta 1 integrins,betA,61316828,61316828,,,choline dehydrogenase
+beta 1 integrins,betA,61635557,61635557,,,choline dehydrogenase
+beta 1 integrins,betA,60851331,60851331,,,choline dehydrogenase
+beta 1-integrin,betA,60681909,60681909,,,choline dehydrogenase
+beta 1-integrin,betA,61051597,61051597,,,choline dehydrogenase
+beta 1-integrin,betA,60253976,60253976,,,choline dehydrogenase
+beta 1-integrin,betA,45956561,45956561,,,choline dehydrogenase
+beta 1-integrin,betA,58138987,58138987,,,choline dehydrogenase
+beta 1-integrin,betA,66383652,66383652,,,choline dehydrogenase
+beta 1-integrin,betA,58391691,58391691,,,choline dehydrogenase
+beta 1-integrin,betA,61316828,61316828,,,choline dehydrogenase
+beta 1-integrin,betA,61635557,61635557,,,choline dehydrogenase
+beta 1-integrin,betA,60851331,60851331,,,choline dehydrogenase
+beta 1-syntrophin,betA,60681909,60681909,,,choline dehydrogenase
+beta 1-syntrophin,betA,61051597,61051597,,,choline dehydrogenase
+beta 1-syntrophin,betA,60253976,60253976,,,choline dehydrogenase
+beta 1-syntrophin,betA,45956561,45956561,,,choline dehydrogenase
+beta 1-syntrophin,betA,58138987,58138987,,,choline dehydrogenase
+beta 1-syntrophin,betA,66383652,66383652,,,choline dehydrogenase
+beta 1-syntrophin,betA,58391691,58391691,,,choline dehydrogenase
+beta 1-syntrophin,betA,61316828,61316828,,,choline dehydrogenase
+beta 1-syntrophin,betA,61635557,61635557,,,choline dehydrogenase
+beta 1-syntrophin,betA,60851331,60851331,,,choline dehydrogenase
+beta 2-,betA,60681909,60681909,,,choline dehydrogenase
+beta 2-,betA,61051597,61051597,,,choline dehydrogenase
+beta 2-,betA,60253976,60253976,,,choline dehydrogenase
+beta 2-,betA,45956561,45956561,,,choline dehydrogenase
+beta 2-,betA,58138987,58138987,,,choline dehydrogenase
+beta 2-,betA,66383652,66383652,,,choline dehydrogenase
+beta 2-,betA,58391691,58391691,,,choline dehydrogenase
+beta 2-,betA,61316828,61316828,,,choline dehydrogenase
+beta 2-,betA,61635557,61635557,,,choline dehydrogenase
+beta 2-,betA,60851331,60851331,,,choline dehydrogenase
+beta catenin,betA,60681909,60681909,,,choline dehydrogenase
+beta catenin,betA,61051597,61051597,,,choline dehydrogenase
+beta catenin,betA,60253976,60253976,,,choline dehydrogenase
+beta catenin,betA,45956561,45956561,,,choline dehydrogenase
+beta catenin,betA,58138987,58138987,,,choline dehydrogenase
+beta catenin,betA,66383652,66383652,,,choline dehydrogenase
+beta catenin,betA,58391691,58391691,,,choline dehydrogenase
+beta catenin,betA,61316828,61316828,,,choline dehydrogenase
+beta catenin,betA,61635557,61635557,,,choline dehydrogenase
+beta catenin,betA,60851331,60851331,,,choline dehydrogenase
+beta myosin,betA,60681909,60681909,,,choline dehydrogenase
+beta myosin,betA,61051597,61051597,,,choline dehydrogenase
+beta myosin,betA,60253976,60253976,,,choline dehydrogenase
+beta myosin,betA,45956561,45956561,,,choline dehydrogenase
+beta myosin,betA,58138987,58138987,,,choline dehydrogenase
+beta myosin,betA,66383652,66383652,,,choline dehydrogenase
+beta myosin,betA,58391691,58391691,,,choline dehydrogenase
+beta myosin,betA,61316828,61316828,,,choline dehydrogenase
+beta myosin,betA,61635557,61635557,,,choline dehydrogenase
+beta myosin,betA,60851331,60851331,,,choline dehydrogenase
+beta myosin heavy chain,betA,60681909,60681909,,,choline dehydrogenase
+beta myosin heavy chain,betA,61051597,61051597,,,choline dehydrogenase
+beta myosin heavy chain,betA,60253976,60253976,,,choline dehydrogenase
+beta myosin heavy chain,betA,45956561,45956561,,,choline dehydrogenase
+beta myosin heavy chain,betA,58138987,58138987,,,choline dehydrogenase
+beta myosin heavy chain,betA,66383652,66383652,,,choline dehydrogenase
+beta myosin heavy chain,betA,58391691,58391691,,,choline dehydrogenase
+beta myosin heavy chain,betA,61316828,61316828,,,choline dehydrogenase
+beta myosin heavy chain,betA,61635557,61635557,,,choline dehydrogenase
+beta myosin heavy chain,betA,60851331,60851331,,,choline dehydrogenase
+beta1-integrin,BBUBOL26_RS05750,56568500,56568500,,,alpha3-beta1 integrin-binding protein
+beta1-integrin,DB281_RS05355,39513289,39513289,,,alpha3-beta1 integrin-binding protein
+cadherin,CDH20,28316,28316,ENSG00000101542,,cadherin 20
+cadherin,CDH5,1003,1003,ENSG00000179776,,cadherin 5
+cadherin,CDH16,1014,1014,ENSG00000166589,,cadherin 16
+cadherin,CDH18,1016,1016,ENSG00000145526,,cadherin 18
+cadherin,CDH22,64405,64405,ENSG00000149654,,cadherin 22
+cadherin,CDH3,1001,1001,ENSG00000062038,4OY9,cadherin 3
+cadherin,CDH10,1008,1008,ENSG00000040731,,cadherin 10
+cadherin,CDH7,1005,1005,ENSG00000081138,,cadherin 7
+cadherin,CDH4,1002,1002,,,cadherin 4
+cadherin,CDH15,1013,1013,ENSG00000129910,,cadherin 15
+Cadherins,TMTC2,160335,160335,ENSG00000179104,,transmembrane O-mannosyltransferase targeting cadherins 2
+Cadherins,TMTC3,160418,160418,ENSG00000139324,,transmembrane O-mannosyltransferase targeting cadherins 3
+Cadherins,TMTC4,84899,84899,ENSG00000125247,,transmembrane O-mannosyltransferase targeting cadherins 4
+Cadherins,TMTC1,83857,83857,ENSG00000133687,,transmembrane O-mannosyltransferase targeting cadherins 1
+cadherins,TMTC4,84899,84899,ENSG00000125247,,transmembrane O-mannosyltransferase targeting cadherins 4
+cadherins,TMTC1,83857,83857,ENSG00000133687,,transmembrane O-mannosyltransferase targeting cadherins 1
+cadherins,TMTC2,160335,160335,ENSG00000179104,,transmembrane O-mannosyltransferase targeting cadherins 2
+cadherins,TMTC3,160418,160418,ENSG00000139324,,transmembrane O-mannosyltransferase targeting cadherins 3
+calbindin,CALB2,794,794,,,calbindin 2
+calbindin,CALB1,793,793,ENSG00000104327,6,calbindin 1
+calcium vector protein,LOC118405387,118405387,118405387,,,calcium vector protein
+calcium vector protein,LOC109478993,109478993,109478993,,,calcium vector protein
+Calpain,CAPN7,23473,23473,ENSG00000131375,2,calpain 7
+Calpain,CAPN3,825,825,ENSG00000092529,1Y9V,calpain 3
+Calpain,CAPN9,10753,10753,ENSG00000135773,1ZIV,calpain 9
+Calpain,CAPN6,827,827,ENSG00000077274,,calpain 6
+Calpain,CAPN14,440854,440854,ENSG00000214711,,calpain 14
+Calpain,CAPN5,726,726,ENSG00000149260,6,calpain 5
+Calpain,CAPN8,388743,388743,ENSG00000203697,2,calpain 8
+Calpain,CAPN11,11131,11131,ENSG00000137225,,calpain 11
+Calpain,CAPN10,11132,11132,ENSG00000142330,,calpain 10
+Calpain,CAPN12,147968,147968,ENSG00000182472,,calpain 12
+calpain,CAPN7,23473,23473,ENSG00000131375,2,calpain 7
+calpain,CAPN3,825,825,ENSG00000092529,1Y9V,calpain 3
+calpain,CAPN9,10753,10753,ENSG00000135773,1ZIV,calpain 9
+calpain,CAPN6,827,827,ENSG00000077274,,calpain 6
+calpain,CAPN14,440854,440854,ENSG00000214711,,calpain 14
+calpain,CAPN5,726,726,ENSG00000149260,6,calpain 5
+calpain,CAPN8,388743,388743,ENSG00000203697,2,calpain 8
+calpain,CAPN11,11131,11131,ENSG00000137225,,calpain 11
+calpain,CAPN10,11132,11132,ENSG00000142330,,calpain 10
+calpain,CAPN12,147968,147968,ENSG00000182472,,calpain 12
+calponin,CNN1,1264,1264,ENSG00000130176,1,calponin 1
+calponin,CNN3,1266,1266,ENSG00000117519,,calponin 3
+calponin,CNN2,1265,1265,ENSG00000064666,1,calponin 2
+Cas,cas,44018,44018,FBgn0004878,,castor
+cas,cas,44018,44018,FBgn0004878,,castor
+casein,CSN2,1447,1447,,,casein beta
+casein,CSN3,1448,1448,ENSG00000171209,,casein kappa
+caspase,CASP4,837,837,ENSG00000196954,6KMZ,caspase 4
+caspase,CASP6,839,839,ENSG00000138794,1MI9,caspase 6
+caspase,CASP14,23581,23581,ENSG00000105141,,caspase 14
+caspase,CASP5,838,838,ENSG00000137757,,caspase 5
+caspase,CASP7,840,840,ENSG00000165806,1F1J,caspase 7
+caspase,CASP2,835,835,ENSG00000106144,1PYO,caspase 2
+caspase,CASP8,841,841,ENSG00000064012,1F9E,caspase 8
+caspase,CASP3,836,836,ENSG00000164305,1CP3,caspase 3
+caspase,CASP1,834,834,ENSG00000137752,1BMQ,caspase 1
+caspase,CASP9,842,842,ENSG00000132906,1JXQ,caspase 9
+catenin,CTNNA3,29119,29119,ENSG00000183230,,catenin alpha 3
+catenin,CTNND2,1501,1501,ENSG00000169862,,catenin delta 2
+catenin,CTNND1,1500,1500,ENSG00000198561,3L6X,catenin delta 1
+catenin,CTNNA1,1495,1495,ENSG00000044115,1H6G,catenin alpha 1
+catenin,CTNNB1,1499,1499,ENSG00000168036,1G3J,catenin beta 1
+catenin,CTNNA2,1496,1496,ENSG00000066032,6,catenin alpha 2
+CD26,MCTC,100531238,100531238,,,CD8+CD26+CD45+ cell number
+CD26,MTHC,100531796,100531796,,,CD4+CD26+CD45+ cell number
+cdc12p,PAS_chr3_0977,8199724,8199724,PAS_chr3_0977,,"One of five related septins (Cdc3p, Cdc10p, Cdc11p, Cdc12p, Shs1p)"
+cdc12p,HPODL_02858,25772307,25772307,,,"One of five related septins (Cdc3p, Cdc10p, Cdc11p, Cdc12p, Shs1p)"
+Cdc42p,PTRG_11429,6349744,6349744,PTRG_11429,,negative regulator of cdc42p
+Cdc42p,SPBR_08738,63681897,63681897,,,negative regulator of cdc42p
+Cdc42p,MBM_07950,18763885,18763885,,,negative regulator of cdc42p
+cdc8,cdc8,2541940,2541940,SPAC27F1.02c,,tropomyosin
+cdc8,CDC8,59376188,59376188,,,Thymidylate kinase
+CIN,cin,100301751,100301751,ENSOMYG00000045303,,Molybdenum cofactor synthesis protein cinnamon
+CIN1,CIN1,34717443,34717443,,,chromosome instability protein 1
+CIN1,CIN1,4838361,4838361,,,3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes
+CIN1,CIN1,854531,854531,YOR349W,,Cin1p
+CKs,CKS,841733,841733,AT1G53000,,Nucleotide-diphospho-sugar transferases superfamily protein
+CKs,CKS,8240776,8240776,,,predicted protein
+class I profilins,I,1260615,1260615,,,tail protein I
+class I profilins,I,6775101,6775101,,,PI
+class I profilins,I,1260934,1260934,,,DNA polymerase
+class I profilins,I,8658843,8658843,,,protease
+class I profilins,I,7020955,7020955,,,hypothetical protein I
+class I profilins,I,3707888,3707888,,,DNA polymerase
+class I profilins,I,40093773,40093773,,,tail assembly protein
+class I profilins,I,18504818,18504818,,,baseplate assembly protein
+class I profilins,I,1261864,1261864,,,assembly protein
+class I profilins,I,2703515,2703515,,,tail assembly protein
+class II myosins,II,1260890,1260890,,,replication initiation protein
+class II myosins,II,3707873,3707873,,,receptor binding
+class II myosins,II,1260937,1260937,,,receptor binding
+class II myosins,II,912256,912256,,,hypothetical protein
+class II myosins,II,43131477,43131477,,,replication endonuclease
+class II myosins,II,927328,927328,,,replication initiation protein
+Class II profilins,II,1260890,1260890,,,replication initiation protein
+Class II profilins,II,3707873,3707873,,,receptor binding
+Class II profilins,II,1260937,1260937,,,receptor binding
+Class II profilins,II,912256,912256,,,hypothetical protein
+Class II profilins,II,43131477,43131477,,,replication endonuclease
+Class II profilins,II,927328,927328,,,replication initiation protein
+clathrin,CLINT1,9685,9685,ENSG00000113282,1XGW,clathrin interactor 1
+clathrin,CLTC,1213,1213,ENSG00000141367,2XZG,clathrin heavy chain
+coagulation factor,F12,2161,2161,ENSG00000131187,4BDW,coagulation factor XII
+coagulation factor,F5,2153,2153,ENSG00000198734,1CZS,coagulation factor V
+coagulation factor,F8,2157,2157,ENSG00000185010,1CFG,coagulation factor VIII
+coagulation factor,F10,2159,2159,ENSG00000126218,1C5M,coagulation factor X
+coagulation factor,F7,2155,2155,ENSG00000057593,1BF9,coagulation factor VII
+coagulation factor,F9,2158,2158,ENSG00000101981,1CFH,coagulation factor IX
+coagulation factor,F11,2160,2160,ENSG00000088926,1XX9,coagulation factor XI
+Cof,cof,58046304,58046304,,,HMP-PP phosphatase
+Cof,cof,58390788,58390788,,,HMP-PP phosphatase
+Cof,cof,60898778,60898778,,,HMP-PP phosphatase
+Cof,cof,57506365,57506365,,,HMP-PP phosphatase
+Cof,cof,66826841,66826841,,,HMP-PP phosphatase
+Cof,cof,66024091,66024091,,,HMP-PP phosphatase
+Cof,cof,66605147,66605147,,,HMP-PP phosphatase
+Cof,cof,58463329,58463329,,,HMP-PP phosphatase
+Cof,cof,60901359,60901359,,,HMP-PP phosphatase
+Cof,cof,66715981,66715981,,,HMP-PP phosphatase
+Cofilin,CFL2,1073,1073,ENSG00000165410,,cofilin 2
+Cofilin,CFL1,1072,1072,ENSG00000172757,1Q8G,cofilin 1
+cofilin,CFL2,1073,1073,ENSG00000165410,,cofilin 2
+cofilin,CFL1,1072,1072,ENSG00000172757,1Q8G,cofilin 1
+collagenase,coll,100049293,100049293,ENSORLG00000020553,,collagenase
+collagenase,colA,67508180,67508180,,,collagenase
+collagenase,FOB40_RS12120,60845465,60845465,,,collagenase
+collagenase,HED66_RS18375,60850925,60850925,,,collagenase
+collagenase,AL553_RS09630,61532120,61532120,,,collagenase
+collagenase,LOC100141563,100141563,100141563,TC006246,,collagenase
+collagenase,LOC101737899,101737899,101737899,,,collagenase
+collagenase,LOC101738401,101738401,101738401,,,collagenase
+collagenase,LOC103313880,103313880,103313880,TC006247,,collagenase
+collagenase,LOC101738031,101738031,101738031,,,collagenase
+collagens,PHALS_03947,36399002,36399002,,,"Collagens (type IV and type XIII), and related proteins"
+collagens,PHALS_12437,36407492,36407492,,,"Collagens (type IV and type XIII), and related proteins"
+collagens,PHALS_09899,36404954,36404954,,,"Collagens (type IV and type XIII), and related proteins"
+color vision red pigment,red,41738,41738,FBgn0285913,,red Malpighian tubules
+color vision red pigment,red,2658890,2658890,,,hypothetical protein
+connexin 43,43,18990041,18990041,,,hypothetical protein
+connexin 43,43,1732933,1732933,,,bacterioantitermination protein Q
+connexin 43,43,2700894,2700894,,,hypothetical protein
+connexin 43,43,1259256,1259256,,,hypothetical protein
+connexin 43,43,2657164,2657164,,,hypothetical protein
+connexin 43,43,3416336,3416336,,,DNA polymerase
+connexin 43,43,1258905,1258905,,,gp43
+connexin 43,43,3342497,3342497,,,gp43
+connexin 43,43,1258685,1258685,,1NOY,DNA polymerase
+connexin 43,43,7967150,7967150,,,RecT
+coronin,CORO7,79585,79585,,,coronin 7
+coronin,CORO1B,57175,57175,ENSG00000172725,,coronin 1B
+coronin,CORO6,84940,84940,ENSG00000167549,7,coronin 6
+coronin,CORO2B,10391,10391,ENSG00000103647,,coronin 2B
+coronin,CORO1A,11151,11151,ENSG00000102879,,coronin 1A
+coronin,CORO2A,7464,7464,ENSG00000106789,,coronin 2A
+coronin,CORO1C,23603,23603,ENSG00000110880,,coronin 1C
+cortexillin,DICPUDRAFT_80288,10502655,10502655,,,cortexillin I
+cortexillin,ctxB,31366800,31366800,,,cortexillin II
+cortexillin,ctxB,8620736,8620736,,,cortexillin II
+cortexillin,ENU1_109500,20073909,20073909,,,"cortexillin, putative"
+cortexillin,AMSG_04597,25564134,25564134,,,cortexillin-2
+cortexillin,AMSG_04531,25564069,25564069,,,cortexillin-1
+cortexillin,AMSG_09794,25568180,25568180,,,cortexillin-1
+cortexillin,AMSG_05601,25564975,25564975,,,cortexillin-1
+cortexillin,ctxB,14866601,14866601,,,cortexillin II
+cortexillin,EHI_104560,6219566,6219566,EHI_104560,,"cortexillin, putative"
+cortexillin I,I,1260615,1260615,,,tail protein I
+cortexillin I,I,6775101,6775101,,,PI
+cortexillin I,I,1260934,1260934,,,DNA polymerase
+cortexillin I,I,8658843,8658843,,,protease
+cortexillin I,I,7020955,7020955,,,hypothetical protein I
+cortexillin I,I,3707888,3707888,,,DNA polymerase
+cortexillin I,I,40093773,40093773,,,tail assembly protein
+cortexillin I,I,18504818,18504818,,,baseplate assembly protein
+cortexillin I,I,1261864,1261864,,,assembly protein
+cortexillin I,I,2703515,2703515,,,tail assembly protein
+CUS1,CUS1,30036254,30036254,,,Cus1p
+CUS1,CUS1,34714802,34714802,,,protein CUS1
+CUS1,CUS1,855281,855281,YMR240C,5GM6,U2 snRNP complex subunit CUS1
+cyclin,CCNL2,81669,81669,ENSG00000221978,,cyclin L2
+cyclin,CCNT2,905,905,ENSG00000082258,2,cyclin T2
+cyclin,CCNK,8812,8812,ENSG00000090061,2I53,cyclin K
+cyclin,CCNI,10983,10983,ENSG00000118816,,cyclin I
+cyclin,CCNY,219771,219771,ENSG00000108100,,cyclin Y
+cyclin,CCNJ,54619,54619,ENSG00000107443,,cyclin J
+cyclin,CCNP,79935,79935,ENSG00000105219,,cyclin P
+cyclin,CCNB3,85417,85417,ENSG00000147082,,cyclin B3
+cyclin,CCNL1,57018,57018,ENSG00000163660,,cyclin L1
+cyclin,CCND3,896,896,ENSG00000112576,3,cyclin D3
+cyclin B1,B1,1497096,1497096,,,hypothetical protein
+cyclin B1,B1,1497000,1497000,,,hypothetical protein
+cyclin D,D,39570,39570,FBgn0000411,,Dichaete
+cyclin D,d,34179,34179,FBgn0262029,,dachs
+cyclin D,D,6030659,6030659,,,tail protein
+cyclin D,D,956150,956150,,,tail protein
+cyclin D,D,1260624,1260624,,,late control D family protein
+cyclin D,D,2744209,2744209,,,late control D family protein
+cyclin D,D,105217031,105217031,,,SOX domain-containing protein dichaete
+cyclin D,D,3959341,3959341,,,gpD
+cyclin D,D,3959391,3959391,,,gpD
+cyclin D,D,7020957,7020957,,,hypothetical protein D
+cyclin dependent kinase inhibitor,CDKN1C,1028,1028,,,cyclin dependent kinase inhibitor 1C
+cyclin dependent kinase inhibitor,CDKN3,1033,1033,ENSG00000100526,1FPZ,cyclin dependent kinase inhibitor 3
+cyclin dependent kinase inhibitor,CDKN1A,1026,1026,ENSG00000124762,1AXC,cyclin dependent kinase inhibitor 1A
+cyclin dependent kinase inhibitor,CDKN2B,1030,1030,ENSG00000147883,,cyclin dependent kinase inhibitor 2B
+cyclin dependent kinase inhibitor,CDKN2C,1031,1031,ENSG00000123080,1BU9,cyclin dependent kinase inhibitor 2C
+cyclin dependent kinase inhibitor,CDKN2D,1032,1032,ENSG00000129355,1BD8,cyclin dependent kinase inhibitor 2D
+cyclin dependent kinase inhibitor,CDKN1B,1027,1027,ENSG00000111276,1H27,cyclin dependent kinase inhibitor 1B
+cyclin dependent kinase inhibitor,CDKN2A,1029,1029,ENSG00000147889,1A5E,cyclin dependent kinase inhibitor 2A
+cyclin E,E,10040184,10040184,,,E protein
+cyclin E,E,100532765,100532765,,,Extension
+cyclin E,e,2610524,2610524,,,e
+cyclin E,e,4156375,4156375,,,e lysozyme
+cyclin E,e,10323437,10323437,,,e lysozyme
+cyclin E,E,1260620,1260620,,,tail assembly protein
+cyclin E,E,1489671,1489671,,2MM4,small envelope protein
+cyclin E,E,55060282,55060282,,,envelope protein
+cyclin E,E,7040227,7040227,,,small membrane protein
+cyclin E,E,7040216,7040216,,,small membrane protein
+cyclin E-dependent kinase,LOC114415832,114415832,114415832,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC114420933,114420933,114420933,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC114411168,114411168,114411168,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC120191976,120191976,120191976,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC120202595,120202595,120202595,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC120202596,120202596,120202596,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC114402864,114402864,114402864,,,cyclin-dependent kinase E-1-like
+cyclin E-dependent kinase,LOC120016982,120016982,120016982,,,cyclin-dependent kinase E-1-like
+cyclin-dependent kinase 2,2,18990000,18990000,,,hypothetical protein
+cyclin-dependent kinase 2,2,2610712,2610712,,,DNA end protector protein
+cyclin-dependent kinase 2,2,921009,921009,,,PBSX family terminase large subunit
+cyclin-dependent kinase 2,2,1732947,1732947,,,terminase large subunit
+cyclin-dependent kinase 2,2,2657174,2657174,,,terminase
+cyclin-dependent kinase 2,2,1259214,1259214,,,hypothetical protein
+cyclin-dependent kinase 2,2,2700963,2700963,,,terminase small subunit
+cyclin-dependent kinase 2,2,3416180,3416180,,,DNA end protector protein
+cyclin-dependent kinase 2,2,1262411,1262411,,,inhibitor of host bacterial RNA polymerase
+cyclin-dependent kinase 2,2,2777092,2777092,,,terminase large subunit
+cyclin-dependent kinase inhibitor,CDKN1C,1028,1028,,,cyclin dependent kinase inhibitor 1C
+cyclin-dependent kinase inhibitor,CDKN3,1033,1033,ENSG00000100526,1FPZ,cyclin dependent kinase inhibitor 3
+cyclin-dependent kinase inhibitor,CDKN1B,1027,1027,ENSG00000111276,1H27,cyclin dependent kinase inhibitor 1B
+cyclin-dependent kinase inhibitor,CDKN2A,1029,1029,ENSG00000147889,1A5E,cyclin dependent kinase inhibitor 2A
+cyclin-dependent kinase inhibitor,CDKN2B,1030,1030,ENSG00000147883,,cyclin dependent kinase inhibitor 2B
+cyclin-dependent kinase inhibitor,CDKN2C,1031,1031,ENSG00000123080,1BU9,cyclin dependent kinase inhibitor 2C
+cyclin-dependent kinase inhibitor,CDKN2D,1032,1032,ENSG00000129355,1BD8,cyclin dependent kinase inhibitor 2D
+cyclin-dependent kinase inhibitor,CDKN1A,1026,1026,ENSG00000124762,1AXC,cyclin dependent kinase inhibitor 1A
+cysteine proteases,PY17X_0816300,3830650,3830650,,,inhibitor of cysteine proteases
+cysteine proteases,PBANKA_0813000,55149200,55149200,,,inhibitor of cysteine proteases
+cysteine proteases,PADL01_0911100,39741641,39741641,,,inhibitor of cysteine proteases
+cysteine proteases,PGO_070990,39746897,39746897,,,inhibitor of cysteine proteases
+cytokeratins,KRT13,3860,3860,ENSG00000171401,,keratin 13
+cytokeratins,KRT19,3880,3880,ENSG00000171345,,keratin 19
+DEAD box helicase,helicase,1463419,1463419,,,helicase
+DEAD box helicase,helicase,921825,921825,,,helicase
+DEAD box helicase,Helicase,103570315,103570315,,,putative viral DNA helicase and primase
+DEAD box helicase,helicase,10351482,10351482,,,Gp59 Loader of T4-like helicase
+deoxyribonuclease I,I,1260615,1260615,,,tail protein I
+deoxyribonuclease I,I,6775101,6775101,,,PI
+deoxyribonuclease I,I,1260934,1260934,,,DNA polymerase
+deoxyribonuclease I,I,8658843,8658843,,,protease
+deoxyribonuclease I,I,7020955,7020955,,,hypothetical protein I
+deoxyribonuclease I,I,3707888,3707888,,,DNA polymerase
+deoxyribonuclease I,I,40093773,40093773,,,tail assembly protein
+deoxyribonuclease I,I,18504818,18504818,,,baseplate assembly protein
+deoxyribonuclease I,I,1261864,1261864,,,assembly protein
+deoxyribonuclease I,I,2703515,2703515,,,tail assembly protein
+diaphanous,DIAPH1,1729,1729,ENSG00000131504,,diaphanous related formin 1
+diaphanous,DIAPH2,1730,1730,ENSG00000147202,,diaphanous related formin 2
+diaphanous,DIAPH3,81624,81624,ENSG00000139734,5UWP,diaphanous related formin 3
+DNA helicase-primase,pv_372,18266399,18266399,,,DNA helicase/primase
+DNA helicase-primase,BQ3484_211,30523165,30523165,,,DNA helicase/primase
+DNA helicase-primase,165,54981495,54981495,,,DNA helicase/primase
+DNA polymerase,polymerase,940229,940229,,,putative RNA-dependent RNA polymerase
+DNA polymerase,polymerase,956582,956582,,,RNA polymerase
+DNase,ycfH,1024039,1024039,,,DNAse
+DNase,ECs_1789,913025,913025,,,DNase
+DNase,yjjV,913519,913519,,,DNase
+DNase,ECs_1968,917166,917166,,,DNase
+DNase,ECs_1540,913366,913366,,,DNase
+DNase,ycfH,913835,913835,,,DNase
+DNase,ECs_2254,917458,917458,,,DNase
+DNase,FSUBG_13062,59312632,59312632,,,DNase
+DNase,FTJAE_8689,59307801,59307801,,,DNase
+DNase,PHSY_003664,24108951,24108951,,,dnase
+DNAse I,I,1260615,1260615,,,tail protein I
+DNAse I,I,6775101,6775101,,,PI
+DNAse I,I,1260934,1260934,,,DNA polymerase
+DNAse I,I,8658843,8658843,,,protease
+DNAse I,I,7020955,7020955,,,hypothetical protein I
+DNAse I,I,3707888,3707888,,,DNA polymerase
+DNAse I,I,40093773,40093773,,,tail assembly protein
+DNAse I,I,18504818,18504818,,,baseplate assembly protein
+DNAse I,I,1261864,1261864,,,assembly protein
+DNAse I,I,2703515,2703515,,,tail assembly protein
+DNase I,I,1260615,1260615,,,tail protein I
+DNase I,I,6775101,6775101,,,PI
+DNase I,I,1260934,1260934,,,DNA polymerase
+DNase I,I,8658843,8658843,,,protease
+DNase I,I,7020955,7020955,,,hypothetical protein I
+DNase I,I,3707888,3707888,,,DNA polymerase
+DNase I,I,40093773,40093773,,,tail assembly protein
+DNase I,I,18504818,18504818,,,baseplate assembly protein
+DNase I,I,1261864,1261864,,,assembly protein
+DNase I,I,2703515,2703515,,,tail assembly protein
+DPB11,DPB11,34715452,34715452,,,DNA replication regulator DPB11
+DPB11,DPB11,4838760,4838760,,,DNA polymerase II complex component
+DPB11,DPB11,853355,853355,YJL090C,,protein kinase activating protein DPB11
+DR3,DR3,1497002,1497002,,,hypothetical protein
+DR3,DR3,1497095,1497095,,,hypothetical protein
+E1A,E1A,6870531,6870531,,,control protein E1A
+E1A,E1A,2958468,2958468,,,E1A
+E1A,E1A,6386278,6386278,,,control protein E1A
+E1A,E1A,2715915,2715915,,,control protein E1A
+E1A,E1A,24271521,24271521,,,control protein E1A
+E1A,E1A,2652980,2652980,,,control protein E1A;control protein E1A 243R
+E1A,E1A,1460853,1460853,,,control protein E1A
+E1A,E1a,25395998,25395998,,,E1a_19K
+E1A,E1A,3126069,3126069,,,E1A
+E1A,E1A,28544358,28544358,,,early E1A 25 kDa protein
+E2A,E2A,6870526,6870526,,,single-stranded DNA-binding protein
+E2A,E2A,2715921,2715921,,,single-stranded DNA-binding protein
+E2A,E2A,5739976,5739976,,,-
+E2A,E2A,24271510,24271510,,,-
+E2A,E2A,1460850,1460850,,,single-stranded DNA-binding protein
+E2A,E2A,2958469,2958469,,,DBP
+E2A,E2A,6386281,6386281,,,single-stranded DNA-binding protein
+E2A,E2A,26196517,26196517,,,protein E2A
+E3L,E3L,1486409,1486409,,,double-strand RNA-binding protein
+E3L,E3L,3707592,3707592,,,temporal expression: early
+E3L,E3L,18158363,18158363,,,double-stranded RNA-binding protein-putative double-stranded RNA-dependent protein kinase (PKR) inhibitor
+E8,E8,543524,543524,,,1-aminocyclopropane-1-carboxylate oxidase -like
+E8,E8,1461077,1461077,,1,apoptosis regulator E8
+E8,E8,26101570,26101570,,,E8 protein
+E8,e8,1261188,1261188,,,hypothetical protein
+E8,E8,23104211,23104211,,,apoptosis regulator E8
+E8,E8,955385,955385,,,putative protein E8
+E8,E8,1489486,1489486,,,E8
+E8,e8,18479482,18479482,,,hypothetical protein
+E8,E8,944557,944557,,,E8
+E8,E8,1489170,1489170,,,E8 protein
+eIF3-p33,PICST_80765,4851491,4851491,,,"translation initiation factor eIF3, p33 subunit"
+eIF3-p33,CANTADRAFT_22981,30981035,30981035,,,"translation initiation factor eIF3, p33 subunit"
+epithelial cadherin,cdh1,113131509,113131509,ENSMAMG00000007162,,"cadherin 1, type 1, E-cadherin (epithelial)"
+epithelial cadherin,cdh1,105921840,105921840,ENSFHEG00000010694,,"cadherin 1, type 1, E-cadherin (epithelial)"
+ERK2,eppA,8623998,8623998,,,Erk2-dependent phosphoprotein
+ERK2,eppA,31362669,31362669,,,Erk2-dependent phosphoprotein
+ERK2,eppA,14868472,14868472,,,Erk2-dependent phosphoprotein
+eukaryotic translation initiation factor 3,3,18990001,18990001,,,hypothetical protein
+eukaryotic translation initiation factor 3,3,2610711,2610711,,,tail completion and sheath stabilizer protein
+eukaryotic translation initiation factor 3,3,920975,920975,,4,terminase small subunit
+eukaryotic translation initiation factor 3,3,1732929,1732929,,,portal protein
+eukaryotic translation initiation factor 3,3,2657220,2657220,,,hypothetical protein
+eukaryotic translation initiation factor 3,3,1259215,1259215,,,hypothetical protein
+eukaryotic translation initiation factor 3,3,2886020,2886020,,,3
+eukaryotic translation initiation factor 3,3,2700964,2700964,,,terminase
+eukaryotic translation initiation factor 3,3,3416178,3416178,,,tail completion and sheath stabilizer protein
+eukaryotic translation initiation factor 3,3,1262376,1262376,,,endonuclease I
+extracellular matrix proteins,PHALS_07411,36402466,36402466,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_02187,36397242,36397242,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_13941,36408996,36408996,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_04200,36399255,36399255,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_13655,36408710,36408710,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_00063,36395118,36395118,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_03775,36398830,36398830,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular matrix proteins,PHALS_02407,36397462,36397462,,,"Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats"
+extracellular signal regulated protein kinase,DICPUDRAFT_53558,10502884,10502884,,,extracellular signal-regulated protein kinase
+extracellular signal regulated protein kinase,erkA,31361383,31361383,,,extracellular signal-regulated protein kinase
+extracellular signal regulated protein kinase,CAOG_02578,14900648,14900648,,,extracellular signal-regulated protein kinase
+extracellular signal regulated protein kinase,erkA,14873652,14873652,,,extracellular signal-regulated protein kinase
+F,f,32718,32718,FBgn0262111,,forked
+F,F,37626949,37626949,,,fusion glycoprotein
+F,F,37626966,37626966,,,fusion protein
+F,F,951246,951246,,,fusion protein
+F,F,1482628,1482628,,,fusion protein precursor
+F,F,21011775,21011775,,,fusion protein
+F,F,1446467,1446467,,1WP8,fusion
+F,F,920954,920954,,1WP7,fusion protein
+F,f,14340128,14340128,,,f protein
+F,F,14014247,14014247,,,fusion protein
+F0,ATP8,4509,4509,ENSG00000228253,,ATP synthase F0 subunit 8
+F0,ATP6,4508,4508,ENSG00000198899,,ATP synthase F0 subunit 6
+fast myosin heavy chain,LOC105932013,105932013,105932013,ENSFHEG00000016420,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC105933260,105933260,105933260,ENSFHEG00000015524,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC102305207,102305207,102305207,ENSHBUG00000011306,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC109507263,109507263,109507263,,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC105931996,105931996,105931996,ENSFHEG00000016527,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC105933259,105933259,105933259,ENSFHEG00000015646,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC102295130,102295130,102295130,ENSHBUG00000006713,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC102314212,102314212,102314212,ENSHBUG00000002847,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC108902633,108902633,108902633,ENSLCAG00010019959,,"myosin heavy chain, fast skeletal muscle"
+fast myosin heavy chain,LOC101477534,101477534,101477534,ENSMZEG00005003992,,"myosin heavy chain, fast skeletal muscle"
+filamin,FLNB,2317,2317,ENSG00000136068,2DI8,filamin B
+filamin,FLNC,2318,2318,ENSG00000128591,1V05,filamin C
+filamin,FLNA,2316,2316,ENSG00000196924,2AAV,filamin A
+fimbrin 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+fimbrin 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+fimbrin 1,1,920970,920970,,,portal protein
+fimbrin 1,1,1732943,1732943,,,P27 family terminase small subunit
+fimbrin 1,1,1259213,1259213,,,hypothetical protein
+fimbrin 1,1,2700962,2700962,,,HNH endonuclease
+fimbrin 1,1,2657180,2657180,,,adenylate kinase
+fimbrin 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+fimbrin 1,1,1258857,1258857,,,gp1
+fimbrin 1,1,10323382,10323382,,,gp3 dNMP kinase
+focal adhesion kinase,Fak,37233,37233,FBgn0020440,,Focal adhesion kinase
+fragmin,LOC100563510,100563510,100563510,ENSACAG00000037623,,actin-fragmin kinase
+fragmin,si:dkey-3d4.3,109096834,109096834,,,actin-fragmin kinase
+fragmin,LOC117417308,117417308,117417308,,,actin-fragmin kinase
+fragmin,LOC9637325,9637325,9637325,SELMODRAFT_432007,,actin-fragmin kinase
+fragmin,LOC9635857,9635857,9635857,SELMODRAFT_419330,,actin-fragmin kinase
+fragmin,LOC34617766,34617766,34617766,,,actin-fragmin kinase
+fragmin,LOC9648998,9648998,9648998,SELMODRAFT_416466,,actin-fragmin kinase
+fragmin,si:dkey-3d4.3,119115109,119115109,,,actin-fragmin kinase
+fragmin,si:dkey-3d4.3,121616185,121616185,,,actin-fragmin kinase
+fragmin,si:dkey-3d4.3,122885486,122885486,,,actin-fragmin kinase
+fus1,fus1,2541741,2541741,SPAC20G4.02c,,formin Fus1
+G,g,44819,44819,FBgn0001087,,garnet
+G,G,101260158,101260158,Solyc08g005010.3,,protein STAY-GREEN
+G,G,100787147,100787147,GLYMA_01G198500,,protein STAY-GREEN
+G,G,920955,920955,,2VSM,attachment glycoprotein
+G,G,926730,926730,,,glycoprotein
+G,G,37626962,37626962,,,attachment glycoprotein
+G,G,5309643,5309643,,,glycoprotein
+G,G,26122642,26122642,,,glycoprotein
+G,G,2886019,2886019,,,G
+G,G,14857928,14857928,,,glycoprotein
+G proteins,g,44819,44819,FBgn0001087,,garnet
+G proteins,G,101260158,101260158,Solyc08g005010.3,,protein STAY-GREEN
+G proteins,G,100787147,100787147,GLYMA_01G198500,,protein STAY-GREEN
+G proteins,G,920955,920955,,2VSM,attachment glycoprotein
+G proteins,G,926730,926730,,,glycoprotein
+G proteins,G,37626962,37626962,,,attachment glycoprotein
+G proteins,G,5309643,5309643,,,glycoprotein
+G proteins,G,26122642,26122642,,,glycoprotein
+G proteins,G,2886019,2886019,,,G
+G proteins,G,14857928,14857928,,,glycoprotein
+GAL80,GAL80,59371499,59371499,,,transcription regulator gal80
+GAL80,GAL80,34714092,34714092,,,galactose/lactose metabolism regulatory protein GAL80
+GAL80,GAL80,854954,854954,YML051W,3BTS,transcription regulator GAL80
+gamma catenin,gamma,911733,911733,,,-
+gamma catenin,gamma,26122870,26122870,,,gamma protein
+gamma catenin,gamma,21011882,21011882,,,gamma protein
+gamma catenin,gamma,26122884,26122884,,,gamma protein
+gamma catenin,gamma,12218649,12218649,,,gamma protein
+gamma catenin,gamma,20964421,20964421,,,gamma protein
+gamma catenin,gamma,21011850,21011850,,,gamma protein
+GCD10,GCD10,39732787,39732787,,,"tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative"
+GCD10,GCD10,39867807,39867807,,,"tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative"
+GCD10,gcd10,2540699,2540699,SPBC800.08,,putative translation initiation factor eIF-3 gamma subunit Gcd10
+GFP,LOC116302110,116302110,116302110,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC109472964,109472964,109472964,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC118404348,118404348,118404348,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC109481864,109481864,109481864,,,GFP-like fluorescent chromoprotein amFP486
+GFP,LOC109486377,109486377,109486377,,,GFP-like fluorescent chromoprotein amFP486
+GFP,LOC109472969,109472969,109472969,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC109482583,109482583,109482583,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC109486850,109486850,109486850,,,GFP-like non-fluorescent chromoprotein
+GFP,LOC109484962,109484962,109484962,,,GFP-like fluorescent chromoprotein dsFP483
+GFP,LOC109478403,109478403,109478403,,,GFP-like fluorescent chromoprotein dsFP483
+GIC2,GIC2,34715813,34715813,,,GTPase-interacting component 2
+GIC2,GIC2,851904,851904,YDR309C,,Gic2p
+glial fibrillary acid protein,ACID,100326236,100326236,,,Acid flavor
+glial fibrillary acid protein,ACID,100326244,100326244,,,Acid flavor
+Glutathione S-transferase,GSTT2B,653689,653689,,1LJR,glutathione S-transferase theta 2B
+Glutathione S-transferase,MGST2,4258,4258,ENSG00000085871,6SSR,microsomal glutathione S-transferase 2
+Glutathione S-transferase,GSTA3,2940,2940,ENSG00000174156,1TDI,glutathione S-transferase alpha 3
+Glutathione S-transferase,GSTA4,2941,2941,ENSG00000170899,1GUL,glutathione S-transferase alpha 4
+Glutathione S-transferase,GSTM3,2947,2947,ENSG00000134202,3,glutathione S-transferase mu 3
+Glutathione S-transferase,GSTM4,2948,2948,ENSG00000168765,4,glutathione S-transferase mu 4
+Glutathione S-transferase,GSTM5,2949,2949,ENSG00000134201,,glutathione S-transferase mu 5
+Glutathione S-transferase,GSTA5,221357,221357,ENSG00000182793,,glutathione S-transferase alpha 5
+Glutathione S-transferase,GSTT4,25774,25774,,,glutathione S-transferase theta 4
+Glutathione S-transferase,GSTA2,2939,2939,ENSG00000244067,1AGS,glutathione S-transferase alpha 2
+glycoprotein,TPBG,7162,7162,,4CNC,trophoblast glycoprotein
+glycoprotein,GPA33,10223,10223,ENSG00000143167,,glycoprotein A33
+glycoprotein,GPM6B,2824,2824,ENSG00000046653,,glycoprotein M6B
+glycoprotein,GPNMB,10457,10457,ENSG00000136235,,glycoprotein nmb
+glycoprotein,GP2,2813,2813,ENSG00000169347,,glycoprotein 2
+glycoprotein,GPM6A,2823,2823,ENSG00000150625,,glycoprotein M6A
+glycoprotein 130,130,40090149,40090149,,,hypothetical protein
+glycoprotein 130,130,8676297,8676297,,,hypothetical protein
+glycoprotein 130,130,8684078,8684078,,,hypothetical protein
+glycoprotein 130,130,7944131,7944131,,,hypothetical protein
+glycoprotein 130,130,11258110,11258110,,,hypothetical protein
+glycoprotein 130,130,10894769,10894769,,,hypothetical protein
+glycoprotein 130,130,9711732,9711732,,,hypothetical protein
+glycoprotein 130,130,6920834,6920834,,,gp130
+glycoprotein 130,130,6920491,6920491,,,gp130
+glycoprotein 130,130,6921575,6921575,,,gp130
+gp130,gp130,101268915,101268915,ENSOMYG00000031654,,interleukin 6 signal transducer GP130 protein precursor
+Green fluorescent protein,EMWEY_00056300,25339616,25339616,,,"Green fluorescent protein, related"
+Green fluorescent protein,EMWEY_00056320,25339618,25339618,,,"Green fluorescent protein, related"
+GTPase,ATL3,25923,25923,ENSG00000184743,5VGR,atlastin GTPase 3
+GTPase,ATL1,51062,51062,ENSG00000198513,3Q5D,atlastin GTPase 1
+GTPase,ATL2,64225,64225,ENSG00000119787,,atlastin GTPase 2
+H,H,42445,42445,FBgn0001169,5,Hairless
+H,h,38995,38995,FBgn0001168,,hairy
+H2A.Z,H2A.Z,39868334,39868334,,,histone H2A 
+H2A.Z,H2A.Z,39735848,39735848,,,histone H2A 
+haemagglutinin,H,3119776,3119776,,,haemagglutinin
+haemagglutinin,HA,956529,956529,,1RU7,haemagglutinin
+heat shock protein,Hspa12b,72630,72630,ENSMUSG00000074793,,heat shock protein 12B
+heat shock protein,Hspa2,15512,15512,ENSMUSG00000059970,,heat shock protein 2
+heat shock protein,Hspa14,50497,50497,ENSMUSG00000109865,,heat shock protein 14
+heat shock protein,Hspa12a,73442,73442,ENSMUSG00000025092,,heat shock protein 12A
+heat shock protein,Hspb3,56534,56534,ENSMUSG00000051456,,heat shock protein 3
+heat shock protein,Hspb8,80888,80888,ENSMUSG00000041548,,heat shock protein 8
+heat shock protein,Hsp84-3,104434,104434,,,"heat shock protein, 3"
+heat shock protein,Hsp84-2,104408,104408,,,"heat shock protein, 2"
+heat shock protein,Hspa5,14828,14828,ENSMUSG00000026864,,heat shock protein 5
+heat shock protein,Hspa8,15481,15481,ENSMUSG00000015656,3,heat shock protein 8
+helicase-primase,MmrVgp40,934969,934969,,,helicase/primase
+helicase-primase,MmrVgp41,934991,934991,,,helicase/primase
+helicase-primase,phiEcoMGJ1_gp35,5797458,5797458,,,helicase/primase
+helicase-primase,GAMMAHV.ORF44,1497166,1497166,,,helicase-primase
+helicase-primase,GAMMAHV.ORF40,1497165,1497165,,,helicase-primase
+helicase-primase,RHVP.40,10192232,10192232,,,helicase-primase
+helicase-primase,ORF57,30999398,30999398,,,helicase/primase
+helicase-primase,HOR47_gp057,54978495,54978495,,,helicase/primase
+helicase-primase,HWC10_gp150,55614629,55614629,,,helicase/primase
+helicase-primase,HWC08_gp139,55614270,55614270,,,helicase/primase
+hemagglutinin-neuraminidase protein,HN,14014248,14014248,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,20964428,20964428,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,37616274,37616274,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,1489776,1489776,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,39759792,39759792,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,37619972,37619972,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,20964435,20964435,,,hemagglutinin neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,3160803,3160803,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,37626936,37626936,,,hemagglutinin-neuraminidase protein
+hemagglutinin-neuraminidase protein,HN,37619965,37619965,,,hemagglutinin-neuraminidase protein
+histones,PTSG_01675,16078251,16078251,,,histones H3 and H4
+histones,BO86DRAFT_380196,37174400,37174400,,,histones H3 and H4
+histones,BO79DRAFT_246107,37189543,37189543,,,histones H3 and H4
+histones,BO80DRAFT_428142,37225047,37225047,,,histones H3 and H4
+histones,BO97DRAFT_402635,37198841,37198841,,,histones H3 and H4
+histones,BO83DRAFT_375337,37052394,37052394,,,histones H3 and H4
+histones,P170DRAFT_434069,36556333,36556333,,,histones H3 and H4
+histones,BO70DRAFT_400786,37069188,37069188,,,histones H3 and H4
+histones,BO94DRAFT_582129,37117599,37117599,,,histones H3 and H4
+histones,BO95DRAFT_391197,37085167,37085167,,,histones H3 and H4
+HMP-1,hmp-1,59280500,59280500,,,Flavohemoprotein
+HMP-1,hmp-1,59249165,59249165,,,Flavohemoprotein
+HMP-1,hmp-1,179624,179624,WBGene00001978,5H5M,Alpha-catenin-like protein hmp-1
+HN,Hn,38871,38871,FBgn0001208,,Henna
+HN,HN,37626950,37626950,,,attachment protein
+HN,HN,951247,951247,,,attachment protein
+HN,HN,1482629,1482629,,,hemagglutinin-neuraminidase
+HN,HN,14014248,14014248,,,hemagglutinin-neuraminidase protein
+HN,HN,20964354,20964354,,,hemagglutinin-neuraminidase
+HN,HN,21011945,21011945,,,hemagglutinin-neuraminidase
+HN,HN,20964428,20964428,,,hemagglutinin-neuraminidase protein
+HN,hn,54997123,54997123,,,hemagglutinin domain-containing protein
+HN,HN,37616274,37616274,,,hemagglutinin-neuraminidase protein
+HSH49,HSH49,30036146,30036146,,,Hsh49p
+HSH49,HSH49,34715829,34715829,,,protein HSH49
+HSH49,HSH49,854497,854497,YOR319W,5GM6,U2 snRNP complex subunit HSH49
+ICP8,ORF6,65102739,65102739,,,ICP8
+ICP8,ORF6,65102665,65102665,,,ICP8
+IgA,iga,61280926,61280926,,,IgA-specific serine endopeptidase autotransporter
+IgA,IGA,100532755,100532755,,,Immunoglobulin A activity
+IgA,IGA,100532871,100532871,,,Immunoglobulin A activity
+IgA,IGA,100532758,100532758,,,Immunoglobulin A activity
+IgA,iga,11636546,11636546,,,IgA-specific serine endopeptidase
+IgA,iga,11636858,11636858,,,IgA1 protease
+IgG,IGG,102658792,102658792,,,Immunoglobulin G level
+IgG,IGG,101180546,101180546,,,Immunoglobulin G level
+IgG,IGG,103158026,103158026,,,Immunoglobulin G level
+IgG,IGG,103158407,103158407,,,Immunoglobulin G level
+IgG,IGG,103158025,103158025,,,Immunoglobulin G level
+IgG,IGG,103158291,103158291,,,Immunoglobulin G level
+IgG,IGG,103158024,103158024,,,Immunoglobulin G level
+IgG,IGG,103158406,103158406,,,Immunoglobulin G level
+IgG,IGG,101180090,101180090,,,Immunoglobulin G level
+IL-6,il-6,503562,503562,ENSTRUG00000008735,,interleukin-6
+IL-6,IL-6,100628202,100628202,,,interleukin-6
+Insulin-like growth factor I,I,1260615,1260615,,,tail protein I
+Insulin-like growth factor I,I,6775101,6775101,,,PI
+Insulin-like growth factor I,I,1260934,1260934,,,DNA polymerase
+Insulin-like growth factor I,I,8658843,8658843,,,protease
+Insulin-like growth factor I,I,7020955,7020955,,,hypothetical protein I
+Insulin-like growth factor I,I,3707888,3707888,,,DNA polymerase
+Insulin-like growth factor I,I,40093773,40093773,,,tail assembly protein
+Insulin-like growth factor I,I,18504818,18504818,,,baseplate assembly protein
+Insulin-like growth factor I,I,1261864,1261864,,,assembly protein
+Insulin-like growth factor I,I,2703515,2703515,,,tail assembly protein
+insulin-like growth factor I,I,1260615,1260615,,,tail protein I
+insulin-like growth factor I,I,6775101,6775101,,,PI
+insulin-like growth factor I,I,1260934,1260934,,,DNA polymerase
+insulin-like growth factor I,I,8658843,8658843,,,protease
+insulin-like growth factor I,I,7020955,7020955,,,hypothetical protein I
+insulin-like growth factor I,I,3707888,3707888,,,DNA polymerase
+insulin-like growth factor I,I,40093773,40093773,,,tail assembly protein
+insulin-like growth factor I,I,18504818,18504818,,,baseplate assembly protein
+insulin-like growth factor I,I,1261864,1261864,,,assembly protein
+insulin-like growth factor I,I,2703515,2703515,,,tail assembly protein
+Integrin,IBSP,3381,3381,ENSG00000029559,,integrin binding sialoprotein
+Integrin,ILK,3611,3611,ENSG00000166333,2KBX,integrin linked kinase
+integrin,IBSP,3381,3381,ENSG00000029559,,integrin binding sialoprotein
+integrin,ILK,3611,3611,ENSG00000166333,2KBX,integrin linked kinase
+interferon,IFNE,338376,338376,ENSG00000184995,,interferon epsilon
+interferon,IFNK,56832,56832,ENSG00000147896,,interferon kappa
+interferon,IFNG,3458,3458,ENSG00000111537,1EKU,interferon gamma
+kinase,MAP4K3,8491,8491,ENSG00000011566,5,mitogen-activated protein kinase kinase kinase kinase 3
+kinase,MAP4K1,11184,11184,,6CQD,mitogen-activated protein kinase kinase kinase kinase 1
+kinase,MAP4K2,5871,5871,ENSG00000168067,,mitogen-activated protein kinase kinase kinase kinase 2
+kinase,MAP4K5,11183,11183,ENSG00000012983,,mitogen-activated protein kinase kinase kinase kinase 5
+kinase,MAP4K4,9448,9448,ENSG00000071054,4OBO,mitogen-activated protein kinase kinase kinase kinase 4
+KIP1,kip1,100301714,100301714,ENSOMYG00000038118,,Calcium and integrin-binding protein 1
+Kip1,kip1,100301714,100301714,ENSOMYG00000038118,,Calcium and integrin-binding protein 1
+kip1,kip1,100301714,100301714,ENSOMYG00000038118,,Calcium and integrin-binding protein 1
+L,L,27662248,27662248,,,Lobe
+L,L,988052,988052,,,L protein
+L,L,21011777,21011777,,,large protein
+L,L,926729,926729,,,L protein
+L,L,37626951,37626951,,,large polymerase protein
+L,L,37626963,37626963,,,RNA-dependent RNA polymerase
+L,L,4238976,4238976,,,RNA-dependent RNA polymerase
+L,L,5309648,5309648,,,polymerase
+L,L,951248,951248,,,RNA polymerase
+L,L,3160771,3160771,,6,RNA-dependent RNA polymerase
+lamin B,B,44798,44798,,,Bar
+lamin B,B,100532763,100532763,,,Brown
+lamin B,B,1260630,1260630,,,gpB
+lamin B,B,1260691,1260691,,,internal scaffolding protein
+lamin B,B,8658815,8658815,,,AAA family ATPase
+lamin B,B,3959394,3959394,,,gpB
+lamin B,B,3959442,3959442,,,gpB
+lamin B,B,3959421,3959421,,,gpB
+lamin B,B,3959339,3959339,,,gpB
+lamin B,B,3959408,3959408,,,gpB
+large,Large,100286788,100286788,,,like-glycosyltransferase
+large,LARGE,100366528,100366528,,,like-glycosyltransferase
+large,LARGE,102813049,102813049,,,like-glycosyltransferase
+large,LARGE,103077602,103077602,,,like-glycosyltransferase
+large,LARGE,102859005,102859005,,,like-glycosyltransferase
+large polymerase,polymerase,940229,940229,,,putative RNA-dependent RNA polymerase
+large polymerase,polymerase,956582,956582,,,RNA polymerase
+large protein,Large,100286788,100286788,,,like-glycosyltransferase
+large protein,LARGE,100366528,100366528,,,like-glycosyltransferase
+large protein,LARGE,102813049,102813049,,,like-glycosyltransferase
+large protein,LARGE,103077602,103077602,,,like-glycosyltransferase
+large protein,LARGE,102859005,102859005,,,like-glycosyltransferase
+large T-antigen,Large,100286788,100286788,,,like-glycosyltransferase
+large T-antigen,LARGE,100366528,100366528,,,like-glycosyltransferase
+large T-antigen,LARGE,102813049,102813049,,,like-glycosyltransferase
+large T-antigen,LARGE,103077602,103077602,,,like-glycosyltransferase
+large T-antigen,LARGE,102859005,102859005,,,like-glycosyltransferase
+LIMK,PTSG_08837,16070778,16070778,,,TKL/LISK/LIMK protein kinase
+LIMK,PTSG_03858,16076170,16076170,,,TKL/LISK/LIMK protein kinase
+LIMK,PTSG_07236,16073227,16073227,,,TKL/LISK/LIMK protein kinase
+LIM-kinase 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+LIM-kinase 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+LIM-kinase 1,1,920970,920970,,,portal protein
+LIM-kinase 1,1,1732943,1732943,,,P27 family terminase small subunit
+LIM-kinase 1,1,1259213,1259213,,,hypothetical protein
+LIM-kinase 1,1,2700962,2700962,,,HNH endonuclease
+LIM-kinase 1,1,2657180,2657180,,,adenylate kinase
+LIM-kinase 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+LIM-kinase 1,1,1258857,1258857,,,gp1
+LIM-kinase 1,1,10323382,10323382,,,gp3 dNMP kinase
+M,m,44835,44835,FBgn0002577,,miniature
+M,M,10040185,10040185,,,matrix protein
+M,M,21011774,21011774,,,matrix protein
+M,M,37626947,37626947,,,matrix protein
+M,M,926732,926732,,,matrix protein
+M,M,929212,929212,,,terminase endonuclease subunit
+M,M,951245,951245,,,matrix protein
+M,M,37626965,37626965,,,matrix protein
+M,M,11272603,11272603,,,matrix protein
+M,M,6030685,6030685,,,terminase endonuclease subunit
+M1,M1,1461001,1461001,,,matrix protein 1
+M1,M1,956527,956527,,1AA7,matrix protein 1
+M1,M1,18733187,18733187,,,muNS
+M1,M1,8656647,8656647,,,matrix protein 1
+M1,M1,23308107,23308107,,,matrix protein 1
+M1,M1,26824006,26824006,,,matrix protein M1
+M1,M1,8437017,8437017,,,mu-2 protein
+M1,M1,3655108,3655108,,,membrane protein M1
+M1,M1,65100964,65100964,,,protein M1 precursor
+M1,M1,1489880,1489880,,,hypothetical protein
+MAD3,MAD3,59378511,59378511,,,Mitotic spindle checkpoint component mad3
+major DNA-binding protein,D1O93_gp03,37616157,37616157,,,major DNA binding protein
+major DNA-binding protein,D1O94_gp03,37616205,37616205,,,major DNA binding protein
+major DNA-binding protein,KM546_gp05,65101040,65101040,,,major DNA binding protein
+major DNA-binding protein,U41,26196568,26196568,,,major DNA binding protein
+major DNA-binding protein,U41,1497043,1497043,,,major DNA binding protein
+major DNA-binding protein,U41,1487919,1487919,,,major DNA binding protein
+MAP kinase,map,29367994,29367994,,,type I methionyl aminopeptidase
+MAP kinase,map,29368810,29368810,,,type I methionyl aminopeptidase
+MAP kinase,map,57754049,57754049,,,type I methionyl aminopeptidase
+MAP kinase,map,60256392,60256392,,,type I methionyl aminopeptidase
+MAP kinase,map,63999761,63999761,,,type I methionyl aminopeptidase
+MAP kinase,map,61055725,61055725,,,type I methionyl aminopeptidase
+MAP kinase,map,61282476,61282476,,,type I methionyl aminopeptidase
+MAP kinase,map,61387025,61387025,,,type I methionyl aminopeptidase
+MAP kinase,map,57108977,57108977,,,type I methionyl aminopeptidase
+MAP kinase,map,60991370,60991370,,,type I methionyl aminopeptidase
+matrix,MMP28,79148,79148,,,matrix metallopeptidase 28
+matrix,MMP11,4320,4320,,,matrix metallopeptidase 11
+matrix,MMP27,64066,64066,ENSG00000137675,,matrix metallopeptidase 27
+matrix,MMP23B,8510,8510,ENSG00000189409,,matrix metallopeptidase 23B
+matrix,MMP25,64386,64386,ENSG00000008516,,matrix metallopeptidase 25
+matrix,MMP24,10893,10893,ENSG00000125966,,matrix metallopeptidase 24
+matrix,MMP21,118856,118856,ENSG00000154485,,matrix metallopeptidase 21
+matrix,MMP17,4326,4326,ENSG00000198598,,matrix metallopeptidase 17
+matrix,MEPE,56955,56955,ENSG00000152595,,matrix extracellular phosphoglycoprotein
+matrix,MMP16,4325,4325,ENSG00000156103,1,matrix metallopeptidase 16
+matrix protein,ECM1,1893,1893,ENSG00000143369,,extracellular matrix protein 1
+matrix protein,ECM2,1842,1842,ENSG00000106823,,extracellular matrix protein 2
+matrix protein,COMP,1311,1311,ENSG00000105664,3,cartilage oligomeric matrix protein
+Mdm20p,KABA2_02S14344,64856371,64856371,,,Mdm20p
+Mdm20p,MDM20,30033123,30033123,,,Mdm20p
+Mdm20p,MDM20,854079,854079,YOL076W,,Mdm20p
+MEK1,MEK1,59373273,59373273,,,Meiosis-specific serine/threonine-protein kinase mek1
+MEK1,MEK1,828713,828713,AT4G26070,,MAP kinase/ ERK kinase 1
+MEK1,mek1,543720,543720,Solyc12g009020.2,,MAP kinase kinase
+membrane protein,PXMP2,5827,5827,ENSG00000176894,,peroxisomal membrane protein 2
+membrane protein,VMP1,81671,81671,ENSG00000062716,,vacuole membrane protein 1
+membrane protein,EMP2,2013,2013,ENSG00000213853,,epithelial membrane protein 2
+membrane protein,ITM2A,9452,9452,ENSG00000078596,,integral membrane protein 2A
+membrane protein,CLMP,79827,79827,ENSG00000166250,,CXADR like membrane protein
+membrane protein,ITM2C,81618,81618,ENSG00000135916,,integral membrane protein 2C
+membrane protein,GOLM2,113201,113201,ENSG00000166734,,golgi membrane protein 2
+membrane protein,GLMP,112770,112770,ENSG00000198715,,glycosylated lysosomal membrane protein
+membrane protein,KANTR,102723508,102723508,,,KANTR integral membrane protein
+membrane protein,PXMP4,11264,11264,ENSG00000101417,,peroxisomal membrane protein 4
+MHCK,MAA_10265,19264551,19264551,,,MHCK/EF2 kinase
+MHCK,MAM_00338,63734793,63734793,,,MHCK/EF2 kinase
+MHCK,MBR_06983,26244253,26244253,,,MHCK/EF2 kinase
+mitogen-activated protein kinase,MAPK4,5596,5596,,,mitogen-activated protein kinase 4
+mitogen-activated protein kinase,MAPK12,6300,6300,ENSG00000188130,1CM8,mitogen-activated protein kinase 12
+mitogen-activated protein kinase,MAPK6,5597,5597,ENSG00000069956,6YKY,mitogen-activated protein kinase 6
+mitogen-activated protein kinase,MAPK9,5601,5601,ENSG00000050748,3E7O,mitogen-activated protein kinase 9
+mitogen-activated protein kinase,MAPK10,5602,5602,ENSG00000109339,1JNK,mitogen-activated protein kinase 10
+mitogen-activated protein kinase,MAPK15,225689,225689,,,mitogen-activated protein kinase 15
+mitogen-activated protein kinase,MAPK13,5603,5603,ENSG00000156711,3COI,mitogen-activated protein kinase 13
+mitogen-activated protein kinase,MAPK8,5599,5599,ENSG00000107643,1UKH,mitogen-activated protein kinase 8
+mitogen-activated protein kinase,MAPK7,5598,5598,ENSG00000166484,2Q8Y,mitogen-activated protein kinase 7
+mitogen-activated protein kinase,MAPK11,5600,5600,ENSG00000185386,3GC8,mitogen-activated protein kinase 11
+MLC,mlc,58047408,58047408,,,ROK family transcriptional regulator Mlc
+MLC,mlc,58389265,58389265,,,DNA-binding transcriptional repressor Mlc
+MLC,mlc,67418335,67418335,,,ROK family transcriptional regulator Mlc
+MLC,MLC,107987645,107987645,,,Milk lactose content
+MLC,MLC,107987895,107987895,,,Milk lactose content
+MLC,MLC,100531971,100531971,,,Milk lactose content
+MLC,MLC,107987897,107987897,,,Milk lactose content
+MLC,MLC,101410076,101410076,,,Milk lactose content
+MLC,MLC,100531842,100531842,,,Milk lactose content
+MLC,MLC,107987640,107987640,,,Milk lactose content
+MPK1,MPK1,22579692,22579692,,,"mitogen activated protein kinase, putative"
+MPK1,MPK1,59377543,59377543,,,Mitogen-activated protein kinase
+MPK1,MPK1,101498194,101498194,,,mitogen-activated protein kinase
+MPK1,MPK1,837559,837559,AT1G10210,,mitogen-activated protein kinase 1
+MPK1,MPK1,66977375,66977375,,,mitogen-activated protein kinase
+MPK1,MPK1,39592703,39592703,,,Mitogen-activated protein kinase
+mutS,mutS,58135181,58135181,,,DNA mismatch repair protein MutS
+mutS,mutS,63997925,63997925,,,DNA mismatch repair protein MutS
+mutS,mutS,61052886,61052886,,,DNA mismatch repair protein MutS
+mutS,mutS,61637341,61637341,,,DNA mismatch repair protein MutS
+mutS,mutS,63962233,63962233,,,DNA mismatch repair protein MutS
+mutS,mutS,58389209,58389209,,,DNA mismatch repair protein MutS
+mutS,mutS,60681366,60681366,,,DNA mismatch repair protein MutS
+mutS,mutS,60256087,60256087,,,DNA mismatch repair protein MutS
+mutS,mutS,60896643,60896643,,,DNA mismatch repair protein MutS
+mutS,mutS,64003368,64003368,,,DNA mismatch repair protein MutS
+Myo5p,si:ch73-281f12.4,108432223,108432223,ENSPNAG00000023548,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,108237808,108237808,ENSKMAG00000006981,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,116063868,116063868,ENSSLUG00000008442,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,112146563,112146563,ENSOMEG00000017184,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,111217666,111217666,ENSSDUG00000023199,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,109997991,109997991,ENSLBEG00000005081,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,101160907,101160907,ENSORLG00000001384,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,100708065,100708065,ENSONIG00000009694,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,102787691,102787691,ENSNBRG00000011202,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+Myo5p,si:ch73-281f12.4,101476637,101476637,ENSMZEG00005023306,,RA_Radil_like and Myo5p-like_CBD_Rasip1 domain-containing protein
+MyoD,myod,100136773,100136773,ENSOMYG00000029242,,MYOD protein
+MyoD,myod,778924,778924,ENSCING00000007328,,MyoD-family protein j
+myosin,MYO19,80179,80179,,,myosin XIX
+myosin,MYO1B,4430,4430,ENSG00000128641,,myosin IB
+myosin,MYO1D,4642,4642,ENSG00000176658,,myosin ID
+myosin,MYO16,23026,23026,ENSG00000041515,,myosin XVI
+myosin,MYO5A,4644,4644,ENSG00000197535,4D07,myosin VA
+myosin,MYO9A,4649,4649,ENSG00000066933,,myosin IXA
+myosin,MYO1H,283446,283446,ENSG00000174527,,myosin IH
+myosin,MYO9B,4650,4650,ENSG00000099331,5C5S,myosin IXB
+myosin,MYO5C,55930,55930,ENSG00000128833,4L8T,myosin VC
+myosin,MYO1G,64005,64005,ENSG00000136286,,myosin IG
+myosin heavy chain,MYH7B,57644,57644,ENSG00000078814,,myosin heavy chain 7B
+myosin heavy chain,MYH13,8735,8735,ENSG00000006788,,myosin heavy chain 13
+myosin heavy chain,MYH15,22989,22989,ENSG00000144821,,myosin heavy chain 15
+myosin heavy chain,MYH8,4626,4626,ENSG00000133020,,myosin heavy chain 8
+myosin heavy chain,MYH2,4620,4620,ENSG00000125414,,myosin heavy chain 2
+myosin heavy chain,MYH10,4628,4628,ENSG00000133026,4,myosin heavy chain 10
+myosin heavy chain,MYH3,4621,4621,ENSG00000109063,,myosin heavy chain 3
+myosin heavy chain,LOC105373154,105373154,105373154,,,myosin heavy chain IB
+myosin heavy chain,MYH4,4622,4622,ENSG00000264424,,myosin heavy chain 4
+myosin heavy chain,MYH1,4619,4619,ENSG00000109061,,myosin heavy chain 1
+myosin heavy chain B,B,44798,44798,,,Bar
+myosin heavy chain B,B,100532763,100532763,,,Brown
+myosin heavy chain B,B,1260630,1260630,,,gpB
+myosin heavy chain B,B,1260691,1260691,,,internal scaffolding protein
+myosin heavy chain B,B,8658815,8658815,,,AAA family ATPase
+myosin heavy chain B,B,3959394,3959394,,,gpB
+myosin heavy chain B,B,3959442,3959442,,,gpB
+myosin heavy chain B,B,3959421,3959421,,,gpB
+myosin heavy chain B,B,3959339,3959339,,,gpB
+myosin heavy chain B,B,3959408,3959408,,,gpB
+myosin heavy-chain,MYH7B,57644,57644,ENSG00000078814,,myosin heavy chain 7B
+myosin heavy-chain,MYH13,8735,8735,ENSG00000006788,,myosin heavy chain 13
+myosin heavy-chain,MYH15,22989,22989,ENSG00000144821,,myosin heavy chain 15
+myosin heavy-chain,MYH8,4626,4626,ENSG00000133020,,myosin heavy chain 8
+myosin heavy-chain,MYH2,4620,4620,ENSG00000125414,,myosin heavy chain 2
+myosin heavy-chain,MYH10,4628,4628,ENSG00000133026,4,myosin heavy chain 10
+myosin heavy-chain,MYH3,4621,4621,ENSG00000109063,,myosin heavy chain 3
+myosin heavy-chain,LOC105373154,105373154,105373154,,,myosin heavy chain IB
+myosin heavy-chain,MYH4,4622,4622,ENSG00000264424,,myosin heavy chain 4
+myosin heavy-chain,MYH1,4619,4619,ENSG00000109061,,myosin heavy chain 1
+myosin I,I,1260615,1260615,,,tail protein I
+myosin I,I,6775101,6775101,,,PI
+myosin I,I,1260934,1260934,,,DNA polymerase
+myosin I,I,8658843,8658843,,,protease
+myosin I,I,7020955,7020955,,,hypothetical protein I
+myosin I,I,3707888,3707888,,,DNA polymerase
+myosin I,I,40093773,40093773,,,tail assembly protein
+myosin I,I,18504818,18504818,,,baseplate assembly protein
+myosin I,I,1261864,1261864,,,assembly protein
+myosin I,I,2703515,2703515,,,tail assembly protein
+myosin II,II,1260890,1260890,,,replication initiation protein
+myosin II,II,3707873,3707873,,,receptor binding
+myosin II,II,1260937,1260937,,,receptor binding
+myosin II,II,912256,912256,,,hypothetical protein
+myosin II,II,43131477,43131477,,,replication endonuclease
+myosin II,II,927328,927328,,,replication initiation protein
+myosin II heavy-chain kinase,II,1260890,1260890,,,replication initiation protein
+myosin II heavy-chain kinase,II,3707873,3707873,,,receptor binding
+myosin II heavy-chain kinase,II,1260937,1260937,,,receptor binding
+myosin II heavy-chain kinase,II,912256,912256,,,hypothetical protein
+myosin II heavy-chain kinase,II,43131477,43131477,,,replication endonuclease
+myosin II heavy-chain kinase,II,927328,927328,,,replication initiation protein
+myosin light chain,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+myosin light chain 1,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+myosin light chain 2,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+myosin light chain kinase,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+myosin regulatory light chain,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+myosin-II heavy chain,DICPUDRAFT_48616,10502498,10502498,,,myosin II heavy chain
+Neuropilin 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+Neuropilin 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+Neuropilin 1,1,920970,920970,,,portal protein
+Neuropilin 1,1,1732943,1732943,,,P27 family terminase small subunit
+Neuropilin 1,1,1259213,1259213,,,hypothetical protein
+Neuropilin 1,1,2700962,2700962,,,HNH endonuclease
+Neuropilin 1,1,2657180,2657180,,,adenylate kinase
+Neuropilin 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+Neuropilin 1,1,1258857,1258857,,,gp1
+Neuropilin 1,1,10323382,10323382,,,gp3 dNMP kinase
+non-muscle myosin heavy chain,EAH_00010130,25269083,25269083,,,"non-muscle myosin heavy chain, putative"
+non-muscle myosin heavy chain,EMWEY_00006060,25334592,25334592,,,"non-muscle myosin heavy chain, putative"
+non-muscle myosin heavy chain,ETH_00028665,25254826,25254826,,,"non-muscle myosin heavy chain, putative"
+non-muscle myosin heavy chain,NCLIV_054780,13446768,13446768,,,putative non-muscle myosin heavy chain
+non-muscle myosin heavy chain,ENH_00046830,25474837,25474837,,,"non-muscle myosin heavy chain, putative"
+non-muscle myosin heavy chain,EMH_0026830,25377549,25377549,,,"non-muscle myosin heavy chain, putative"
+NP,NP,3160777,3160777,,6,nucleoprotein
+NP,NP,911830,911830,,4QAZ,nucleoprotein
+NP,NP,9487539,9487539,,5,nucleoprotein
+NP,NP,955194,955194,,5,nucleoprotein
+NP,NP,1482625,1482625,,,nucleocapsid protein
+NP,NP,956531,956531,,2BST,nucleoprotein
+NP,np,4036076,4036076,,,nucleoprotein
+NP,NP,23308125,23308125,,,nucleocapsid protein
+NP,NP,18585695,18585695,,,NP
+NP,NP,10498576,10498576,,,nucleocapsid
+NR1,NR1,101216001,101216001,Csa_4G377160,,nitrate reductase [NADH]-like
+NR1,nr1,445665,445665,,,nuclear receptor 1
+NR1,NR1,443275,443275,,,glutamate receptor subunit
+nucleocapsid,FLB14_sSgp1,41324339,41324339,,,nucleocapsid
+nucleocapsid,KM459_sSgp1,65099257,65099257,,,nucleocapsid
+nucleocapsid,FLB38_sSgp1,41324397,41324397,,,nucleocapsid
+nucleocapsid,CAB93_sSgp1,32305862,32305862,,,nucleocapsid
+nucleocapsid,KM567_sSgp1,65101190,65101190,,,nucleocapsid
+nucleocapsid,CDUVsS_gp1,10417347,10417347,,,nucleocapsid
+nucleocapsid,FK801_sSgp1,40524672,40524672,,,nucleocapsid
+nucleocapsid,KM562_sSgp1,65101175,65101175,,,nucleocapsid
+nucleocapsid,KM568_sSgp2,65101198,65101198,,,nucleocapsid
+nucleocapsid,CAU97_sSgp1,32707962,32707962,,,nucleocapsid
+nucleosome,NAP1L2,4674,4674,ENSG00000186462,,nucleosome assembly protein 1 like 2
+nucleosome,NAP1L3,4675,4675,ENSG00000186310,,nucleosome assembly protein 1 like 3
+nucleosome,NAP1L5,266812,266812,ENSG00000177432,,nucleosome assembly protein 1 like 5
+nucleosome,NAP1L1,4673,4673,ENSG00000187109,7,nucleosome assembly protein 1 like 1
+nucleosome,NAP1L4,4676,4676,,,nucleosome assembly protein 1 like 4
+oncostatin M,m,44835,44835,FBgn0002577,,miniature
+oncostatin M,M,10040185,10040185,,,matrix protein
+oncostatin M,M,21011774,21011774,,,matrix protein
+oncostatin M,M,37626947,37626947,,,matrix protein
+oncostatin M,M,926732,926732,,,matrix protein
+oncostatin M,M,929212,929212,,,terminase endonuclease subunit
+oncostatin M,M,951245,951245,,,matrix protein
+oncostatin M,M,37626965,37626965,,,matrix protein
+oncostatin M,M,11272603,11272603,,,matrix protein
+oncostatin M,M,6030685,6030685,,,terminase endonuclease subunit
+origin-binding protein,U73,26196610,26196610,,,origin binding protein
+origin-binding protein,U73,1497073,1497073,,,origin binding protein
+origin-binding protein,U73,1487954,1487954,,,origin-binding protein
+P,p,41025,41025,FBgn0086679,,pink
+P protein,p,41025,41025,FBgn0086679,,pink
+P proteins,p,41025,41025,FBgn0086679,,pink
+P(I),PTRG_00494,6339381,6339381,PTRG_00494,,inositol hexakisphosphate kinase 2 (P(i)-uptake stimulator)
+P(I),HCBG_06316,69039332,69039332,,,inositol hexakisphosphate kinase 2 (P(I)-uptake stimulator
+p14,p14,1491979,1491979,,,protein 14
+p14,P14,26516419,26516419,,,hypothetical protein
+p14,P14,7020947,7020947,,,hypothetical protein
+p14,P14,13405037,13405037,,,phage related protein
+p14,P14,55632318,55632318,,,phage related protein
+p18,P18,544274,544274,,,deoxyuridine triphosphatase
+p18,p18,13842688,13842688,,,P18
+p18,p18,40526685,40526685,,,P18
+p18,p18,14340125,14340125,,,p18 protein
+p18,p18,3890501,3890501,,,P18
+p18,P18,26516423,26516423,,,phosphoadenosine phosphosulfate reductase family protein
+p18,P18,7020933,7020933,,,PBSX family terminase large subunit
+p18,p18,65101556,65101556,,,p18
+p18,P18,13405041,13405041,,,tail family protein
+p18,p18,16479692,16479692,,,P18
+p19,P19,100034213,100034213,ENSECAG00000000866,,P19 lipocalin
+p19,p19,905931,905931,,,hypothetical protein
+p19,P19,26516424,26516424,,,hypothetical protein
+p19,P19,7020928,7020928,,,portal protein
+p19,P19,13405042,13405042,,,tail fiber domain-containing protein
+p19,p19,25396065,25396065,,,p19
+p19,P19,55632323,55632323,,,tail fiber domain-containing protein
+p19,p19,22654081,22654081,,,19 kDa protein
+p21,P21,100305126,100305126,,,calcium binding protein
+p21,P21,26516426,26516426,,,hypothetical protein
+p21,P21,13405045,13405045,,,hypothetical secreted or membrane protein
+p21,p21,25396066,25396066,,,p21
+p21,P21,55632326,55632326,,,hypothetical secreted or membrane protein
+p33,p33,13842689,13842689,,,P33
+p33,p33,8887750,8887750,,,P33
+p33,p33,4179177,4179177,,,hypothetical protein
+p33,p33,2846288,2846288,,,p33
+p33,p33,40526686,40526686,,,P33
+p33,P33,26516438,26516438,,,hypothetical protein
+p33,P33,7020934,7020934,,,DNA ejection protein
+p33,P33,13405058,13405058,,,helix-turn-helix domain-containing protein
+p33,p33,65101555,65101555,,,p33
+p33,p33,16479693,16479693,,,P33
+p35,p35,14340222,14340222,,,p35 protein
+p35,P35,26516440,26516440,,,DEAD/DEAH box helicase
+p35,P35,7020951,7020951,,,injection gp16
+p35,P35,13405060,13405060,,,helix-turn-helix domain-containing protein
+p35,p35,4642993,4642993,,,P35
+p35,p35,1488744,1488744,,,P35
+p35,P35,55632341,55632341,,,helix-turn-helix domain-containing protein
+p38,P38,39728814,39728814,,,pseudo
+p38,P38,39867562,39867562,,,"6-cysteine protein, putative"
+p38,P38,655752,655752,TC002767,,serine protease P38
+p38,p38,778927,778927,,,p38 kinase
+p38,p38,1482027,1482027,,,coat protein
+p38,P38,26516443,26516443,,,recombination protein NinG
+p38,P38,7020963,7020963,,,site-specific integrase
+p38,P38,13405063,13405063,,,phage related protein
+p38,P38,39736712,39736712,,,6-cysteine protein
+p38,p38,16479688,16479688,,,P38
+p40,P40,843569,843569,AT1G72370,,40s ribosomal protein SA
+p40,p40,8887752,8887752,,,P40
+p40,p40,4179181,4179181,,,hypothetical protein
+p40,p40,2846293,2846293,,,P40
+p40,p40,40526678,40526678,,,P40
+p40,p40,3890505,3890505,,,P40
+p40,P40,26516445,26516445,,,antitermination protein
+p40,P40,7020961,7020961,,,excisionase
+p40,P40,13405065,13405065,,,sigma-70 family RNA polymerase sigma factor
+p40,p40,5850443,5850443,,,p40
+p55,P55,26516459,26516459,,,lysis protein
+p55,P55,13405082,13405082,,,"sigma70, RNA polymerase sigma factor, positive control factor Xpf (N-terminal region)"
+p55,P55,55632363,55632363,,,"sigma70, RNA polymerase sigma factor, positive control factor Xpf (N-terminal region)"
+p57,P57,26516461,26516461,,,hypothetical protein
+p57,P57,13405084,13405084,,,hypothetical protein
+p57,P57,55632365,55632365,,,hypothetical protein
+p58,P58,26516462,26516462,,,terminase
+p58,P58,13405085,13405085,,,hypothetical protein
+p58,P58,55632366,55632366,,,hypothetical protein
+PAC2,pac2,2542103,2542103,SPAC31G5.11,,cAMP-independent regulatory protein Pac2
+phospholipase C-gamma 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+phospholipase C-gamma 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+phospholipase C-gamma 1,1,920970,920970,,,portal protein
+phospholipase C-gamma 1,1,1732943,1732943,,,P27 family terminase small subunit
+phospholipase C-gamma 1,1,1259213,1259213,,,hypothetical protein
+phospholipase C-gamma 1,1,2700962,2700962,,,HNH endonuclease
+phospholipase C-gamma 1,1,2657180,2657180,,,adenylate kinase
+phospholipase C-gamma 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+phospholipase C-gamma 1,1,1258857,1258857,,,gp1
+phospholipase C-gamma 1,1,10323382,10323382,,,gp3 dNMP kinase
+phosphoprotein,ODAPH,152816,152816,ENSG00000174792,,odontogenesis associated phosphoprotein
+phosphoprotein,SPP2,6694,6694,ENSG00000072080,,secreted phosphoprotein 2
+phosphoprotein,EAPP,55837,55837,ENSG00000129518,,E2F associated phosphoprotein
+phosphoprotein,VASP,7408,7408,ENSG00000125753,1EGX,vasodilator stimulated phosphoprotein
+phosphoprotein,GOLPH3,64083,64083,ENSG00000113384,3,golgi phosphoprotein 3
+phosphoprotein,SPP1,6696,6696,ENSG00000118785,3CXD,secreted phosphoprotein 1
+phosphorylatable myosin light chain,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+PI,PI,832146,832146,AT5G20240,,K-box region and MADS-box transcription factor family protein
+PI,PI,104605842,104605842,,,floral homeotic protein PMADS 2
+PI,pi,5656965,5656965,,,pied
+PI 3-kinase,PI,832146,832146,AT5G20240,,K-box region and MADS-box transcription factor family protein
+PI 3-kinase,PI,104605842,104605842,,,floral homeotic protein PMADS 2
+PI 3-kinase,pi,5656965,5656965,,,pied
+PIMT,TM35_000162630,39985915,39985915,,,putative PIMT protein
+PIMT,DQ04_01071000,20380440,20380440,,,putative PIMT protein
+PKR,GTPV_gp011,5228348,5228348,,,EIF2a-like PKR inhibitor
+PKR,LSDV014,921580,921580,,,EIF2a-like PKR inhibitor
+PKR,YMTVg12L,2943592,2943592,,,EIF2a-like PKR inhibitor
+PKR,SPV010,932392,932392,,,EIF2a-like PKR inhibitor
+PKR,SPPV_11,944691,944691,,,EIF2a-like PKR inhibitor
+PKR,CG743_gp163,33899889,33899889,,,dsRNA binding PKR inhibitor
+PKR,KM542_gp065,65100586,65100586,,,"Interferon resistance, PKR inhibitor"
+PKR,CG743_gp037,33899763,33899763,,,dsRNA-binding PKR inhibitor
+PKR,DpV83gp042,3346384,3346384,,,DsRNA binding PKR inhibitor
+PKR,DpV83gp020,3346312,3346312,,,EIF2a-like PKR inhibitor
+PNR,pnr,44849,44849,FBgn0003117,,pannier
+polycystic kidney disease 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+polycystic kidney disease 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+polycystic kidney disease 1,1,920970,920970,,,portal protein
+polycystic kidney disease 1,1,1732943,1732943,,,P27 family terminase small subunit
+polycystic kidney disease 1,1,1259213,1259213,,,hypothetical protein
+polycystic kidney disease 1,1,2700962,2700962,,,HNH endonuclease
+polycystic kidney disease 1,1,2657180,2657180,,,adenylate kinase
+polycystic kidney disease 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+polycystic kidney disease 1,1,1258857,1258857,,,gp1
+polycystic kidney disease 1,1,10323382,10323382,,,gp3 dNMP kinase
+polymerase,polymerase,940229,940229,,,putative RNA-dependent RNA polymerase
+polymerase,polymerase,956582,956582,,,RNA polymerase
+polymerase protein,polymerase,940229,940229,,,putative RNA-dependent RNA polymerase
+polymerase protein,polymerase,956582,956582,,,RNA polymerase
+presenilin 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+presenilin 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+presenilin 1,1,920970,920970,,,portal protein
+presenilin 1,1,1732943,1732943,,,P27 family terminase small subunit
+presenilin 1,1,1259213,1259213,,,hypothetical protein
+presenilin 1,1,2700962,2700962,,,HNH endonuclease
+presenilin 1,1,2657180,2657180,,,adenylate kinase
+presenilin 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+presenilin 1,1,1258857,1258857,,,gp1
+presenilin 1,1,10323382,10323382,,,gp3 dNMP kinase
+profilin-I,PPL_09347,31364822,31364822,,,profilin I
+profilin-I,proA,31358531,31358531,,,profilin I
+profilin-I,proA,8625993,8625993,,,profilin I
+profilin-I,proA,14866886,14866886,,,profilin I
+profilins I,I,1260615,1260615,,,tail protein I
+profilins I,I,6775101,6775101,,,PI
+profilins I,I,1260934,1260934,,,DNA polymerase
+profilins I,I,8658843,8658843,,,protease
+profilins I,I,7020955,7020955,,,hypothetical protein I
+profilins I,I,3707888,3707888,,,DNA polymerase
+profilins I,I,40093773,40093773,,,tail assembly protein
+profilins I,I,18504818,18504818,,,baseplate assembly protein
+profilins I,I,1261864,1261864,,,assembly protein
+profilins I,I,2703515,2703515,,,tail assembly protein
+protein,LOC102724770,102724770,102724770,ENSG00000278817,,protein DGCR6
+protein,C6orf201,404220,404220,ENSG00000185689,,protein MGC87625
+protein,PROS1,5627,5627,ENSG00000184500,1,protein S
+protein,FAM153CP,653316,653316,ENSG00000204677,,protein FAM153C
+protein,KIAA1656,85371,85371,,,KIAA1656 protein
+protein,FAM169B,283777,283777,ENSG00000283597,,protein FAM169B
+protein,LOC102724813,102724813,102724813,,,protein FRG1B
+protein,FAM25BP,100132929,100132929,,,protein FAM25
+protein,PRNP,5621,5621,ENSG00000171867,1E1G,prion protein
+protein,TSPO,706,706,ENSG00000100300,,translocator protein
+protein kinase,PKN3,29941,29941,ENSG00000160447,,protein kinase N3
+protein kinase,PRKD3,23683,23683,ENSG00000115825,2,protein kinase D3
+protein kinase,MOK,5891,5891,ENSG00000080823,,MOK protein kinase
+protein kinase,PKN1,5585,5585,ENSG00000123143,1CXZ,protein kinase N1
+protein kinase,PRKD2,25865,25865,ENSG00000105287,2COA,protein kinase D2
+protein kinase,DMPK,1760,1760,ENSG00000104936,1WT6,DM1 protein kinase
+protein kinase,TTK,7272,7272,ENSG00000112742,2X9E,TTK protein kinase
+protein kinase,PRKD1,5587,5587,ENSG00000184304,,protein kinase D1
+protein kinase,PKN2,5586,5586,ENSG00000065243,4CRS,protein kinase N2
+protein kinase C alpha,alpha,12216924,12216924,,,alpha 1 protein;alpha 2 protein
+protein kinase C alpha,alpha,26123214,26123214,,,alpha 1 protein;alpha 2 protein
+protein kinase C alpha,alpha,911731,911731,,,alpha 1 protein;alpha 2 protein;alpha 3 protein
+protein kinase C alpha,alpha,26122868,26122868,,,alpha1 protein;alpha2 protein
+protein kinase C alpha,alpha,21011880,21011880,,,alpha1 protein;alpha2 protein
+protein kinase C alpha,alpha,12218647,12218647,,,alpha 1 protein;alpha 2 protein
+protein kinase C alpha,alpha,21011848,21011848,,,alpha1 protein;alpha2 protein
+protein kinase C alpha,alpha,20964419,20964419,,,alpha 1 protein;alpha 2 protein
+protein L-isoaspartyl methyltransferase,PIMT2,101502253,101502253,,,protein L-isoaspartyl methyltransferase 2
+protein L-isoaspartyl methyltransferase,PIMT1,101498597,101498597,,,protein L-isoaspartyl methyltransferase 1
+protein tyrosine kinase,PTK6,5753,5753,ENSG00000101213,1RJA,protein tyrosine kinase 6
+protein tyrosine kinase,TYRO3,7301,7301,ENSG00000092445,1,TYRO3 protein tyrosine kinase
+protein tyrosine kinase,TEC,7006,7006,ENSG00000135605,2,tec protein tyrosine kinase
+protein tyrosine kinase,PTK2,5747,5747,ENSG00000169398,1K04,protein tyrosine kinase 2
+PRP11,prp11,2538936,2538936,SPCC10H11.01,,ATP-dependent RNA helicase Prp11
+PRP21,PRP21,59370940,59370940,,,SF3a splicing factor complex subunit
+PRP21,PRP21,66985952,66985952,,,SF3a splicing factor complex subunit
+PRP21,PRP21,36285444,36285444,,,SF3a splicing factor complex subunit
+PRP21,PRP21,30037617,30037617,,,Prp21p
+PRP21,PRP21,4851333,4851333,,,pre-mRNA splicing factor
+PRP21,PRP21,64966372,64966372,,,SF3a splicing factor complex subunit
+PRP21,PRP21,64972917,64972917,,,SF3a splicing factor complex subunit
+PRP21,PRP21,54329786,54329786,,,SF3a splicing factor complex subunit
+PRP21,PRP21,66118007,66118007,,,SF3a splicing factor complex subunit
+PRP21,PRP21,853227,853227,YJL203W,4DGW,Prp21p
+PRP9,PRP9,519859,519859,ENSBTAG00000036106,,prolactin-related protein IX
+PRP9,PRP9,30037754,30037754,,,Prp9p
+PRP9,PRP9,34717493,34717493,,,pre-mRNA-splicing factor PRP9
+PRP9,PRP9,851531,851531,YDL030W,4DGW,SF3a splicing factor complex subunit PRP9
+PU.1,LOC109884432,109884432,109884432,ENSOKIG00005012736,,transcription factor PU.1
+PU.1,LOC110506649,110506649,110506649,ENSOMYG00000043870,,transcription factor PU.1
+PU.1,LOC112218947,112218947,112218947,ENSOTSG00005031229,,transcription factor PU.1
+PU.1,LOC109895337,109895337,109895337,ENSOKIG00005011365,,transcription factor PU.1
+PU.1,LOC112249298,112249298,112249298,ENSOTSG00005008162,,transcription factor PU.1
+PU.1,LOC103173055,103173055,103173055,ENSCMIG00000004579,,transcription factor PU.1
+PU.1,LOC109048595,109048595,109048595,ENSCCRG00000015722,,transcription factor PU.1
+PU.1,LOC111183964,111183964,111183964,ENSDLEG00000000443,,transcription factor PU.1
+PU.1,LOC103672387,103672387,103672387,ENSUMAG00000009255,,transcription factor PU.1
+PU.1,LOC105889848,105889848,105889848,,,transcription factor PU.1
+RAD10,RAD10,59377656,59377656,,,ssDNA endonuclease and repair protein rad10
+RAD14,RAD14,39729030,39729030,,,"DNA repair protein RAD14, putative"
+RAD14,RAD14,39866374,39866374,,,"DNA repair protein RAD14, putative"
+rad22+,SPOG_01350,25035679,25035679,SPOG_01350,,Rad22 Rti1
+rad22+,SJAG_04530,7051886,7051886,SJAG_04530,,Rad22 Rti1
+rad22+,SOCG_04421,25033383,25033383,SOCG_04421,,Rad22 Rti1
+RAD25,rad25,2542252,2542252,SPAC17A2.13c,,14-3-3 protein Rad25
+RAD25,rad25,10447349,10447349,,,DNA repair helicase
+RAD5,RAD5,39731073,39731073,,,"DNA repair protein RAD5, putative"
+RAD5,RAD5,59372994,59372994,,,DNA helicase rad5
+RAD5,RAD5,39870209,39870209,,,"DNA repair protein RAD5, putative"
+RAD5,RAD5,832338,832338,AT5G22750,,DNA/RNA helicase protein
+rad5,RAD5,39731073,39731073,,,"DNA repair protein RAD5, putative"
+rad5,RAD5,59372994,59372994,,,DNA helicase rad5
+rad5,RAD5,39870209,39870209,,,"DNA repair protein RAD5, putative"
+rad5,RAD5,832338,832338,AT5G22750,,DNA/RNA helicase protein
+RAD9,Rad9,40054,40054,FBgn0025807,,Rad9
+Raf,Raf,31221,31221,FBgn0003079,,Raf oncogene
+rap1,Rap1,38244,38244,FBgn0004636,,Rap1 GTPase
+regulatory light chain,light,100136319,100136319,ENSOMYG00000017259,,TNF superfamily member 14
+RhoGAP,CMQ_689,25980372,25980372,,,RhoGAP
+RhoGAP,SPOG_01915,25036239,25036239,SPOG_01915,,RhoGAP
+RhoGAP,GMORB2_7539,55973762,55973762,,,RhoGAP
+RhoGAP,GMORB2_5605,55971830,55971830,,,RhoGAP
+RhoGAP,SOCG_00591,25029575,25029575,SOCG_00591,,RhoGAP
+RhoGAP,MRET_1662,38738428,38738428,,,RhoGAP
+RhoGAP,MRET_2090,38738856,38738856,,,RhoGAP
+RhoGAP,MRET_3673,38740439,38740439,,,RhoGAP
+rhp51,RHP51,64574787,64574787,,,RecA recombinase Rhp51
+rhp51,RHP51,38123299,38123299,,,RecA recombinase Rhp51
+rhp51,rhp51,59275972,59275972,,,DNA repair protein rhp51
+rhp51,RHP51,68308595,68308595,,,RecA recombinase Rhp51
+rhp51,RHP51,68336245,68336245,,,RecA recombinase Rhp51
+rhp51,RHP51,62197486,62197486,,,RecA recombinase Rhp51
+rhp51,rhp51,41983194,41983194,,,DNA repair protein rhp51
+rhp51,rhp51,59249650,59249650,,,DNA repair protein rhp51
+rhp51,RHP51,68300617,68300617,,,RecA recombinase Rhp51
+rhp51,rhp51,2543580,2543580,SPAC644.14c,,RecA family recombinase Rhp51
+rhp51+,SJAG_01410,7048158,7048158,SJAG_01410,,recombinase Rhp51
+rhp51+,SPOG_01865,25036191,25036191,SPOG_01865,,recombinase Rhp51
+rhp51+,SOCG_00638,25029622,25029622,SOCG_00638,,recombinase Rhp51
+rhp54,RHP54,66077990,66077990,,,DNA repair protein rhp54
+rhp54,rhp54,59275851,59275851,,,DNA repair protein rhp54
+rhp54,RHP54,68315001,68315001,,,DNA repair protein rhp54
+rhp54,RHP54,68346764,68346764,,,DNA repair protein rhp54
+rhp54,rhp54,59249531,59249531,,,DNA repair protein rhp54
+rhp54,rhp54,41980956,41980956,,,DNA repair protein rhp54
+rhp54,RHP54,68304598,68304598,,,DNA repair protein rhp54
+rhp54,rhp54,2542749,2542749,SPAC15A10.03c,,DNA repair protein
+rhp54+,SPOG_04728,25039041,25039041,SPOG_04728,,Rad54 Rhp54
+rhp54+,SOCG_03162,25032134,25032134,SOCG_03162,,Rad54 Rhp54
+rhp54+,SJAG_02460,7049205,7049205,SJAG_02460,,Rad54 Rhp54
+ribonuclease,RNASEL,6041,6041,ENSG00000135828,1WDY,ribonuclease L
+ribonuclease,RNASET2,8635,8635,ENSG00000026297,3,ribonuclease T2
+ribonuclease,RNASEK,440400,440400,ENSG00000219200,6WLW,ribonuclease K
+ribonuclease,RNASEH1,246243,246243,ENSG00000171865,2QK9,ribonuclease H1
+ribonucleotide reductase,Rrm1,20133,20133,ENSMUSG00000030978,,ribonucleotide reductase M1
+ribonucleotide reductase,Rrm2,20135,20135,ENSMUSG00000020649,1AFT,ribonucleotide reductase M2
+RIPc,ripC,66735601,66735601,,,peptidoglycan hydrolase RipC
+RIPc,ripC,29427881,29427881,,,peptidoglycan hydrolase RipC
+RIPc,ripC,45764344,45764344,,,peptidoglycan hydrolase RipC
+RIPc,ripC,64261896,64261896,,,peptidoglycan hydrolase RipC
+RIPc,ripC,61161387,61161387,,,peptidoglycan hydrolase RipC
+RIPc,ripC,29697592,29697592,,,peptidoglycan hydrolase RipC
+RIPc,ripC,57165307,57165307,,,peptidoglycan hydrolase RipC
+RIPc,ripC,44294866,44294866,,,peptidoglycan hydrolase RipC
+RIPc,ripC,66596249,66596249,,,peptidoglycan hydrolase RipC
+RIPc,ripC,66693724,66693724,,,peptidoglycan hydrolase RipC
+RNA polymerase,polymerase,940229,940229,,,putative RNA-dependent RNA polymerase
+RNA polymerase,polymerase,956582,956582,,,RNA polymerase
+SAGA,saga,109518836,109518836,ENSHCOG00000012479,,S-antigen; retina and pineal gland (arrestin) a
+SAGA,saga,102794384,102794384,ENSNBRG00000016857,,S-antigen; retina and pineal gland (arrestin) a
+SAGA,saga,101471160,101471160,ENSMZEG00005020254,,S-antigen; retina and pineal gland (arrestin) a
+semaphorin III,III,1460937,1460937,,,penton base protein
+semaphorin III,III,19831557,19831557,,,capsid protein III
+semaphorin III,III,1260884,1260884,,4EO0,attachment protein
+semaphorin III,III,1261855,1261855,,2X9A,attachment protein
+semaphorin III,III,1260723,1260723,,,attachment protein
+semaphorin III,III,912255,912255,,,hypothetical protein
+semaphorin III,III,1260932,1260932,,,major capsid protein
+semaphorin III,III,43131476,43131476,,,adsorption protein
+semaphorin III,III,927334,927334,,,attachment protein
+semaphorin III,III,12978906,12978906,,,capsid protein III
+SF3a,PRP21,59370940,59370940,,,SF3a splicing factor complex subunit
+SF3a,Aud_002952,66990428,66990428,,,SF3a splicing factor complex subunit
+SF3a,PRP21,66985952,66985952,,,SF3a splicing factor complex subunit
+SF3a,CAALFM_C501930WA,3643741,3643741,C5_01930W_A,,SF3a splicing factor complex subunit
+SF3a,PRP21,36285444,36285444,,,SF3a splicing factor complex subunit
+SF3a,PRP21,64966372,64966372,,,SF3a splicing factor complex subunit
+SF3a,PRP21,64972917,64972917,,,SF3a splicing factor complex subunit
+SF3a,PRP21,54329786,54329786,,,SF3a splicing factor complex subunit
+SF3a,PRP21,66118007,66118007,,,SF3a splicing factor complex subunit
+sgs1,Sgs1,33701,33701,FBgn0003372,,Salivary gland secretion 1
+SH,Sh,32780,32780,FBgn0003380,1HO2,Shaker
+SH,SH,37626961,37626961,,,small hydrophobic protein
+SH,SH,1489823,1489823,,,small hydrophobic protein
+SH,SH,37607641,37607641,,,small hydrophobic protein
+SH,SH,3964365,3964365,,,small hydrophobic protein
+SH,SH,37616273,37616273,,,small hydrophobic protein
+SH,SH,20964399,20964399,,,small hydrophobic protein
+SH,SH,37627237,37627237,,,SH
+SH,SH,1489812,1489812,,,small hydrophobic protein
+SH,SH,37616282,37616282,,,small hydrophobic protein
+SH3-binding glutamate-rich protein,Sh3bgr,101712456,101712456,,,SH3 domain binding glutamate rich protein
+SH3-binding glutamate-rich protein,SH3BGR,101636730,101636730,,,SH3 domain binding glutamate rich protein
+SH3-binding glutamate-rich protein,SH3BGR,102767633,102767633,,,SH3 domain binding glutamate rich protein
+SH3-binding glutamate-rich protein,SH3BGR,101555482,101555482,,,SH3 domain binding glutamate rich protein
+SH3-binding glutamate-rich protein,SH3BGR,101806921,101806921,,,SH3 domain binding glutamate rich protein
+single-stranded DNA-binding protein,SSBP3,23648,23648,ENSG00000157216,,single stranded DNA binding protein 3
+single-stranded DNA-binding protein,SSBP4,170463,170463,ENSG00000130511,,single stranded DNA binding protein 4
+single-stranded DNA-binding protein,SSBP2,23635,23635,ENSG00000145687,6IWV,single stranded DNA binding protein 2
+single-stranded DNA-binding protein,SSBP1,6742,6742,,1S3O,single stranded DNA binding protein 1
+SM myosin heavy chain,sm,37254,37254,FBgn0003435,,smooth
+Smooth muscle,ACTA2,59,59,ENSG00000107796,,"actin alpha 2, smooth muscle"
+Smooth muscle,ACTG2,72,72,ENSG00000163017,6,"actin gamma 2, smooth muscle"
+smooth muscle myosin heavy chain,myh11a,105931468,105931468,ENSFHEG00000015980,,"myosin, heavy chain 11a, smooth muscle"
+smooth muscle myosin heavy chain,MYH11,396211,396211,ENSGALG00000006520,,"myosin, heavy chain 11, smooth muscle"
+smooth muscle myosin heavy chain,myh11a,102792267,102792267,ENSNBRG00000020427,,"myosin, heavy chain 11a, smooth muscle"
+smooth muscle myosin heavy chain,myh11a,100691292,100691292,ENSONIG00000018867,,"myosin, heavy chain 11a, smooth muscle"
+SNAREs,BDBG_01456,8507055,8507055,,,syntaxin-t-SNAREs
+SNAREs,BDCG_04477,69026623,69026623,,,syntaxin-t-SNAREs
+SNAREs,A1O1_01963,19156864,19156864,,,syntaxin-t-SNAREs
+SNF,snf,31442,31442,FBgn0003449,2AYM,sans fille
+striated muscle myosin heavy chain,LOC111900405,111900405,111900405,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC108863048,108863048,108863048,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC18606495,18606495,18606495,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC105160335,105160335,105160335,SIN_1005844,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC105956926,105956926,105956926,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC110808419,110808419,110808419,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC115706365,115706365,115706365,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC117328884,117328884,117328884,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC101851430,101851430,101851430,,,"myosin heavy chain, striated muscle"
+striated muscle myosin heavy chain,LOC110459505,110459505,110459505,,,"myosin heavy chain, striated muscle"
+SWI,Iswi,36390,36390,FBgn0011604,1,Imitation SWI
+synaptojanin,SYNJ2,8871,8871,ENSG00000078269,1,synaptojanin 2
+synaptojanin,SYNJ1,8867,8867,ENSG00000159082,1W80,synaptojanin 1
+syntaxin,STX18,53407,53407,ENSG00000168818,,syntaxin 18
+syntaxin,STX6,10228,10228,ENSG00000135823,2NPS,syntaxin 6
+syntaxin,STX1A,6804,6804,ENSG00000106089,,syntaxin 1A
+syntaxin,STX4,6810,6810,ENSG00000103496,,syntaxin 4
+syntaxin,STX10,8677,8677,ENSG00000104915,4,syntaxin 10
+syntaxin,STX2,2054,2054,ENSG00000111450,,syntaxin 2
+syntaxin,STX7,8417,8417,ENSG00000079950,,syntaxin 7
+syntaxin,STX12,23673,23673,ENSG00000117758,2,syntaxin 12
+syntaxin,STX19,415117,415117,ENSG00000178750,,syntaxin 19
+syntaxin,STX3,6809,6809,ENSG00000166900,,syntaxin 3
+syntaxin 3,3,18990001,18990001,,,hypothetical protein
+syntaxin 3,3,2610711,2610711,,,tail completion and sheath stabilizer protein
+syntaxin 3,3,920975,920975,,4,terminase small subunit
+syntaxin 3,3,1732929,1732929,,,portal protein
+syntaxin 3,3,2657220,2657220,,,hypothetical protein
+syntaxin 3,3,1259215,1259215,,,hypothetical protein
+syntaxin 3,3,2886020,2886020,,,3
+syntaxin 3,3,2700964,2700964,,,terminase
+syntaxin 3,3,3416178,3416178,,,tail completion and sheath stabilizer protein
+syntaxin 3,3,1262376,1262376,,,endonuclease I
+syntrophin,SNTB2,6645,6645,,2,syntrophin beta 2
+syntrophin,SNTG2,54221,54221,,,syntrophin gamma 2
+syntrophin,SNTG1,54212,54212,ENSG00000147481,,syntrophin gamma 1
+syntrophin,SNTA1,6640,6640,ENSG00000101400,,syntrophin alpha 1
+syntrophin,SNTB1,6641,6641,ENSG00000172164,,syntrophin beta 1
+T beta 4,T,20997,20997,ENSMUSG00000062327,,"brachyury, T-box transcription factor T"
+T beta 4,t,20998,20998,,,t-complex
+T beta 4Xen,T,20997,20997,ENSMUSG00000062327,,"brachyury, T-box transcription factor T"
+T beta 4Xen,t,20998,20998,,,t-complex
+talin,TLN2,83660,83660,ENSG00000171914,6,talin 2
+talin,TLN1,7094,7094,ENSG00000137076,1SYQ,talin 1
+tau,tau,326116,326116,FBgn0266579,,tau
+tau,Tau,100302034,100302034,,,tau-like protein
+Tax,tax,929294,929294,,,tax protein
+Tax,tax,7205460,7205460,,,tax protein
+Tax,tax,1497214,1497214,,,-
+Tax,tax,1491938,1491938,,1AO7,p40
+Testicular protein kinase 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+Testicular protein kinase 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+Testicular protein kinase 1,1,920970,920970,,,portal protein
+Testicular protein kinase 1,1,1732943,1732943,,,P27 family terminase small subunit
+Testicular protein kinase 1,1,1259213,1259213,,,hypothetical protein
+Testicular protein kinase 1,1,2700962,2700962,,,HNH endonuclease
+Testicular protein kinase 1,1,2657180,2657180,,,adenylate kinase
+Testicular protein kinase 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+Testicular protein kinase 1,1,1258857,1258857,,,gp1
+Testicular protein kinase 1,1,10323382,10323382,,,gp3 dNMP kinase
+TGFbeta,tgfbr-ic,445775,445775,ENSCING00000014075,,TGFbeta-recepter I homologue
+thymosin,TMSB10,9168,9168,ENSG00000034510,,thymosin beta 10
+thymosin,TMSB15A,11013,11013,ENSG00000158164,,thymosin beta 15A
+thymosin,TMSB15B,286527,286527,,,thymosin beta 15B
+thymosin beta 4,betA,60681909,60681909,,,choline dehydrogenase
+thymosin beta 4,betA,61051597,61051597,,,choline dehydrogenase
+thymosin beta 4,betA,60253976,60253976,,,choline dehydrogenase
+thymosin beta 4,betA,45956561,45956561,,,choline dehydrogenase
+thymosin beta 4,betA,58138987,58138987,,,choline dehydrogenase
+thymosin beta 4,betA,66383652,66383652,,,choline dehydrogenase
+thymosin beta 4,betA,58391691,58391691,,,choline dehydrogenase
+thymosin beta 4,betA,61316828,61316828,,,choline dehydrogenase
+thymosin beta 4,betA,61635557,61635557,,,choline dehydrogenase
+thymosin beta 4,betA,60851331,60851331,,,choline dehydrogenase
+thymosin beta(4),TMSB4Y,9087,9087,ENSG00000154620,,thymosin beta 4 Y-linked
+thymosin beta(4),TMSB4X,7114,7114,ENSG00000205542,1UY5,thymosin beta 4 X-linked
+TNF-alpha,tnf-alpha,100137091,100137091,,,tumor necrosis factor alpha
+TNF-alpha,tnf-alpha,100136034,100136034,,,tumour necrosis factor alpha-like
+TPA,PHALS_09778,36404833,36404833,,,tpa: histone
+TPA,FSUBG_6441,59319358,59319358,,,tpa inducible
+TPA,FTJAE_2979,59301496,59301496,,,tpa inducible
+TPA,FTJAE_5763,59304575,59304575,,,tpa inducible
+TPA,FSUBG_3926,59316577,59316577,,,tpa inducible
+TPA,FTJAE_12894,59298252,59298252,,,tpa inducible
+TRAF,traF,58461104,58461104,,,conjugative transfer signal peptidase TraF
+TRAF,traF,61428804,61428804,,,conjugative transfer signal peptidase TraF
+TRAF,traF,66916190,66916190,,,conjugal transfer protein TraF
+TRAF,traF,66567792,66567792,,,conjugal transfer protein TraF
+TRAF,traF,66389610,66389610,,,conjugative transfer signal peptidase TraF
+TRAF,traF,66389836,66389836,,,conjugative transfer signal peptidase TraF
+TRAF,traF,58025659,58025659,,,conjugal transfer protein TraF
+TRAF,traF,61419682,61419682,,,conjugal transfer protein TraF
+TRAF,traF,63970288,63970288,,,conjugal transfer protein TraF
+TRAF,traF,61429021,61429021,,,conjugative transfer signal peptidase TraF
+TRAIL receptors 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+TRAIL receptors 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+TRAIL receptors 1,1,920970,920970,,,portal protein
+TRAIL receptors 1,1,1732943,1732943,,,P27 family terminase small subunit
+TRAIL receptors 1,1,1259213,1259213,,,hypothetical protein
+TRAIL receptors 1,1,2700962,2700962,,,HNH endonuclease
+TRAIL receptors 1,1,2657180,2657180,,,adenylate kinase
+TRAIL receptors 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+TRAIL receptors 1,1,1258857,1258857,,,gp1
+TRAIL receptors 1,1,10323382,10323382,,,gp3 dNMP kinase
+tropomyosin,TPM2,7169,7169,ENSG00000198467,,tropomyosin 2
+tropomyosin,TPM3,7170,7170,ENSG00000143549,6,tropomyosin 3
+tropomyosin,TPM4,7171,7171,ENSG00000167460,,tropomyosin 4
+tropomyosin,TPM1,7168,7168,ENSG00000140416,3MUD,tropomyosin 1
+troponin I,I,1260615,1260615,,,tail protein I
+troponin I,I,6775101,6775101,,,PI
+troponin I,I,1260934,1260934,,,DNA polymerase
+troponin I,I,8658843,8658843,,,protease
+troponin I,I,7020955,7020955,,,hypothetical protein I
+troponin I,I,3707888,3707888,,,DNA polymerase
+troponin I,I,40093773,40093773,,,tail assembly protein
+troponin I,I,18504818,18504818,,,baseplate assembly protein
+troponin I,I,1261864,1261864,,,assembly protein
+troponin I,I,2703515,2703515,,,tail assembly protein
+troponin T,T,20997,20997,ENSMUSG00000062327,,"brachyury, T-box transcription factor T"
+troponin T,t,20998,20998,,,t-complex
+trypsin,Try5,103964,103964,ENSMUSG00000036938,,trypsin 5
+trypsin,Try10,436522,436522,ENSMUSG00000071521,,trypsin 10
+trypsin,Try4,22074,22074,ENSMUSG00000054106,,trypsin 4
+type I myosin,I,1260615,1260615,,,tail protein I
+type I myosin,I,6775101,6775101,,,PI
+type I myosin,I,1260934,1260934,,,DNA polymerase
+type I myosin,I,8658843,8658843,,,protease
+type I myosin,I,7020955,7020955,,,hypothetical protein I
+type I myosin,I,3707888,3707888,,,DNA polymerase
+type I myosin,I,40093773,40093773,,,tail assembly protein
+type I myosin,I,18504818,18504818,,,baseplate assembly protein
+type I myosin,I,1261864,1261864,,,assembly protein
+type I myosin,I,2703515,2703515,,,tail assembly protein
+type II myosin heavy chain,II,1260890,1260890,,,replication initiation protein
+type II myosin heavy chain,II,3707873,3707873,,,receptor binding
+type II myosin heavy chain,II,1260937,1260937,,,receptor binding
+type II myosin heavy chain,II,912256,912256,,,hypothetical protein
+type II myosin heavy chain,II,43131477,43131477,,,replication endonuclease
+type II myosin heavy chain,II,927328,927328,,,replication initiation protein
+type XIII collagen,XIII,3707886,3707886,,,terminal protein
+type XIII collagen,XIII,1260933,1260933,,,terminal protein
+tyrosine kinase,FER,2241,2241,ENSG00000151422,2KK6,FER tyrosine kinase
+tyrosine kinase,TXK,7294,7294,ENSG00000074966,2,TXK tyrosine kinase
+tyrosine kinase,BTK,695,695,ENSG00000010671,1AWW,Bruton tyrosine kinase
+tyrosine kinase,TYK2,7297,7297,ENSG00000105397,3LXN,tyrosine kinase 2
+ubiquitin,UBD,10537,10537,,2MBE,ubiquitin D
+ubiquitin,UBB,7314,7314,ENSG00000170315,2KHW,ubiquitin B
+ubiquitin,UBC,7316,7316,ENSG00000150991,1C3T,ubiquitin C
+UL18,UL18,27815354,27815354,,,capsid triplex subunit 2
+UL18,UL18,40524717,40524717,,,capsid protein
+UL18,UL18,935585,935585,,,membrane glycoprotein UL18
+UL18,UL18,8223369,8223369,,,UL18
+UL18,UL18,26828056,26828056,,,capsid triplex subunit 2
+UL18,UL18,1487414,1487414,,,capsid triplex subunit 2
+UL18,UL18,3239032,3239032,,,capsid triplex subunit 2
+UL18,UL18,18533909,18533909,,,capsid triplex subunit 2
+UL18,UL18,3850177,3850177,,,capsid triplex subunit 2
+UL18,UL18,2656978,2656978,,,capsid triplex subunit 2
+UL29,UL29,26828054,26828054,,,single stranded binding protein ICP8
+UL29,UL29,27815343,27815343,,,single-stranded DNA-binding protein
+UL29,UL29,935566,935566,,,protein UL29
+UL29,UL29,40524705,40524705,,,single-stranded DNA-binding protein
+UL29,UL29,8223357,8223357,,,UL29
+UL29,UL29,3239027,3239027,,,single-stranded DNA-binding protein
+UL29,UL29,26887559,26887559,,,UL29 major DNA-binding protein
+UL29,UL29,3850214,3850214,,,single-stranded DNA-binding protein
+UL29,UL29,18533921,18533921,,,single-stranded DNA-binding protein
+UL29,UL29,2656962,2656962,,,single-stranded DNA-binding protein
+UL30,UL30,26828045,26828045,,,DNA polymerase
+UL30,UL30,27815342,27815342,,,DNA polymerase catalytic subunit
+UL30,UL30,935567,935567,,,protein UL30
+UL30,UL30,40524704,40524704,,,"DNA polymerase, catalytic subunit"
+UL30,UL30,8223356,8223356,,,UL30
+UL30,UL30,3239048,3239048,,,DNA polymerase catalytic subunit
+UL30,UL30,18533922,18533922,,,DNA polymerase catalytic subunit
+UL30,UL30,3850215,3850215,,,DNA polymerase catalytic subunit
+UL30,UL30,32707802,32707802,,,DNA polymerase catalytic subunit
+UL30,UL30,2656967,2656967,,,DNA polymerase catalytic subunit
+UL38,UL38,27815334,27815334,,,capsid triplex subunit 1
+UL38,UL38,935573,935573,,,protein UL38
+UL38,UL38,40524696,40524696,,,capsid triplex subunit 1
+UL38,UL38,8223348,8223348,,,UL38
+UL38,UL38,26828046,26828046,,,capsid triplex subunit 1
+UL38,UL38,1487324,1487324,,5ZZ8,complexed 1:2 with capsid triplex subunit 2 to connect capsid hexons and pentons; involved in capsid morphogenesis
+UL38,UL38,26887566,26887566,,,UL38 capsid triplex subunit 1
+UL38,UL38,18533930,18533930,,,capsid triplex subunit 1
+UL38,UL38,3850221,3850221,,,capsid triplex subunit 1
+UL38,UL38,25026457,25026457,,,protein UL38
+UL42,UL42,27815332,27815332,,,DNA polymerase processivity subunit
+UL42,UL42,40524692,40524692,,,processivity factor for DNA polymerase
+UL42,UL42,935576,935576,,,protein UL42
+UL42,UL42,8223344,8223344,,,UL42
+UL42,UL42,26828069,26828069,,,DNA polymerase processivity subunit
+UL42,UL42,2952523,2952523,,,DNA polymerase processivity subunit
+UL42,UL42,3239054,3239054,,,DNA polymerase processivity subunit
+UL42,UL42,26887606,26887606,,,DNA polymerase processivity factor
+UL42,UL42,3850225,3850225,,,DNA polymerase processivity subunit
+UL42,UL42,25026459,25026459,,,protein UL42
+UL5,UL5,27815367,27815367,,,helicase-primase helicase subunit
+UL5,UL5,935532,935532,,,protein UL5
+UL5,UL5,40524730,40524730,,,component of DNA helicase primase complex
+UL5,UL5,8223383,8223383,,,UL5
+UL5,UL5,26828091,26828091,,,helicase-primase helicase subunit
+UL5,UL5,3190300,3190300,,,helicase-primase helicase subunit
+UL5,UL5,3239030,3239030,,,helicase-primase helicase subunit
+UL5,UL5,1487471,1487471,,,helicase-primase helicase subunit
+UL5,UL5,18533896,18533896,,,helicase-primase helicase subunit
+UL5,UL5,2656955,2656955,,,helicase-primase helicase subunit
+UL52,UL52,27815321,27815321,,,helicase-primase primase subunit
+UL52,UL52,935600,935600,,,DNA packaging protein UL32
+UL52,UL52,40524682,40524682,,,UL52 component of DNA helicase/primase complex
+UL52,UL52,8223332,8223332,,,UL52
+UL52,UL52,26828098,26828098,,,helicase primase subunit
+UL52,UL52,11464126,11464126,,,DNA packaging protein UL32
+UL52,UL52,3077432,3077432,,,DNA packaging protein UL32
+UL52,UL52,26887579,26887579,,,UL52 helicase-primase primase subunit
+UL52,UL52,18533945,18533945,,,DNA replication protein
+UL52,UL52,32707779,32707779,,,DNA replication protein
+UL8,UL8,26828094,26828094,,,helicase-primase subunit
+UL8,UL8,27815364,27815364,,,helicase-primase subunit
+UL8,UL8,935536,935536,,,membrane glycoprotein UL8
+UL8,UL8,40524727,40524727,,,component of DNA helicase/primase complex
+UL8,UL8,8223380,8223380,,,UL8
+UL8,UL8,26887542,26887542,,,helicase/primase complex associated protein UL8
+UL8,UL8,18533899,18533899,,,helicase-primase subunit
+UL8,UL8,3850240,3850240,,,helicase-primase subunit
+UL8,UL8,2656975,2656975,,,helicase-primase subunit
+UL8,UL8,32707825,32707825,,,helicase-primase subunit
+UL9,UL9,27815363,27815363,,,DNA replication origin-binding helicase
+UL9,UL9,40524726,40524726,,,DNA replication origin-binding helicase
+UL9,UL9,935538,935538,,,membrane glycoprotein UL9
+UL9,UL9,8223379,8223379,,,UL9
+UL9,UL9,26828055,26828055,,,DNA replication origin-binding helicase
+UL9,UL9,1487403,1487403,,,DNA replication origin-binding helicase
+UL9,UL9,3077459,3077459,,,membrane glycoprotein UL9
+UL9,UL9,1487475,1487475,,,DNA replication origin-binding helicase
+UL9,UL9,26887543,26887543,,,DNA replication origin-binding helicase UL9
+UL9,UL9,18533900,18533900,,,DNA replication origin-binding helicase
+USF,usf,778989,778989,ENSCING00000008157,,transcription factor protein
+USF,Usf,31384,31384,FBgn0029711,,Usf
+V,v,32026,32026,FBgn0003965,4,vermilion
+V,V,654844,654844,,,tryptophan oxygenase
+V,V,1260612,1260612,,,baseplate assembly protein V
+V,V,1460940,1460940,,,minor core protein
+V,V,7047321,7047321,,,virion protein
+V,V,5648824,5648824,,,structural protein
+V,V,4643065,4643065,,,structural protein
+V,V,7056560,7056560,,,virion protein
+V,V,40093766,40093766,,,tail protein
+V,V,18504821,18504821,,,baseplate assembly protein
+V protein,v,32026,32026,FBgn0003965,4,vermilion
+V protein,V,654844,654844,,,tryptophan oxygenase
+V protein,V,1260612,1260612,,,baseplate assembly protein V
+V protein,V,1460940,1460940,,,minor core protein
+V protein,V,7047321,7047321,,,virion protein
+V protein,V,5648824,5648824,,,structural protein
+V protein,V,4643065,4643065,,,structural protein
+V protein,V,7056560,7056560,,,virion protein
+V protein,V,40093766,40093766,,,tail protein
+V protein,V,18504821,18504821,,,baseplate assembly protein
+vascular endothelial,VEGFD,2277,2277,ENSG00000165197,2,vascular endothelial growth factor D
+vascular endothelial,VEGFB,7423,7423,ENSG00000173511,2C7W,vascular endothelial growth factor B
+vascular endothelial,VEZF1,7716,7716,ENSG00000136451,,vascular endothelial zinc finger 1
+vascular endothelial,VEGFC,7424,7424,ENSG00000150630,2X1W,vascular endothelial growth factor C
+vascular endothelial,VEGFA,7422,7422,ENSG00000112715,1BJ1,vascular endothelial growth factor A
+vascular endothelial growth factor,VEGFD,2277,2277,ENSG00000165197,2,vascular endothelial growth factor D
+vascular endothelial growth factor,VEGFB,7423,7423,ENSG00000173511,2C7W,vascular endothelial growth factor B
+vascular endothelial growth factor,VEGFC,7424,7424,ENSG00000150630,2X1W,vascular endothelial growth factor C
+vascular endothelial growth factor,VEGFA,7422,7422,ENSG00000112715,1BJ1,vascular endothelial growth factor A
+vascular endothelial growth factor 165,165,8676332,8676332,,,tRNA
+vascular endothelial growth factor 165,165,8684113,8684113,,,hypothetical protein
+vascular endothelial growth factor 165,165,11258146,11258146,,,hypothetical protein
+vascular endothelial growth factor 165,165,26643693,26643693,,,tail sheath protein
+vascular endothelial growth factor 165,165,6920869,6920869,,,tRNA
+vascular endothelial growth factor 165,165,6920946,6920946,,,tRNA
+vascular endothelial growth factor 165,165,6920526,6920526,,,tRNA
+vascular endothelial growth factor 165,165,6921379,6921379,,,tRNA
+vascular endothelial growth factor 165,165,6921611,6921611,,,tRNA
+vascular endothelial growth factor 165,165,40081078,40081078,,,hypothetical protein
+VEGF,vegf,100136118,100136118,ENSOMYG00000010298,,vascular endothelial growth factor precursor
+VEGF,VEGF,100329011,100329011,,,vascular endothelial growth factor
+Villin,VIL1,7429,7429,ENSG00000127831,1UNC,villin 1
+Villin,VILL,50853,50853,ENSG00000136059,,villin like
+villin,VIL1,7429,7429,ENSG00000127831,1UNC,villin 1
+villin,VILL,50853,50853,ENSG00000136059,,villin like
+VITF-3,SOPV-ELK-097,36841094,36841094,,,VITF-3
+VITF-3,SOPV-ELK-113,36841110,36841110,,,VITF-3
+VRP1,Vrp1,37521,37521,FBgn0243516,,Verprolin 1
+WIP,SPOG_02611,25036934,25036934,SPOG_02611,,WIP protein
+WIP,SOCG_03008,25031982,25031982,SOCG_03008,,WIP protein
+XPD,Xpd,37414,37414,FBgn0261850,,Xeroderma pigmentosum D
+XPD,XPD,39733005,39733005,,,"TFIIH basal transcription factor complex helicase XPD subunit, putative"
+XPD,XPD,39868021,39868021,,,"TFIIH basal transcription factor complex helicase XPD subunit, putative"

@@ -1,0 +1,389 @@
+surface,symbol,_id,entrezgene,ensembl_id,pdb_id,name
+ComK,comK,936338,936338,,,competence transcription factor (CTF)
+ComK,comK,64302918,64302918,,,competence transcription factor ComK
+ComK,comK,50134142,50134142,,,competence transcription factor ComK
+E sigma E,E,10040184,10040184,,,E protein
+E sigma E,E,100532765,100532765,,,Extension
+E sigma E,e,2610524,2610524,,,e
+E sigma E,e,4156375,4156375,,,e lysozyme
+E sigma E,e,10323437,10323437,,,e lysozyme
+E sigma E,E,1260620,1260620,,,tail assembly protein
+E sigma E,E,1489671,1489671,,2MM4,small envelope protein
+E sigma E,E,55060282,55060282,,,envelope protein
+E sigma E,E,7040227,7040227,,,small membrane protein
+E sigma E,E,7040216,7040216,,,small membrane protein
+FlgM,flgM,29368091,29368091,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,61634614,61634614,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,63996145,63996145,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,63996282,63996282,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,58136145,58136145,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,56892376,56892376,,,anti-sigma-28 factor FlgM
+FlgM,flgM,60843264,60843264,,,flagellar biosynthesis anti-sigma factor FlgM
+FlgM,flgM,60899375,60899375,,,anti-sigma-28 factor FlgM
+FlgM,flgM,60900649,60900649,,,anti-sigma-28 factor FlgM
+FlgM,flgM,58461735,58461735,,,anti-sigma-28 factor FlgM
+FtsZ,ftsZ,60891593,60891593,,,pseudo
+FtsZ,ftsZ,61323223,61323223,,,cell division protein FtsZ
+FtsZ,ftsZ,60684910,60684910,,,cell division protein FtsZ
+FtsZ,ftsZ,63962079,63962079,,,cell division protein FtsZ
+FtsZ,ftsZ,57752788,57752788,,,cell division protein FtsZ
+FtsZ,ftsZ,56577822,56577822,,,cell division protein FtsZ
+FtsZ,ftsZ,61390939,61390939,,,cell division protein FtsZ
+FtsZ,ftsZ,61637135,61637135,,,cell division protein FtsZ
+FtsZ,ftsZ,56899807,56899807,,,cell division protein FtsZ
+FtsZ,ftsZ,56450476,56450476,,,cell division protein FtsZ
+GerE,gerE,67509142,67509142,,,spore germination transcription factor GerE
+GerE,gerE,64145575,64145575,,,spore germination transcription factor GerE
+GerE,gerE,56350726,56350726,,,spore germination transcription factor GerE
+GerE,gerE,66215028,66215028,,,spore germination transcription factor GerE
+GerE,gerE,64321401,64321401,,,spore germination transcription factor GerE
+GerE,gerE,64185797,64185797,,,spore germination transcription factor GerE
+GerE,gerE,937462,937462,,1,transcriptional regulator required for the expression of late spore coat genes
+GerE,gerE,66265945,66265945,,,spore germination transcription factor GerE
+GerE,gerE,56418751,56418751,,,spore germination transcription factor GerE
+GerE,gerE,61769551,61769551,,1,spore germination transcription factor GerE
+KatX,katX,937399,937399,,,major catalase in spores
+KatX,katX,61768349,61768349,,,catalase KatX
+KatX,katX,64305644,64305644,,,catalase KatX
+KatX,katX,66323906,66323906,,,catalase KatX
+KatX,katX,66324443,66324443,,,catalase KatX
+KatX,katX,66361564,66361564,,,catalase KatX
+KinC,kinC,938742,938742,,,two-component sensor potassium-responsive histidine kinase regulating cannibalism and biofilm formation
+KinC,kinC,64303337,64303337,,,two-component sensor histidine kinase KinC
+KinC,kinC,50133699,50133699,,,two-component sensor histidine kinase KinC
+KinD,kinD,939300,939300,,4JGO,histidine kinase phosphorylating Spo0A
+KinD,kinD,64303256,64303256,,,sporulation kinase KinD
+RocR,ROCR,102723505,102723505,,,regulator of chondrogenesis RNA
+SigL,sigL,987375,987375,,,RNA polymerase factor sigma-54
+SigL,sigL,936362,936362,,,RNA polymerase sigma-54 factor (sigma-L)
+SigL,sigL,888609,888609,,3HUG,ECF RNA polymerase sigma factor SigL
+SigL,sigL,45424700,45424700,,3HUG,sigma-70 family RNA polymerase sigma factor SigL
+Spo0A,spo0A,61925934,61925934,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,61926679,61926679,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,65305978,65305978,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,67525139,67525139,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,64197391,64197391,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,64179507,64179507,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,56863220,56863220,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,66870379,66870379,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,66344603,66344603,,,sporulation transcription factor Spo0A
+Spo0A,spo0A,66353625,66353625,,,sporulation transcription factor Spo0A
+SpoIIAA,spoIIAA,67508712,67508712,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,67525076,67525076,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,65398169,65398169,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,64179675,64179675,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,66870415,66870415,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,29419697,29419697,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,66266355,66266355,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,64145902,64145902,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,57937105,57937105,,,anti-sigma F factor antagonist
+SpoIIAA,spoIIAA,56926959,56926959,,,anti-sigma F factor antagonist
+SpoIIAB,spoIIAB,61925756,61925756,,,anti-sigma F factor
+SpoIIAB,spoIIAB,67508711,67508711,,,anti-sigma F factor
+SpoIIAB,spoIIAB,67525075,67525075,,,anti-sigma F factor
+SpoIIAB,spoIIAB,66870416,66870416,,,anti-sigma F factor
+SpoIIAB,spoIIAB,66266356,66266356,,,anti-sigma F factor
+SpoIIAB,spoIIAB,56350237,56350237,,,anti-sigma F factor
+SpoIIAB,spoIIAB,56926958,56926958,,,anti-sigma F factor
+SpoIIAB,spoIIAB,66215509,66215509,,,anti-sigma F factor
+SpoIIAB,spoIIAB,61290259,61290259,,,anti-sigma F factor
+SpoIIAB,spoIIAB,66577005,66577005,,,anti-sigma F factor
+SpoIIE,spoIIE,64181020,64181020,,,stage II sporulation protein E
+SpoIIE,spoIIE,65400882,65400882,,,stage II sporulation protein E
+SpoIIE,spoIIE,66318539,66318539,,,stage II sporulation protein E
+SpoIIE,spoIIE,67521809,67521809,,,stage II sporulation protein E
+SpoIIE,spoIIE,67504754,67504754,,,stage II sporulation protein E
+SpoIIE,spoIIE,65307516,65307516,,,stage II sporulation protein E
+SpoIIE,spoIIE,29419002,29419002,,,stage II sporulation protein E
+SpoIIE,spoIIE,66379840,66379840,,,stage II sporulation protein E
+SpoIIE,spoIIE,66355952,66355952,,,stage II sporulation protein E
+SpoIIE,spoIIE,66264884,66264884,,,stage II sporulation protein E
+SpoIIID,spoIIID,64180402,64180402,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,67526243,67526243,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,67509908,67509908,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,61291095,61291095,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,66352673,66352673,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,66872681,66872681,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,67474058,67474058,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,57937355,57937355,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,64144401,64144401,,,sporulation transcriptional regulator SpoIIID
+SpoIIID,spoIIID,60852135,60852135,,,sporulation transcriptional regulator SpoIIID
+YdjP,ydjP,936035,936035,,,putative aminoacrylate hydrolase
+YdjP,ydjP,59269610,59269610,,,AB hydrolase superfamily protein YdjP
+YdjP,ydjP,41986063,41986063,,,AB hydrolase superfamily protein
+YdjP,ydjP,59241809,59241809,,,AB hydrolase superfamily protein YdjP
+YfhM,yfhM,58460728,58460728,,,alpha2-macroglobulin
+YfhM,yfhM,66673592,66673592,,,alpha2-macroglobulin
+YfhM,yfhM,912952,912952,,,bacterial alpha2-macroglobulin colonization factor ECAM
+YfhM,yfhM,947302,947302,,4RTD,alpha2-macroglobulin
+YfhM,yfhM,67416904,67416904,,,alpha2-macroglobulin
+YfhM,yfhM,66507508,66507508,,,alpha-2-macroglobulin family protein
+YfhP,yfhP,936190,936190,,,putative membrane hydrolase
+YfhP,yfhP,1254066,1254066,,,Fe-S cluster assembly transcriptional regulator IscR
+ald,ald,56578464,56578464,,,alanine dehydrogenase
+araE,araE,58388562,58388562,,,pseudo
+araE,araE,58461984,58461984,,,arabinose-proton symporter AraE
+araE,araE,60896740,60896740,,,arabinose-proton symporter AraE
+araE,araE,66673292,66673292,,,arabinose-proton symporter AraE
+araE,araE,1025850,1025850,,,low-affinity L-arabinose transport system proton symport protein
+araE,araE,938567,938567,,,arabinose-related compounds permease
+araE,araE,1254539,1254539,,,arabinose:proton symporter
+araE,araE,64305162,64305162,,,arabinose-proton symporter AraE
+araE,araE,947341,947341,,,arabinose:H(+) symporter
+araE,araE,59248142,59248142,,,Arabinose-proton symporter
+cot,BD324DRAFT_622579,33557297,33557297,,,acyltransferase ChoActase/COT/CPT
+cot,BD324DRAFT_630438,33558140,33558140,,,acyltransferase ChoActase/COT/CPT
+cot,PGRI_070870,63710101,63710101,,,Acyltransferase ChoActase/COT/CPT
+cot,BD324DRAFT_604005,33555778,33555778,,,acyltransferase ChoActase/COT/CPT
+cot,CC77DRAFT_937923,29120173,29120173,,,acyltransferase ChoActase/COT/CPT
+cot,PGRI_052570,63708270,63708270,,,Acyltransferase ChoActase/COT/CPT
+cot,HD556DRAFT_1404780,64597712,64597712,,,acyltransferase ChoActase/COT/CPT
+cot,LY89DRAFT_718753,28828168,28828168,,,acyltransferase ChoActase/COT/CPT
+cot,HD556DRAFT_1327703,64595344,64595344,,,acyltransferase ChoActase/COT/CPT
+cot,HD556DRAFT_1233074,64591326,64591326,,,acyltransferase ChoActase/COT/CPT
+degR,degR,939076,939076,,,"activator of degradative enzymes (aprE, nprE, sacB) production or activity"
+degR,degR,64303969,64303969,,,transcriptional regulator DegR
+flgM,flgM,29368091,29368091,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,61634614,61634614,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,63996145,63996145,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,63996282,63996282,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,58136145,58136145,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,56892376,56892376,,,anti-sigma-28 factor FlgM
+flgM,flgM,60843264,60843264,,,flagellar biosynthesis anti-sigma factor FlgM
+flgM,flgM,60899375,60899375,,,anti-sigma-28 factor FlgM
+flgM,flgM,60900649,60900649,,,anti-sigma-28 factor FlgM
+flgM,flgM,58461735,58461735,,,anti-sigma-28 factor FlgM
+ftsY,ftsY,56578635,56578635,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,28662812,28662812,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,60897334,60897334,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,61388150,61388150,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,63961911,63961911,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,56450188,56450188,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,60990731,60990731,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,45959451,45959451,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,49971916,49971916,,,signal recognition particle-docking protein FtsY
+ftsY,ftsY,61635655,61635655,,,signal recognition particle-docking protein FtsY
+gerE,gerE,67509142,67509142,,,spore germination transcription factor GerE
+gerE,gerE,64145575,64145575,,,spore germination transcription factor GerE
+gerE,gerE,56350726,56350726,,,spore germination transcription factor GerE
+gerE,gerE,66215028,66215028,,,spore germination transcription factor GerE
+gerE,gerE,64321401,64321401,,,spore germination transcription factor GerE
+gerE,gerE,64185797,64185797,,,spore germination transcription factor GerE
+gerE,gerE,937462,937462,,1,transcriptional regulator required for the expression of late spore coat genes
+gerE,gerE,66265945,66265945,,,spore germination transcription factor GerE
+gerE,gerE,56418751,56418751,,,spore germination transcription factor GerE
+gerE,gerE,61769551,61769551,,1,spore germination transcription factor GerE
+gsiB,gsiB,57505915,57505915,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,61387047,61387047,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,60899176,60899176,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,58389748,58389748,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,66826530,66826530,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,60904109,60904109,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,66024510,66024510,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,66604753,66604753,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,66670896,66670896,,,glutathione ABC transporter substrate-binding protein GsiB
+gsiB,gsiB,64205989,64205989,,,glutathione ABC transporter substrate-binding protein GsiB
+hag,hag,67526020,67526020,,,flagellin Hag
+hag,hag,61289445,61289445,,,flagellin Hag
+hag,hag,66214269,66214269,,,flagellin Hag
+hag,hag,61573243,61573243,,,flagellin Hag
+hag,hag,936742,936742,,5MAW,flagellin protein
+hag,hag,64835215,64835215,,,flagellin Hag
+hag,hag,64834604,64834604,,,flagellin Hag
+hag,hag,66217858,66217858,,,flagellin Hag
+hag,hag,61767149,61767149,,,flagellin Hag
+hag,hag,61767119,61767119,,,flagellin Hag
+katX,katX,937399,937399,,,major catalase in spores
+katX,katX,61768349,61768349,,,catalase KatX
+katX,katX,64305644,64305644,,,catalase KatX
+katX,katX,66323906,66323906,,,catalase KatX
+katX,katX,66324443,66324443,,,catalase KatX
+katX,katX,66361564,66361564,,,catalase KatX
+kdgR,kdgR,58135177,58135177,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,58390962,58390962,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,60899997,60899997,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,58462263,58462263,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,57504219,57504219,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,60930800,60930800,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,61417730,61417730,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,64089510,64089510,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,66256221,66256221,,,DNA-binding transcriptional regulator KdgR
+kdgR,kdgR,60895596,60895596,,,DNA-binding transcriptional regulator KdgR
+nadE,nadE,64000872,64000872,,,NAD(+) synthase
+nadE,nadE,64441650,64441650,,,ammonia-dependent NAD(+) synthetase
+nadE,nadE,63961576,63961576,,,NAD(+) synthase
+nadE,nadE,29370959,29370959,,,ammonia-dependent NAD(+) synthetase
+nadE,nadE,61639402,61639402,,,ammonia-dependent NAD(+) synthetase
+nadE,nadE,61931103,61931103,,,pseudo
+nadE,nadE,56451503,56451503,,,NAD(+) synthase
+nadE,nadE,61324240,61324240,,,NAD(+) synthase
+nadE,nadE,57107934,57107934,,,NAD(+) synthase
+nadE,nadE,45956627,45956627,,,ammonia-dependent NAD(+) synthetase
+phrC,phrC,938281,938281,,,secreted regulator of the activity of phosphatase RapC and competence and sporulation stimulating factor (CSF)
+phrC,phrC,64302239,64302239,,4,phosphatase RapC inhibitor PhrC
+rocG,rocG,937066,937066,,3,glutamate dehydrogenase
+rocG,rocG,64305552,64305552,,,glutamate dehydrogenase
+rocG,rocG,50135643,50135643,,,glutamate dehydrogenase
+rsfA,rsfA,64305535,64305535,,,prespore-specific transcription regulator RsfA
+rsfA,rsfA,886794,886794,,,anti-sigma-F factor antagonist RsfA
+rsfA,rsfA,45425345,45425345,,,anti-sigma-F factor antagonist RsfA
+sigW,sigW,61035854,61035854,,,pseudo
+sigW,sigW,67521937,67521937,,,RNA polymerase sigma factor SigW
+sigW,sigW,56347329,56347329,,,RNA polymerase sigma factor SigW
+sigW,sigW,66217655,66217655,,,RNA polymerase sigma factor SigW
+sigW,sigW,56924268,56924268,,,RNA polymerase sigma factor SigW
+sigW,sigW,64149702,64149702,,,RNA polymerase sigma factor SigW
+sigW,sigW,64324749,64324749,,,RNA polymerase sigma factor SigW
+sigW,sigW,64220741,64220741,,,RNA polymerase sigma factor SigW
+sigW,sigW,31573823,31573823,,,RNA polymerase sigma factor SigW
+sigW,sigW,42292116,42292116,,,RNA polymerase sigma factor SigW
+sigX,sigX,61634485,61634485,,,RNA polymerase sigma factor SigX
+sigX,sigX,67525050,67525050,,,RNA polymerase sigma factor SigX
+sigX,sigX,66821469,66821469,,,RNA polymerase sigma factor SigX
+sigX,sigX,67381977,67381977,,,RNA polymerase sigma factor SigX
+sigX,sigX,66215552,66215552,,,RNA polymerase sigma factor SigX
+sigX,sigX,64444111,64444111,,,RNA polymerase sigma factor SigX
+sigX,sigX,56926909,56926909,,,RNA polymerase sigma factor SigX
+sigX,sigX,47558120,47558120,,,RNA polymerase sigma factor SigX
+sigX,sigX,55647537,55647537,,,RNA polymerase sigma factor SigX
+sigX,sigX,58475401,58475401,,,RNA polymerase sigma factor SigX
+sigma 28,28,2700879,2700879,,,XRE family transcriptional regulator
+sigma 28,28,1259241,1259241,,,tail protein
+sigma 28,28,2657235,2657235,,,tape measure protein
+sigma 28,28,2610588,2610588,,,baseplate hub distal subunit
+sigma 28,28,3416218,3416218,,,gp28 baseplate distal hub subunit
+sigma 28,28,4156543,4156543,,,gp28 base plate distal hub sub
+sigma 28,28,3342512,3342512,,,Gp28
+sigma 28,28,6940453,6940453,,,gp28
+sigma 28,28,7397763,7397763,,,gp28
+sigma 28,28,8250781,8250781,,,DUF2856 family protein
+sigma 32,32,3416343,3416343,,,single-stranded DNA binding protein
+sigma 32,32,2700883,2700883,,,hypothetical protein
+sigma 32,32,1259245,1259245,,,hypothetical protein
+sigma 32,32,2657166,2657166,,,hypothetical protein
+sigma 32,32,2610511,2610511,,,single-stranded DNA binding protein
+sigma 32,32,10323315,10323315,,,gp32 single-stranded DNA binding protein
+sigma 32,32,4156574,4156574,,,single-stranded DNA binding protein
+sigma 32,32,3342508,3342508,,,gp32
+sigma 32,32,6940979,6940979,,,gp32
+sigma 32,32,7397767,7397767,,,gp32
+sigma B,B,44798,44798,,,Bar
+sigma B,B,100532763,100532763,,,Brown
+sigma B,B,1260630,1260630,,,gpB
+sigma B,B,1260691,1260691,,,internal scaffolding protein
+sigma B,B,8658815,8658815,,,AAA family ATPase
+sigma B,B,3959394,3959394,,,gpB
+sigma B,B,3959442,3959442,,,gpB
+sigma B,B,3959421,3959421,,,gpB
+sigma B,B,3959339,3959339,,,gpB
+sigma B,B,3959408,3959408,,,gpB
+sigma F,f,32718,32718,FBgn0262111,,forked
+sigma F,F,37626949,37626949,,,fusion glycoprotein
+sigma F,F,37626966,37626966,,,fusion protein
+sigma F,F,951246,951246,,,fusion protein
+sigma F,F,1482628,1482628,,,fusion protein precursor
+sigma F,F,21011775,21011775,,,fusion protein
+sigma F,F,1446467,1446467,,1WP8,fusion
+sigma F,F,920954,920954,,1WP7,fusion protein
+sigma F,f,14340128,14340128,,,f protein
+sigma F,F,14014247,14014247,,,fusion protein
+sigma G,g,44819,44819,FBgn0001087,,garnet
+sigma G,G,101260158,101260158,Solyc08g005010.3,,protein STAY-GREEN
+sigma G,G,100787147,100787147,GLYMA_01G198500,,protein STAY-GREEN
+sigma G,G,920955,920955,,2VSM,attachment glycoprotein
+sigma G,G,926730,926730,,,glycoprotein
+sigma G,G,37626962,37626962,,,attachment glycoprotein
+sigma G,G,5309643,5309643,,,glycoprotein
+sigma G,G,26122642,26122642,,,glycoprotein
+sigma G,G,2886019,2886019,,,G
+sigma G,G,14857928,14857928,,,glycoprotein
+sigma X,X,955443,955443,,,X protein
+sigma X,X,11272600,11272600,,,X protein
+sigma X,X,1260605,1260605,,,tail protein X
+sigma X,X,1260718,1260718,,,gene X product
+sigma X,X,5729509,5729509,,,assembly
+sigma X,X,17312461,17312461,,,unknown precursor
+sigma X,X,18504810,18504810,,,tail protein
+sigma X,X,37616323,37616323,,,PP3
+sigma X,X,21011794,21011794,,,X protein
+sigma X,X,1260892,1260892,,,gene X product
+sigma(54),FOB87_RS09540,66734415,66734415,,,sigma 54 type regulator
+sigma(54),KPHS_39890,11849032,11849032,,,sigma-54 modulation protein
+sigma(54),FDG86_gp082,40069118,40069118,,,sigma 54 modulation factor
+sigma(B),S3,36167244,36167244,,,sigma B
+sigma(B),A6I63_sS2gp1,27246470,27246470,,,Sigma B
+sigma(F),spoIIAB,61925756,61925756,,,anti-sigma F factor
+sigma(F),spoIIAB,67508711,67508711,,,anti-sigma F factor
+sigma(F),spoIIAB,67525075,67525075,,,anti-sigma F factor
+sigma(F),DP125_RS05515,64179676,64179676,,,anti-sigma F factor
+sigma(F),NPD11_RS10410,60853571,60853571,,,anti-sigma F factor
+sigma(F),spoIIAB,66870416,66870416,,,anti-sigma F factor
+sigma(F),spoIIAB,66266356,66266356,,,anti-sigma F factor
+sigma(F),CTK_RS04300,29419696,29419696,,,anti-sigma F factor
+sigma(F),spoIIAB,56350237,56350237,,,anti-sigma F factor
+sigma(F),spoIIAB,56926958,56926958,,,anti-sigma F factor
+sigma(G),csfB,64301845,64301845,,,anti-sigma-G factor
+sigma(G),CHH52_RS20725,61575350,61575350,,,"sigma-G inhibitor, Gin"
+sigma(X),comW,66805180,66805180,,,sigma(X)-activator ComW
+sigma(X),DIC78_RS19900,50137194,50137194,,,sigma-X negative effector
+sigma(X),comW,69059837,69059837,,,sigma(X)-activator ComW
+sigma(X),comW,48424286,48424286,,,sigma(X)-activator ComW
+spo0A,spo0A,61925934,61925934,,,sporulation transcription factor Spo0A
+spo0A,spo0A,61926679,61926679,,,sporulation transcription factor Spo0A
+spo0A,spo0A,65305978,65305978,,,sporulation transcription factor Spo0A
+spo0A,spo0A,67525139,67525139,,,sporulation transcription factor Spo0A
+spo0A,spo0A,64197391,64197391,,,sporulation transcription factor Spo0A
+spo0A,spo0A,64179507,64179507,,,sporulation transcription factor Spo0A
+spo0A,spo0A,56863220,56863220,,,sporulation transcription factor Spo0A
+spo0A,spo0A,66870379,66870379,,,sporulation transcription factor Spo0A
+spo0A,spo0A,66344603,66344603,,,sporulation transcription factor Spo0A
+spo0A,spo0A,66353625,66353625,,,sporulation transcription factor Spo0A
+spoIVA,spoIVA,61925956,61925956,,,stage IV sporulation protein A
+spoIVA,spoIVA,67525010,67525010,,,stage IV sporulation protein A
+spoIVA,spoIVA,64178916,64178916,,,stage IV sporulation protein A
+spoIVA,spoIVA,67506211,67506211,,,stage IV sporulation protein A
+spoIVA,spoIVA,66319601,66319601,,,stage IV sporulation protein A
+spoIVA,spoIVA,64196354,64196354,,,stage IV sporulation protein A
+spoIVA,spoIVA,60853320,60853320,,,stage IV sporulation protein A
+spoIVA,spoIVA,66577047,66577047,,,stage IV sporulation protein A
+spoIVA,spoIVA,66344125,66344125,,,stage IV sporulation protein A
+spoIVA,spoIVA,66355027,66355027,,,stage IV sporulation protein A
+spoVG,spoVG,57753963,57753963,,,septation regulator SpoVG
+spoVG,spoVG,66318566,66318566,,,septation regulator SpoVG
+spoVG,spoVG,64181043,64181043,,,septation regulator SpoVG
+spoVG,spoVG,60840278,60840278,,,septation regulator SpoVG
+spoVG,spoVG,65400857,65400857,,,septation regulator SpoVG
+spoVG,spoVG,67521792,67521792,,,septation regulator SpoVG
+spoVG,spoVG,61500129,61500129,,,septation regulator SpoVG
+spoVG,spoVG,64048794,64048794,,,septation regulator SpoVG
+spoVG,spoVG,66868843,66868843,,,septation regulator SpoVG
+spoVG,spoVG,66537342,66537342,,,septation regulator SpoVG
+sspE,sspE,939716,939716,,,small acid-soluble spore protein (gamma-type SASP)
+sspE,sspE,64302719,64302719,,,gamma type acid-soluble spore protein SspE
+sspJ,sspJ,66214516,66214516,,,small acid-soluble spore protein SspJ
+sspJ,sspJ,2914269,2914269,,,small acid-soluble spore protein
+sspJ,sspJ,66323367,66323367,,,small acid-soluble spore protein SspJ
+sspJ,sspJ,66324975,66324975,,,small acid-soluble spore protein SspJ
+sspL,sspL,67524918,67524918,,,"small, acid-soluble spore protein L"
+sspL,sspL,66869578,66869578,,,"small, acid-soluble spore protein L"
+sspL,sspL,56350121,56350121,,,"small, acid-soluble spore protein L"
+sspL,sspL,56925759,56925759,,,"small, acid-soluble spore protein L"
+sspL,sspL,64147900,64147900,,,"small, acid-soluble spore protein L"
+sspL,sspL,2914255,2914255,,,small acid-soluble spore protein
+sspL,sspL,64835759,64835759,,,"small, acid-soluble spore protein L"
+sspL,sspL,66215659,66215659,,,"small, acid-soluble spore protein L"
+sspL,sspL,65402851,65402851,,,"small, acid-soluble spore protein L"
+sspL,sspL,64303975,64303975,,,"small, acid-soluble spore protein L"
+tagD,tagD,66537657,66537657,,,glycerol-3-phosphate cytidylyltransferase
+tagD,tagD,61176104,61176104,,,glycerol-3-phosphate cytidylyltransferase
+tagD,tagD,64196007,64196007,,,glycerol-3-phosphate cytidylyltransferase
+tagD,tagD,61927917,61927917,,,glycerol-3-phosphate cytidylyltransferase
+tagD,tagD,64314608,64314608,,,glycerol-3-phosphate cytidylyltransferase
+ydaG,ydaG,939958,939958,,,putative general stress protein
+ydaG,ydaG,945907,945907,,,Rac prophage; uncharacterized protein YdaG
+ydhD,ydhD,1024840,1024840,,,glutaredoxin-4
+ydhD,ydhD,1252951,1252951,,,Grx4 family monothiol glutaredoxin
+yfhP,yfhP,936190,936190,,,putative membrane hydrolase
+yfhP,yfhP,1254066,1254066,,,Fe-S cluster assembly transcriptional regulator IscR
+yfhR,yfhR,915154,915154,,,hypothetical protein
+yfhR,yfhR,945059,945059,,,putative peptidase

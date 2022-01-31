@@ -1,0 +1,130 @@
+surface,symbol,_id,entrezgene,ensembl_id,pdb_id,name
+Amyloid,SAA2,6289,6289,ENSG00000134339,,serum amyloid A2
+Amyloid,IAPP,3375,3375,ENSG00000121351,1KUW,islet amyloid polypeptide
+Amyloid,SAA1,6288,6288,,4IP8,serum amyloid A1
+CK2,GL50803_0027520,5699818,5699818,,,"Kinase, CMGC CK2"
+CK2,BOVATA_002800,39872557,39872557,,,CMGC CK2 kinase
+CK2,TGME49_268810,7894578,7894578,TGME49_268810,,ck2 beta subunit
+CK2,BESB_052060,40310135,40310135,,,ck2 beta subunit
+CK2,FSUBG_8518,59321651,59321651,,,CMGC CK2 kinase
+CK2,FSUBG_9134,59322333,59322333,,,CMGC CK2 kinase
+CK2,FTJAE_4592,59303281,59303281,,,CMGC CK2 kinase
+CK2,FTJAE_7707,59306721,59306721,,,CMGC CK2 kinase
+IP3,ip3,24019742,24019742,,,LAGLIDADG type homing endonuclease
+IP3,ip3,26632423,26632423,,,putative internal head protein
+IPs,IPS,544226,544226,Solyc04g054740.3,,inositol-3-phosphate synthase
+IPs,ips,8310374,8310374,,,isopenicillin N synthase ips/PcbC-Penicillium chrysogenum
+"Inositol 1,4,5-trisphosphate",ITPR3,3710,3710,ENSG00000096433,6DQJ,"inositol 1,4,5-trisphosphate receptor type 3"
+"Inositol 1,4,5-trisphosphate",ITPR2,3709,3709,ENSG00000123104,,"inositol 1,4,5-trisphosphate receptor type 2"
+"Inositol 1,4,5-trisphosphate",ITPRIP,85450,85450,ENSG00000148841,,"inositol 1,4,5-trisphosphate receptor interacting protein"
+"Inositol 1,4,5-trisphosphate",ITPR1,3708,3708,ENSG00000150995,,"inositol 1,4,5-trisphosphate receptor type 1"
+Neuropeptide Y,y,30980,30980,FBgn0004034,,yellow
+PI-PLC,PI-PLC,39868277,39868277,,,"phosphoinositide-specific phospholipase C, putative"
+PI-PLC,PI-PLC,39732427,39732427,,,"phosphoinositide-specific phospholipase C, putative"
+PI-PLC,PI-PLC,39735790,39735790,,,"phosphoinositide-specific phospholipase C, putative"
+PKC-alpha,LOAG_06588,9944004,9944004,LOAG_06588,,AGC/PKC/ALPHA protein kinase
+PrPc,prpC,61281966,61281966,,,2-methylcitrate synthase
+PrPc,prpC,64000254,64000254,,,2-methylcitrate synthase
+PrPc,prpC,61323071,61323071,,,2-methylcitrate synthase
+PrPc,prpC,58138337,58138337,,,2-methylcitrate synthase
+PrPc,prpC,64002955,64002955,,,2-methylcitrate synthase
+PrPc,prpC,56447771,56447771,,,2-methylcitrate synthase
+PrPc,prpC,61634505,61634505,,,2-methylcitrate synthase
+PrPc,prpC,60254242,60254242,,,2-methylcitrate synthase
+PrPc,prpC,60848387,60848387,,,2-methylcitrate synthase
+PrPc,prpC,64351127,64351127,,,2-methylcitrate synthase
+UCP,UCP,102585221,102585221,PGSC0003DMG400020356,,mitochondrial uncoupling protein 1-like
+UCP,UCP,544201,544201,Solyc09g011920.3,,putative uncoupling protein
+alpha-amylase,LOC112215526,112215526,112215526,ENSOTSG00005024379,,alpha-amylase
+alpha-amylase,LOC108232787,108232787,108232787,ENSKMAG00000020787,,alpha-amylase
+amylase,amylase,104931258,104931258,ENSLCRG00005019010,,pancreatic alpha-amylase
+amylase,amylase,103396493,103396493,ENSCSEG00000016221,,pancreatic alpha-amylase-like
+amyloid,SAA2,6289,6289,ENSG00000134339,,serum amyloid A2
+amyloid,SAA1,6288,6288,,4IP8,serum amyloid A1
+amyloid,IAPP,3375,3375,ENSG00000121351,1KUW,islet amyloid polypeptide
+bPrP,bprP,56530038,56530038,,,type III secretion system regulator BprP
+bPrP,bprP,56597898,56597898,,,type III secretion system regulator BprP
+cholesterol,LCAT,3931,3931,ENSG00000213398,4X96,lecithin-cholesterol acyltransferase
+cholesterol,CH25H,9023,9023,ENSG00000138135,,cholesterol 25-hydroxylase
+cholesterol,CLQTL1,54501,54501,,,cholesterol-lowering factor
+gibberellic acid,ACID,100326236,100326236,,,Acid flavor
+gibberellic acid,ACID,100326244,100326244,,,Acid flavor
+gibberellin A3,A3,114173705,114173705,,,probable ureide permease A3
+gibberellin A3,A3,100145915,100145915,,,actin A3
+gibberellin A3,A3,5657641,5657641,,,A3
+gibberellin A3,A3,11464180,11464180,,,protein A3
+"inositol (1,4,5)-trisphosphate",ITPR3,3710,3710,ENSG00000096433,6DQJ,"inositol 1,4,5-trisphosphate receptor type 3"
+"inositol (1,4,5)-trisphosphate",ITPR2,3709,3709,ENSG00000123104,,"inositol 1,4,5-trisphosphate receptor type 2"
+"inositol (1,4,5)-trisphosphate",ITPRIP,85450,85450,ENSG00000148841,,"inositol 1,4,5-trisphosphate receptor interacting protein"
+"inositol (1,4,5)-trisphosphate",ITPR1,3708,3708,ENSG00000150995,,"inositol 1,4,5-trisphosphate receptor type 1"
+"inositol 1,4,5-trisphosphate",ITPR3,3710,3710,ENSG00000096433,6DQJ,"inositol 1,4,5-trisphosphate receptor type 3"
+"inositol 1,4,5-trisphosphate",ITPR2,3709,3709,ENSG00000123104,,"inositol 1,4,5-trisphosphate receptor type 2"
+"inositol 1,4,5-trisphosphate",ITPRIP,85450,85450,ENSG00000148841,,"inositol 1,4,5-trisphosphate receptor interacting protein"
+"inositol 1,4,5-trisphosphate",ITPR1,3708,3708,ENSG00000150995,,"inositol 1,4,5-trisphosphate receptor type 1"
+inositol trisphosphate,ITPKC,80271,80271,ENSG00000086544,2,inositol-trisphosphate 3-kinase C
+inositol trisphosphate,ITPKA,3706,3706,ENSG00000137825,1W2C,inositol-trisphosphate 3-kinase A
+inositol trisphosphate,ITPKB,3707,3707,ENSG00000143772,,inositol-trisphosphate 3-kinase B
+"inositol-1,4,5-trisphosphate",ITPR3,3710,3710,ENSG00000096433,6DQJ,"inositol 1,4,5-trisphosphate receptor type 3"
+"inositol-1,4,5-trisphosphate",ITPR2,3709,3709,ENSG00000123104,,"inositol 1,4,5-trisphosphate receptor type 2"
+"inositol-1,4,5-trisphosphate",ITPRIP,85450,85450,ENSG00000148841,,"inositol 1,4,5-trisphosphate receptor interacting protein"
+"inositol-1,4,5-trisphosphate",ITPR1,3708,3708,ENSG00000150995,,"inositol 1,4,5-trisphosphate receptor type 1"
+kinase,MAP4K3,8491,8491,ENSG00000011566,5,mitogen-activated protein kinase kinase kinase kinase 3
+kinase,MAP4K1,11184,11184,,6CQD,mitogen-activated protein kinase kinase kinase kinase 1
+kinase,MAP4K2,5871,5871,ENSG00000168067,,mitogen-activated protein kinase kinase kinase kinase 2
+kinase,MAP4K5,11183,11183,ENSG00000012983,,mitogen-activated protein kinase kinase kinase kinase 5
+kinase,MAP4K4,9448,9448,ENSG00000071054,4OBO,mitogen-activated protein kinase kinase kinase kinase 4
+neuropeptide Y,y,30980,30980,FBgn0004034,,yellow
+phospholipase C-gamma,PLCG2,5336,5336,ENSG00000197943,2K2J,phospholipase C gamma 2
+phospholipase C-gamma,PLCG1,5335,5335,ENSG00000124181,1HSQ,phospholipase C gamma 1
+protein kinase,PKN3,29941,29941,ENSG00000160447,,protein kinase N3
+protein kinase,PRKD3,23683,23683,ENSG00000115825,2,protein kinase D3
+protein kinase,MOK,5891,5891,ENSG00000080823,,MOK protein kinase
+protein kinase,PKN1,5585,5585,ENSG00000123143,1CXZ,protein kinase N1
+protein kinase,PRKD2,25865,25865,ENSG00000105287,2COA,protein kinase D2
+protein kinase,PRKD1,5587,5587,ENSG00000184304,,protein kinase D1
+protein kinase,DMPK,1760,1760,ENSG00000104936,1WT6,DM1 protein kinase
+protein kinase,TTK,7272,7272,ENSG00000112742,2X9E,TTK protein kinase
+protein kinase,PKN2,5586,5586,ENSG00000065243,4CRS,protein kinase N2
+protein kinase CK2,ck2b,445589,445589,ENSCING00000003902,,protein kinase Ck2-beta
+protein kinase CK2,CNF02800,3258311,3258311,CNF02800,,"protein kinase CK2, putative"
+protein kinase CK2,TRIADDRAFT_6279,6750615,6750615,TriadG6279,,protein kinase Ck2-beta
+protein kinase CK2,Chro.30219,3413537,3413537,,,protein kinase Ck2-beta
+tyrosine kinase,FER,2241,2241,ENSG00000151422,2KK6,FER tyrosine kinase
+tyrosine kinase,TXK,7294,7294,ENSG00000074966,2,TXK tyrosine kinase
+tyrosine kinase,BTK,695,695,ENSG00000010671,1AWW,Bruton tyrosine kinase
+tyrosine kinase,TYK2,7297,7297,ENSG00000105397,3LXN,tyrosine kinase 2
+ucp,UCP,102585221,102585221,PGSC0003DMG400020356,,mitochondrial uncoupling protein 1-like
+ucp,UCP,544201,544201,Solyc09g011920.3,,putative uncoupling protein
+uncoupling protein,UCP1,7350,7350,ENSG00000109424,,uncoupling protein 1
+uncoupling protein,UCP2,7351,7351,ENSG00000175567,,uncoupling protein 2
+uncoupling protein,UCP3,7352,7352,ENSG00000175564,,uncoupling protein 3
+uncoupling protein 2,2,18990000,18990000,,,hypothetical protein
+uncoupling protein 2,2,2610712,2610712,,,DNA end protector protein
+uncoupling protein 2,2,921009,921009,,,PBSX family terminase large subunit
+uncoupling protein 2,2,1732947,1732947,,,terminase large subunit
+uncoupling protein 2,2,2657174,2657174,,,terminase
+uncoupling protein 2,2,1259214,1259214,,,hypothetical protein
+uncoupling protein 2,2,2700963,2700963,,,terminase small subunit
+uncoupling protein 2,2,3416180,3416180,,,DNA end protector protein
+uncoupling protein 2,2,1262411,1262411,,,inhibitor of host bacterial RNA polymerase
+uncoupling protein 2,2,2777092,2777092,,,terminase large subunit
+uncoupling protein 3,3,18990001,18990001,,,hypothetical protein
+uncoupling protein 3,3,2610711,2610711,,,tail completion and sheath stabilizer protein
+uncoupling protein 3,3,920975,920975,,4,terminase small subunit
+uncoupling protein 3,3,1732929,1732929,,,portal protein
+uncoupling protein 3,3,2657220,2657220,,,hypothetical protein
+uncoupling protein 3,3,1259215,1259215,,,hypothetical protein
+uncoupling protein 3,3,2886020,2886020,,,3
+uncoupling protein 3,3,2700964,2700964,,,terminase
+uncoupling protein 3,3,3416178,3416178,,,tail completion and sheath stabilizer protein
+uncoupling protein 3,3,1262376,1262376,,,endonuclease I
+uncoupling proteins 2,2,18990000,18990000,,,hypothetical protein
+uncoupling proteins 2,2,2610712,2610712,,,DNA end protector protein
+uncoupling proteins 2,2,921009,921009,,,PBSX family terminase large subunit
+uncoupling proteins 2,2,1732947,1732947,,,terminase large subunit
+uncoupling proteins 2,2,2657174,2657174,,,terminase
+uncoupling proteins 2,2,1259214,1259214,,,hypothetical protein
+uncoupling proteins 2,2,2700963,2700963,,,terminase small subunit
+uncoupling proteins 2,2,3416180,3416180,,,DNA end protector protein
+uncoupling proteins 2,2,1262411,1262411,,,inhibitor of host bacterial RNA polymerase
+uncoupling proteins 2,2,2777092,2777092,,,terminase large subunit

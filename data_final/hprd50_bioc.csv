@@ -1,0 +1,198 @@
+surface,symbol,_id,entrezgene,ensembl_id,pdb_id,name
+ADAM 12,Adam,105221322,105221322,,,eukaryotic translation initiation factor 3 subunit J
+AP-1,FOSB,2354,2354,ENSG00000125740,5VPA,"FosB proto-oncogene, AP-1 transcription factor subunit"
+AP-1,JUND,3727,3727,ENSG00000130522,3U86,"JunD proto-oncogene, AP-1 transcription factor subunit"
+AP-1,FOSL2,2355,2355,ENSG00000075426,,"FOS like 2, AP-1 transcription factor subunit"
+AP-1,FOS,2353,2353,ENSG00000170345,1A02,"Fos proto-oncogene, AP-1 transcription factor subunit"
+AP-1,JUN,3725,3725,ENSG00000177606,1A02,"Jun proto-oncogene, AP-1 transcription factor subunit"
+AP-1,JUNB,3726,3726,ENSG00000171223,,"JunB proto-oncogene, AP-1 transcription factor subunit"
+AP-1,FOSL1,8061,8061,ENSG00000175592,,"FOS like 1, AP-1 transcription factor subunit"
+BCL-6,LOC101470062,101470062,101470062,ENSMZEG00005011975,,BCL-6 corepressor
+BCL-6,LOC105921873,105921873,105921873,,,BCL-6 corepressor
+BCL-6,LOC108228717,108228717,108228717,,,BCL-6 corepressor
+CB1,LOC110493735,110493735,110493735,ENSOMYG00000021755,,CB1 cannabinoid receptor-interacting protein 1
+CB1,LOC110486023,110486023,110486023,ENSOMYG00000037698,,CB1 cannabinoid receptor-interacting protein 1
+CB1,LOC112265376,112265376,112265376,ENSOTSG00005010806,,CB1 cannabinoid receptor-interacting protein 1
+CD43,LOC288521,288521,288521,ENSRNOG00000028414,,similar to Leukosialin precursor (Leucocyte sialoglycoprotein) (Sialophorin) (CD43) (W3/13 antigen)
+CD43,MGC112692,498157,498157,ENSRNOG00000039282,,similar to Leukosialin precursor (Leucocyte sialoglycoprotein) (Sialophorin) (CD43) (W3/13 antigen)
+CD45,ACTC,100532354,100532354,,,CD8+CD25+CD45+ cell number
+CD45,MCTC,100531238,100531238,,,CD8+CD26+CD45+ cell number
+CD45,MTHC,100531796,100531796,,,CD4+CD26+CD45+ cell number
+CD45,ACTC,100531237,100531237,,,CD8+CD25+CD45+ cell number
+CG beta,cg,36571,36571,FBgn0000289,,combgap
+CG beta alpha,cg,36571,36571,FBgn0000289,,combgap
+CdGAP,arhgap31,100489741,100489741,ENSXETG00000024732,,Rho GTPase activating protein 31
+CdGAP,arhgap31.S,108709277,108709277,,,Rho GTPase activating protein 31 S homeolog
+CdGAP,LOC108911457,108911457,108911457,,,GTPase-activating protein CdGAPr
+CdGAP,LOC105233133,105233133,105233133,,,GTPase-activating protein CdGAPr
+E2-2,LOC104938077,104938077,104938077,ENSLCRG00005000753,,ubiquitin-conjugating enzyme E2 2
+E2-2,LOC101486314,101486314,101486314,ENSMZEG00005003871,,ubiquitin-conjugating enzyme E2 2
+E2-2,LOC105922383,105922383,105922383,ENSFHEG00000015558,,ubiquitin-conjugating enzyme E2 2
+FGF-1,fgf-1,13842678,13842678,,,fibrobast growth factor 1
+FGF-1,fgf-1,5184183,5184183,,,fgf-1
+FGF-1,fgf-1,20712741,20712741,,,fibroblast growth factor 1
+FGF-1,fgf-1,4155902,4155902,,,FGF-1
+FGF-2,fgf-2,13842641,13842641,,,fibroblast growth factor 2
+FGF-2,fgf-2,5184230,5184230,,,fgf-2
+FGF-2,fgf-2,20712838,20712838,,,fibroblast growth factor 2
+FGF-2,fgf-2,4155959,4155959,,,FGF-2
+FSH beta,FSH,449319,449319,,,Plasma FSH concentration
+FSH beta,FSH,449320,449320,,,Plasma FSH concentration
+FSH beta,FSH,449321,449321,,,Plasma FSH concentration
+FSH beta,FSH,449322,449322,,,Plasma FSH concentration
+GAP,gap,56576184,56576184,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,60895259,60895259,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,64442285,64442285,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,60683174,60683174,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,61049851,61049851,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,58136766,58136766,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,63962780,63962780,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,64001931,64001931,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,61282201,61282201,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GAP,gap,61282407,61282407,,,type I glyceraldehyde-3-phosphate dehydrogenase
+GC-GAP,arhgap32.S,108697571,108697571,,,Rho GTPase activating protein 32 S homeolog
+GC-GAP,arhgap32.L,444120,444120,,,Rho GTPase activating protein 32 L homeolog
+IL-6,il-6,503562,503562,ENSTRUG00000008735,,interleukin-6
+IL-6,IL-6,100628202,100628202,,,interleukin-6
+IL-8,il-8,100136039,100136039,ENSOMYG00000022444,,cxc chemokine-like
+IL-8,IL-8,102090447,102090447,,,interleukin-8
+IL-8,il-8,100534479,100534479,ENSONIG00000029754,,interleukin-8
+Janus kinase 2,2,18990000,18990000,,,hypothetical protein
+Janus kinase 2,2,2610712,2610712,,,DNA end protector protein
+Janus kinase 2,2,921009,921009,,,PBSX family terminase large subunit
+Janus kinase 2,2,1732947,1732947,,,terminase large subunit
+Janus kinase 2,2,2657174,2657174,,,terminase
+Janus kinase 2,2,1259214,1259214,,,hypothetical protein
+Janus kinase 2,2,2700963,2700963,,,terminase small subunit
+Janus kinase 2,2,3416180,3416180,,,DNA end protector protein
+Janus kinase 2,2,1262411,1262411,,,inhibitor of host bacterial RNA polymerase
+Janus kinase 2,2,2777092,2777092,,,terminase large subunit
+MCP-1,mcp-1,178982,178982,WBGene00015678,,GDP-D-glucose phosphorylase 1
+MCP-1,MCP-1,100127112,100127112,ENSFCAG00000038488,,monocyte chemoattractant protein 1
+MCP-1,MCP-1,100009115,100009115,,,macrophage cationic peptide 1
+NF-E2-related factor 2,2,18990000,18990000,,,hypothetical protein
+NF-E2-related factor 2,2,2610712,2610712,,,DNA end protector protein
+NF-E2-related factor 2,2,921009,921009,,,PBSX family terminase large subunit
+NF-E2-related factor 2,2,1732947,1732947,,,terminase large subunit
+NF-E2-related factor 2,2,2657174,2657174,,,terminase
+NF-E2-related factor 2,2,1259214,1259214,,,hypothetical protein
+NF-E2-related factor 2,2,2700963,2700963,,,terminase small subunit
+NF-E2-related factor 2,2,3416180,3416180,,,DNA end protector protein
+NF-E2-related factor 2,2,1262411,1262411,,,inhibitor of host bacterial RNA polymerase
+NF-E2-related factor 2,2,2777092,2777092,,,terminase large subunit
+Nck,NCK2,8440,8440,ENSG00000071051,1U5S,NCK adaptor protein 2
+Nck,NCKAP1,10787,10787,ENSG00000061676,3P8C,NCK associated protein 1
+Nck,NCKAP5,344148,344148,ENSG00000176771,,NCK associated protein 5
+Nck,NCK1,4690,4690,ENSG00000158092,2CI8,NCK adaptor protein 1
+P-selectin glycoprotein ligand 1,1,1262422,1262422,,,T3/T7-like RNA polymerase
+P-selectin glycoprotein ligand 1,1,3416177,3416177,,,deoxynucleoside monophosphate kinase
+P-selectin glycoprotein ligand 1,1,920970,920970,,,portal protein
+P-selectin glycoprotein ligand 1,1,1732943,1732943,,,P27 family terminase small subunit
+P-selectin glycoprotein ligand 1,1,1259213,1259213,,,hypothetical protein
+P-selectin glycoprotein ligand 1,1,2700962,2700962,,,HNH endonuclease
+P-selectin glycoprotein ligand 1,1,2657180,2657180,,,adenylate kinase
+P-selectin glycoprotein ligand 1,1,2610612,2610612,,,deoxynucleoside monophosphate kinase
+P-selectin glycoprotein ligand 1,1,1258857,1258857,,,gp1
+P-selectin glycoprotein ligand 1,1,10323382,10323382,,,gp3 dNMP kinase
+PC-3,STEHIDRAFT_149157,18799890,18799890,,,cytochrome P450 monooxygenase pc-3
+PC-3,STEHIDRAFT_170913,18803778,18803778,,,cytochrome P450 monooxygenase pc-3
+PC-3,CONPUDRAFT_53865,19207612,19207612,,,cytochrome P450 monooxygenase pc-3
+PC-3,CONPUDRAFT_80804,19210133,19210133,,,cytochrome P450 monooxygenase pc-3
+PC-3,TRAVEDRAFT_162686,19410540,19410540,,,cytochrome P450 monooxygenase pc-3
+PC-3,TRAVEDRAFT_143276,19409323,19409323,,,cytochrome P450 monooxygenase pc-3
+PC-3,STEHIDRAFT_137138,18798606,18798606,,,cytochrome P450 monooxygenase pc-3
+PC-3,STEHIDRAFT_164953,18802710,18802710,,,cytochrome P450 monooxygenase pc-3
+PC-3,STEHIDRAFT_73339,18806779,18806779,,,cytochrome P450 monooxygenase pc-3
+PC-3,EDB91DRAFT_1152595,64613381,64613381,,,cytochrome P450 monooxygenase pc-3
+PLCgamma1,plcg1.L,398359,398359,,,phospholipase C gamma 1 L homeolog
+PLCgamma1,plcg1.S,398360,398360,,,phospholipase C gamma 1 S homeolog
+TFIIB,TfIIB,34430,34430,FBgn0004915,,Transcription factor IIB
+TFIIB,TFIIB,818761,818761,AT2G41630,,transcription factor IIB
+TFIIB,tfIIB,10447427,10447427,,,TATA binding protein of transcription factor IID
+TFIIB,TFIIB,7897817,7897817,TGME49_292010,,transcription initiation factor IIB
+TFIIB,tfIIB,857211,857211,,,transcription initiation factor IIB
+TFIIB,TFIIB,860312,860312,,,transcription initiation factor
+TFIIB,tfIIB,5788553,5788553,,,transcription initiation factor IIB
+TFIID,tfIID,10446983,10446983,,,TATA binding protein of transcription factor IID
+TFIID,tfIId,857553,857553,,,TATA binding protein of transcription factor IID
+TFIID,tfIID,857259,857259,,,TATA binding protein of transcription factor IID
+TFIID,tfIId,5788292,5788292,,,TfIId
+Tat-binding protein-1,PGRI_045670,63707580,63707580,,,Tat binding protein 1-interacting
+Tat-binding protein-1,CC77DRAFT_519456,29117600,29117600,,,Tat binding protein 1-interacting
+Tat-binding protein-1,PEX2_019270,27674621,27674621,,,Tat binding protein 1-interacting
+Tat-binding protein-1,OT_ostta04g02600,9834366,9834366,,,Tat binding protein 1-interacting
+Tat-binding protein-1,SAICODRAFT_39827,30185470,30185470,,,Tat binding protein 1-interacting
+Tat-binding protein-1,K460DRAFT_433673,63855627,63855627,,,Tat binding protein 1-interacting
+Tat-binding protein-1,BDR25DRAFT_236371,54426196,54426196,,,Tat binding protein 1-interacting
+amyloid,SAA2,6289,6289,ENSG00000134339,,serum amyloid A2
+amyloid,SAA1,6288,6288,,4IP8,serum amyloid A1
+amyloid,IAPP,3375,3375,ENSG00000121351,1KUW,islet amyloid polypeptide
+beta 2 integrin,betA,60681909,60681909,,,choline dehydrogenase
+beta 2 integrin,betA,61051597,61051597,,,choline dehydrogenase
+beta 2 integrin,betA,60253976,60253976,,,choline dehydrogenase
+beta 2 integrin,betA,45956561,45956561,,,choline dehydrogenase
+beta 2 integrin,betA,58138987,58138987,,,choline dehydrogenase
+beta 2 integrin,betA,66383652,66383652,,,choline dehydrogenase
+beta 2 integrin,betA,58391691,58391691,,,choline dehydrogenase
+beta 2 integrin,betA,61316828,61316828,,,choline dehydrogenase
+beta 2 integrin,betA,61635557,61635557,,,choline dehydrogenase
+beta 2 integrin,betA,60851331,60851331,,,choline dehydrogenase
+cAMP-response-element-binding-protein,Tsp_08903,10902445,10902445,EFV61908,,cAMP response element-binding protein
+cAMP-response-element-binding-protein,Tsp_12770,10908188,10908188,EFV49459,,cAMP response element-binding protein
+desmoplakin,desmoplakin,1463319,1463319,,,desmoplakin
+desmoplakin,desmoplakin,951777,951777,,,putative desmoplakin
+desmoplakin,desmoplakin,26374019,26374019,,,desmoplakin
+desmoplakin,desmoplakin,26040012,26040012,,,Desmoplakin
+elafin,LOC100295842,100295842,100295842,,,elafin
+elafin,LOC407165,407165,407165,,,elafin
+elafin,LOC101731845,101731845,101731845,,,elafin
+elafin,LOC112304141,112304141,112304141,,,elafin
+elafin,LOC123329151,123329151,123329151,,,elafin
+elafin,LOC123329149,123329149,123329149,,,elafin
+elafin,LOC102412687,102412687,102412687,,,elafin
+elafin,LOC112578696,112578696,112578696,,,elafin
+elafin,LOC102392539,102392539,102392539,,,elafin
+elafin,LOC101389019,101389019,101389019,,,elafin
+glutathione S-transferase,GSTT2B,653689,653689,,1LJR,glutathione S-transferase theta 2B
+glutathione S-transferase,MGST2,4258,4258,ENSG00000085871,6SSR,microsomal glutathione S-transferase 2
+glutathione S-transferase,GSTA3,2940,2940,ENSG00000174156,1TDI,glutathione S-transferase alpha 3
+glutathione S-transferase,GSTA4,2941,2941,ENSG00000170899,1GUL,glutathione S-transferase alpha 4
+glutathione S-transferase,GSTM3,2947,2947,ENSG00000134202,3,glutathione S-transferase mu 3
+glutathione S-transferase,GSTM4,2948,2948,ENSG00000168765,4,glutathione S-transferase mu 4
+glutathione S-transferase,GSTM5,2949,2949,ENSG00000134201,,glutathione S-transferase mu 5
+glutathione S-transferase,GSTA5,221357,221357,ENSG00000182793,,glutathione S-transferase alpha 5
+glutathione S-transferase,GSTT4,25774,25774,,,glutathione S-transferase theta 4
+glutathione S-transferase,GSTA2,2939,2939,ENSG00000244067,1AGS,glutathione S-transferase alpha 2
+gp130,gp130,101268915,101268915,ENSOMYG00000031654,,interleukin 6 signal transducer GP130 protein precursor
+low density lipoprotein receptor,RECEPTOR,443145,443145,,,neuropilin-1
+low density lipoprotein receptor,Low,44325,44325,,,Lightener of white
+oncostatin M,m,44835,44835,FBgn0002577,,miniature
+oncostatin M,M,10040185,10040185,,,matrix protein
+oncostatin M,M,21011774,21011774,,,matrix protein
+oncostatin M,M,37626947,37626947,,,matrix protein
+oncostatin M,M,926732,926732,,,matrix protein
+oncostatin M,M,929212,929212,,,terminase endonuclease subunit
+oncostatin M,M,951245,951245,,,matrix protein
+oncostatin M,M,37626965,37626965,,,matrix protein
+oncostatin M,M,11272603,11272603,,,matrix protein
+oncostatin M,M,6030685,6030685,,,terminase endonuclease subunit
+serum albumin,LOC102455806,102455806,102455806,ENSPSIG00000010012,,serum albumin
+serum albumin,LOC102044659,102044659,102044659,ENSGFOG00000006000,,serum albumin
+serum albumin,LOC117799414,117799414,117799414,,,serum albumin
+serum albumin,LOC110563998,110563998,110563998,,,serum albumin
+serum albumin,LOC102574207,102574207,102574207,,,serum albumin
+serum albumin,LOC101732409,101732409,101732409,,,serum albumin
+serum albumin,LOC102574907,102574907,102574907,,,serum albumin
+serum albumin,LOC101359043,101359043,101359043,,,serum albumin
+serum albumin,LOC102772889,102772889,102772889,,,serum albumin
+serum albumin,LOC102244948,102244948,102244948,,,serum albumin
+sialoadhesin,LOC105008515,105008515,105008515,ENSELUG00000016420,,sialoadhesin
+sialoadhesin,LOC105923343,105923343,105923343,ENSFHEG00000016033,,sialoadhesin
+sialoadhesin,si:dkey-33i11.1,112143564,112143564,ENSOMEG00000017129,,sialoadhesin
+sialoadhesin,LOC101171522,101171522,101171522,ENSORLG00000006072,,sialoadhesin
+sialoadhesin,LOC110519918,110519918,110519918,ENSOMYG00000040511,,sialoadhesin
+sialoadhesin,LOC102079681,102079681,102079681,ENSONIG00000006928,,sialoadhesin
+sialoadhesin,LOC102077851,102077851,102077851,ENSONIG00000001593,,sialoadhesin
+sialoadhesin,LOC109199535,109199535,109199535,ENSONIG00000032580,,sialoadhesin
+sialoadhesin,LOC105008758,105008758,105008758,ENSELUG00000032781,,sialoadhesin
+sialoadhesin,LOC101863749,101863749,101863749,,,sialoadhesin
