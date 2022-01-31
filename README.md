@@ -41,8 +41,8 @@ best_score
 
 summary.txt
 	タンパク質を用いての検索の結果どれくらいの割合でクエリに結果が返ってきたのか
-	![クエリ結果数一覧表](https://github.com/TRMT-Yuka/Proteins_NER/README_img/table_1.jpg)
-	![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/README_img/bar_graph_1.jpg)
+	![クエリ結果数一覧表](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/table_1.png)
+	![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
 
 
 ### Generative_Model
