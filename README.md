@@ -41,9 +41,18 @@ best_score
 
 summary.txt
 	タンパク質を用いての検索の結果どれくらいの割合でクエリに結果が返ってきたのか
-	![クエリ結果数一覧表](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/table_1.png)
+
+| データ名 | 単一結果 | 複数結果 | 結果無し | 検索エラー | 合計 | 
+| -------- | -------: | -------: | -------: | ---------: | ---: | 
+| amied    | 642      | 407      | 85       | 4          | 1138 | 
+| bioinfer | 439      | 530      | 77       | 6          | 1052 | 
+| hprd50   | 120      | 67       | 2        | 0          | 189  | 
+| iepa     | 59       | 54       | 14       | 3          | 130  | 
+| lll      | 28       | 71       | 19       | 3          | 121  | 
+
 	![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
 
+momomomomo
 
 ### Generative_Model
 https://github.com/duttaprat/PPI_Generative
