@@ -91,7 +91,8 @@ TRUE:FALES = 1000 : 47291
 | iepa     | 59       | 54       | 14       | 3          | 130  | 
 | lll      | 28       | 71       | 19       | 3          | 121  | 
 
-![可視化グラフ](https://github.com/TRMT-Yuka/Proteins_NER/blob/main/README_img/bar_graph_1.png)
+![可視化グラフ](https://github.com/TRMT-Yuka/Protein_Eigen_Expression_Extraction_Project
+/blob/main/README_img/bar_graph_1.png)
 
 
 ### Generative_Model
